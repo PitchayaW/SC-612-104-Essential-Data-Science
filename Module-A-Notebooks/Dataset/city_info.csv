@@ -1,0 +1,24 @@
+city,country,region,population_millions,timezone
+Bangkok,Thailand,Asia,10.7,UTC+7
+Chiang Mai,Thailand,Asia,0.13,UTC+7
+Tokyo,Japan,Asia,13.9,UTC+9
+Singapore,Singapore,Asia,5.9,UTC+8
+Beijing,China,Asia,21.5,UTC+8
+Mumbai,India,Asia,20.4,UTC+5:30
+London,UK,Europe,9.0,UTC+0
+Paris,France,Europe,2.1,UTC+1
+Berlin,Germany,Europe,3.7,UTC+1
+Moscow,Russia,Europe,12.5,UTC+3
+New York,USA,North America,8.3,UTC-5
+Los Angeles,USA,North America,3.9,UTC-8
+Mexico City,Mexico,North America,9.2,UTC-6
+Toronto,Canada,North America,2.9,UTC-5
+Sao Paulo,Brazil,South America,12.3,UTC-3
+Buenos Aires,Argentina,South America,3.1,UTC-3
+Lima,Peru,South America,9.7,UTC-5
+Cairo,Egypt,Africa,9.5,UTC+2
+Lagos,Nigeria,Africa,15.4,UTC+1
+Nairobi,Kenya,Africa,4.4,UTC+3
+Cape Town,South Africa,Africa,4.6,UTC+2
+Sydney,Australia,Oceania,5.3,UTC+10
+Auckland,New Zealand,Oceania,1.7,UTC+12

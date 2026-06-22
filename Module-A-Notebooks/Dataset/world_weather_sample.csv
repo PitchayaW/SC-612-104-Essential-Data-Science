@@ -1,0 +1,2076 @@
+record_id,date,city,country,region,temperature_c,humidity_pct,rainfall_mm,wind_speed_kmh,pressure_hpa
+983,2025-03-24,New York,USA,North America,15.7,72.6,6.3,15.9,1005.4
+220,2025-02-09,Tokyo,Japan,Asia,18.3,60.6,0.0,20.5,1015.1
+1022,2025-02-01,Los Angeles,USA,North America,20.6,46.8,1.2,8.6,1013.5
+469,2025-01-19,Mumbai,India,Asia,31.0,73.4,8.0,11.8,1000.1
+1834,2025-02-03,Cape Town,South Africa,Africa,19.1,55.0,0.0,16.6,1015.1
+2057,2025-03-18,Auckland,New Zealand,Oceania,19.7,77.5,8.2,16.4,1013.7
+1394,2025-02-13,Buenos Aires,Argentina,South America,22.1,63.4,2.7,14.6,1018.0
+1126,2025-02-15,Mexico City,Mexico,North America,19.6,60.6,6.8,10.1,1015.2
+1382,2025-02-01,Buenos Aires,Argentina,South America,20.8,58.7,1.6,9.8,1007.7
+1027,2025-02-06,Los Angeles,USA,North America,21.5,61.8,2.6,17.7,1003.5
+886,2025-03-17,Moscow,Russia,Europe,6.0,70.8,0.0,15.6,1010.1
+1776,2025-03-07,Nairobi,Kenya,Africa,21.8,57.8,0.0,18.4,1009.1
+434,2025-03-15,Beijing,China,Asia,14.3,38.5,0.0,13.6,1015.8
+825,2025-01-15,Moscow,Russia,Europe,4.5,66.9,5.8,16.2,1014.8
+1414,2025-03-05,Buenos Aires,Argentina,South America,19.2,64.9,2.2,24.6,1000.5
+863,2025-02-22,Moscow,Russia,Europe,8.3,54.0,4.0,17.3,1010.5
+1423,2025-03-14,Buenos Aires,Argentina,South America,19.4,69.3,8.3,9.3,1019.4
+1955,2025-03-06,Sydney,Australia,Oceania,11.8,67.3,,13.7,1011.2
+1707,2025-03-28,Lagos,Nigeria,Africa,28.8,70.5,8.9,23.3,1020.6
+1520,2025-03-21,Lima,Peru,South America,21.3,62.4,0.0,21.0,1014.5
+1170,2025-03-31,Mexico City,Mexico,North America,19.6,81.4,0.0,9.5,1009.6
+1700,2025-03-21,Lagos,Nigeria,Africa,32.8,86.3,11.8,4.3,1019.4
+638,2025-01-08,Paris,France,Europe,15.9,62.4,6.6,20.4,1024.0
+1635,2025-01-15,Lagos,Nigeria,Africa,26.7,92.1,8.1,10.3,1010.2
+357,2025-03-28,Singapore,Singapore,Asia,28.5,79.3,3.0,19.6,1013.5
+334,2025-03-05,Singapore,Singapore,Asia,31.5,150.0,7.0,20.0,1016.3
+1353,2025-01-03,Buenos Aires,Argentina,South America,20.3,66.4,4.2,25.0,1000.3
+679,2025-02-18,Paris,France,Europe,11.0,65.6,2.7,14.5,1024.8
+495,2025-02-14,Mumbai,India,Asia,33.5,88.9,2.9,6.7,1014.8
+314,2025-02-13,Singapore,Singapore,Asia,30.0,80.5,11.1,5.6,1009.8
+2051,2025-03-12,Auckland,New Zealand,Oceania,17.4,86.0,6.1,10.4,1013.3
+1106,2025-01-26,Mexico City,Mexico,North America,17.2,66.9,3.1,,1012.3
+2039,2025-02-28,Auckland,New Zealand,Oceania,16.3,75.9,8.3,14.9,1011.0
+1822,2025-01-22,Cape Town,South Africa,Africa,,71.1,3.8,24.2,1015.5
+1462,2025-01-22,Lima,Peru,South America,12.9,83.2,6.7,8.7,1007.2
+1365,2025-01-15,Buenos Aires,Argentina,South America,24.0,82.7,0.0,18.3,1017.5
+1868,2025-03-09,Cape Town,South Africa,Africa,20.2,76.1,1.2,15.2,1013.1
+1017,2025-01-27,Los Angeles,USA,North America,17.3,150.0,1.3,8.6,1018.7
+517,2025-03-08,Mumbai,India,Asia,32.6,73.1,5.8,22.3,1019.6
+1671,2025-02-20,Lagos,Nigeria,Africa,26.3,77.5,8.7,19.6,1026.2
+2000,2025-01-20,Auckland,New Zealand,Oceania,19.6,62.0,1.2,18.0,1016.9
+464,2025-01-14,Mumbai,India,Asia,30.0,76.7,3.5,11.7,1006.4
+1705,2025-03-26,Lagos,Nigeria,Africa,30.4,83.6,5.0,8.9,1002.5
+1582,2025-02-21,Cairo,Egypt,Africa,,45.7,,19.6,1017.7
+545,2025-01-05,London,UK,Europe,16.2,74.0,0.0,23.9,1024.8
+615,2025-03-16,London,UK,Europe,11.7,91.6,3.8,24.8,1008.6
+305,2025-02-04,Singapore,Singapore,Asia,33.3,84.7,8.1,9.2,1010.8
+979,2025-03-20,New York,USA,North America,14.9,52.2,0.7,14.3,1006.6
+1159,2025-03-20,Mexico City,Mexico,North America,16.8,37.9,4.2,15.8,1011.3
+525,2025-03-16,Mumbai,India,Asia,33.6,76.3,6.3,23.5,1015.5
+2010,2025-01-30,Auckland,New Zealand,Oceania,17.3,81.6,4.8,17.7,1015.6
+408,2025-02-17,Beijing,China,Asia,,48.1,0.0,14.8,1002.4
+1165,2025-03-26,Mexico City,Mexico,North America,21.1,60.1,0.0,22.2,1009.4
+260,2025-03-21,Tokyo,Japan,Asia,19.7,67.4,2.8,16.6,1014.9
+116,2025-01-26,Chiang Mai,Thailand,Asia,23.2,66.9,8.1,6.1,1019.9
+723,2025-01-03,Berlin,Germany,Europe,10.3,70.9,1.3,17.4,1017.2
+866,2025-02-25,Moscow,Russia,Europe,10.9,63.2,5.6,25.2,1010.6
+1781,2025-03-12,Nairobi,Kenya,Africa,22.5,61.7,0.1,16.0,1010.5
+1715,2025-01-05,Nairobi,Kenya,Africa,17.5,,5.6,22.3,1012.1
+1741,2025-01-31,Nairobi,Kenya,Africa,25.0,55.3,0.0,18.8,1023.5
+1268,2025-01-08,Sao Paulo,Brazil,South America,20.8,77.5,3.2,15.8,1012.7
+1013,2025-01-23,Los Angeles,USA,North America,18.8,63.4,0.0,7.0,1017.5
+999,2025-01-09,Los Angeles,USA,North America,13.4,60.5,0.5,18.4,1009.1
+917,2025-01-17,New York,USA,North America,14.7,54.1,3.0,19.7,1011.9
+1905,2025-01-15,Sydney,Australia,Oceania,21.6,80.9,6.8,28.0,1007.5
+1609,2025-03-20,Cairo,Egypt,Africa,26.4,43.5,0.0,20.7,1018.7
+479,2025-01-29,Mumbai,India,Asia,25.3,62.6,0.0,11.1,1012.5
+53,2025-02-22,Bangkok,Thailand,Asia,30.8,74.5,0.0,8.9,1011.5
+1533,2025-01-03,Cairo,Egypt,Africa,26.6,46.1,0.0,19.0,1018.4
+770,2025-02-19,Berlin,Germany,Europe,15.1,78.7,0.1,14.1,1004.4
+747,2025-01-27,Berlin,Germany,Europe,13.9,63.4,0.0,15.9,1017.8
+441,2025-03-22,Beijing,China,Asia,21.4,43.5,4.9,7.2,1007.3
+406,2025-02-15,Beijing,China,Asia,16.3,59.4,7.0,16.3,1010.1
+881,2025-03-12,Moscow,Russia,Europe,10.0,76.6,0.0,17.1,1012.2
+994,2025-01-04,Los Angeles,USA,North America,17.7,47.5,5.5,13.2,1021.7
+1638,2025-01-18,Lagos,Nigeria,Africa,24.9,86.5,9.5,19.1,1018.7
+1066,2025-03-17,Los Angeles,USA,North America,21.8,50.9,1.9,17.9,1002.5
+1008,2025-01-18,Los Angeles,USA,North America,25.2,72.5,0.0,24.7,1015.3
+1841,2025-02-10,Cape Town,South Africa,Africa,999.0,61.2,0.0,13.3,1006.3
+10,2025-01-10,Bangkok,Thailand,Asia,28.9,71.3,12.2,17.1,1002.4
+282,2025-01-12,Singapore,Singapore,Asia,26.9,68.6,15.0,13.1,1011.5
+1567,2025-02-06,Cairo,Egypt,Africa,24.9,51.0,2.6,13.4,1014.3
+27,2025-01-27,Bangkok,Thailand,Asia,27.9,75.5,3.8,17.8,1007.5
+137,2025-02-16,Chiang Mai,Thailand,Asia,31.7,56.0,2.9,17.9,1005.7
+3,2025-01-03,Bangkok,Thailand,Asia,29.0,71.3,9.0,3.5,1002.7
+320,2025-02-19,Singapore,Singapore,Asia,28.5,,17.2,15.1,1008.6
+838,2025-01-28,Moscow,Russia,Europe,7.8,86.8,0.0,12.5,1012.6
+1459,2025-01-19,Lima,Peru,South America,12.9,69.9,0.0,9.1,1013.7
+1744,2025-02-03,Nairobi,Kenya,Africa,22.6,,4.6,18.1,1008.2
+2036,2025-02-25,Auckland,New Zealand,Oceania,17.8,77.4,6.2,24.1,1019.7
+1861,2025-03-02,Cape Town,South Africa,Africa,21.5,71.8,4.1,4.4,1019.0
+1648,2025-01-28,Lagos,Nigeria,Africa,30.8,89.3,3.1,24.7,1007.2
+1253,2025-03-24,Toronto,Canada,North America,16.5,71.2,2.4,16.8,1009.4
+859,2025-02-18,Moscow,Russia,Europe,9.3,64.6,0.0,13.7,1020.2
+1620,2025-03-31,Cairo,Egypt,Africa,33.6,54.2,4.7,17.6,1014.0
+112,2025-01-22,Chiang Mai,Thailand,Asia,27.4,61.1,3.3,17.4,1010.5
+1677,2025-02-26,Lagos,Nigeria,Africa,30.6,84.5,7.4,22.5,1013.7
+1849,2025-02-18,Cape Town,South Africa,Africa,21.9,64.5,1.9,8.4,1011.2
+960,2025-03-01,New York,USA,North America,13.3,65.9,0.0,2.7,1017.4
+1869,2025-03-10,Cape Town,South Africa,Africa,18.4,65.6,7.6,17.7,1013.2
+855,2025-02-14,Moscow,Russia,Europe,7.5,63.8,0.0,8.5,1000.9
+1892,2025-01-02,Sydney,Australia,Oceania,16.3,71.3,3.2,,1011.8
+599,2025-02-28,London,UK,Europe,18.2,82.8,3.3,13.7,1007.3
+262,2025-03-23,Tokyo,Japan,Asia,17.7,60.2,4.0,21.5,1015.8
+1488,2025-02-17,Lima,Peru,South America,22.7,68.8,0.8,5.9,1016.8
+569,2025-01-29,London,UK,Europe,13.7,65.9,8.9,8.0,1014.3
+1957,2025-03-08,Sydney,Australia,Oceania,20.5,73.6,0.0,16.9,1003.7
+501,2025-02-20,Mumbai,India,Asia,32.5,77.7,4.7,11.3,1006.5
+87,2025-03-28,Bangkok,Thailand,Asia,31.0,58.7,6.9,19.3,1022.0
+1655,2025-02-04,Lagos,Nigeria,Africa,25.6,90.5,4.9,12.7,1006.3
+1590,2025-03-01,Cairo,Egypt,Africa,24.1,54.0,3.2,20.9,1013.1
+133,2025-02-12,Chiang Mai,Thailand,Asia,28.3,60.6,4.9,11.7,1008.7
+687,2025-02-26,Paris,France,Europe,16.5,,5.1,14.4,1026.6
+203,2025-01-23,Tokyo,Japan,Asia,20.8,61.6,12.3,10.9,1023.4
+1195,2025-01-25,Toronto,Canada,North America,13.1,65.0,5.7,2.1,1015.7
+788,2025-03-09,Berlin,Germany,Europe,14.7,80.0,0.0,12.9,1008.4
+1466,2025-01-26,Lima,Peru,South America,22.5,84.4,2.6,6.7,1010.2
+1623,2025-01-03,Lagos,Nigeria,Africa,24.8,66.5,0.0,7.4,1007.7
+1175,2025-01-05,Toronto,Canada,North America,7.8,66.7,4.4,9.5,1020.6
+1473,2025-02-02,Lima,Peru,South America,19.3,80.3,5.2,11.7,1019.2
+1837,2025-02-06,Cape Town,South Africa,Africa,19.1,61.9,1.1,17.0,1012.0
+218,2025-02-07,Tokyo,Japan,Asia,19.5,68.2,5.0,13.4,1011.8
+1699,2025-03-20,Lagos,Nigeria,Africa,34.1,74.2,6.5,11.7,1007.1
+908,2025-01-08,New York,USA,North America,12.0,63.7,1.8,13.7,1017.6
+1202,2025-02-01,Toronto,Canada,North America,13.2,62.4,0.0,21.8,1008.0
+792,2025-03-13,Berlin,Germany,Europe,12.3,69.3,1.0,21.7,1014.1
+219,2025-02-08,Tokyo,Japan,Asia,18.3,59.7,6.9,15.3,1017.4
+1212,2025-02-11,Toronto,Canada,North America,15.4,65.6,7.1,30.9,1016.6
+731,2025-01-11,Berlin,Germany,Europe,11.8,74.4,3.8,10.0,1013.9
+526,2025-03-17,Mumbai,India,Asia,29.7,81.2,8.8,12.3,1010.1
+17,2025-01-17,Bangkok,Thailand,Asia,30.6,77.9,13.9,11.9,1008.1
+1380,2025-01-30,Buenos Aires,Argentina,South America,18.6,62.2,0.0,14.8,1004.2
+1028,2025-02-07,Los Angeles,USA,North America,20.6,58.8,3.9,10.8,1009.0
+1814,2025-01-14,Cape Town,South Africa,Africa,17.0,57.8,4.3,24.0,1017.3
+1613,2025-03-24,Cairo,Egypt,Africa,27.2,46.2,0.0,21.0,1007.7
+913,2025-01-13,New York,USA,North America,11.2,75.8,0.0,16.3,1017.8
+798,2025-03-19,Berlin,Germany,Europe,8.7,74.4,0.0,26.5,1008.4
+310,2025-02-09,Singapore,Singapore,Asia,31.7,72.0,10.2,19.6,1020.4
+147,2025-02-26,Chiang Mai,Thailand,Asia,30.8,57.2,6.6,4.8,1019.2
+524,2025-03-15,Mumbai,India,Asia,33.5,64.1,6.3,17.7,1021.7
+820,2025-01-10,Moscow,Russia,Europe,3.1,72.8,0.0,14.2,1013.4
+1333,2025-03-14,Sao Paulo,Brazil,South America,25.9,67.0,8.5,0.0,1008.7
+1537,2025-01-07,Cairo,Egypt,Africa,24.8,38.6,0.0,24.3,1019.0
+639,2025-01-09,Paris,France,Europe,11.6,77.7,12.1,11.3,1003.8
+1326,2025-03-07,Sao Paulo,Brazil,South America,18.5,75.0,10.8,11.5,1015.6
+1489,2025-02-18,Lima,Peru,South America,26.4,97.3,1.4,19.7,1002.3
+1154,2025-03-15,Mexico City,Mexico,North America,20.0,63.0,2.7,16.2,1003.3
+1496,2025-02-25,Lima,Peru,South America,26.6,57.0,1.8,26.5,1010.9
+757,2025-02-06,Berlin,Germany,Europe,12.0,67.4,0.0,8.0,1015.8
+1797,2025-03-28,Nairobi,Kenya,Africa,22.2,71.0,3.6,20.0,1011.6
+708,2025-03-19,Paris,France,Europe,19.9,77.4,0.0,14.7,1012.0
+2014,2025-02-03,Auckland,New Zealand,Oceania,17.1,75.8,5.7,16.3,1010.9
+1168,2025-03-29,Mexico City,Mexico,North America,19.9,42.8,8.8,7.6,1009.5
+16,2025-01-16,Bangkok,Thailand,Asia,33.1,75.7,6.8,15.6,1001.1
+64,2025-03-05,Bangkok,Thailand,Asia,33.6,80.5,6.8,16.9,1012.2
+1032,2025-02-11,Los Angeles,USA,North America,20.6,56.1,12.7,13.9,1006.2
+583,2025-02-12,London,UK,Europe,12.4,80.9,0.1,19.5,1017.1
+1359,2025-01-09,Buenos Aires,Argentina,South America,18.4,64.4,6.6,11.4,1011.8
+1676,2025-02-25,Lagos,Nigeria,Africa,29.8,71.1,3.3,19.9,1014.4
+946,2025-02-15,New York,USA,North America,7.9,,1.0,24.6,1013.1
+669,2025-02-08,Paris,France,Europe,16.3,70.1,0.0,22.4,1007.2
+45,2025-02-14,Bangkok,Thailand,Asia,38.6,60.1,10.7,5.3,1010.2
+452,2025-01-02,Mumbai,India,Asia,29.0,77.1,4.3,0.0,1014.2
+2062,2025-03-23,Auckland,New Zealand,Oceania,15.8,78.1,,14.1,1017.3
+565,2025-01-25,London,UK,Europe,12.0,84.8,2.8,6.6,1012.7
+142,2025-02-21,Chiang Mai,Thailand,Asia,31.6,54.8,12.0,2.5,1023.2
+1636,2025-01-16,Lagos,Nigeria,Africa,30.9,94.8,13.1,19.5,1011.5
+813,2025-01-03,Moscow,Russia,Europe,7.1,70.2,0.0,16.9,1007.0
+1779,2025-03-10,Nairobi,Kenya,Africa,22.0,64.2,0.3,8.5,1006.3
+722,2025-01-02,Berlin,Germany,Europe,8.2,63.8,6.3,6.9,1010.5
+489,2025-02-08,Mumbai,India,Asia,34.9,81.1,0.8,19.1,1010.0
+955,2025-02-24,New York,USA,North America,16.3,54.2,5.6,15.1,999.1
+1627,2025-01-07,Lagos,Nigeria,Africa,26.8,86.7,8.1,26.0,1003.8
+963,2025-03-04,New York,USA,North America,18.4,46.7,5.6,10.2,1014.8
+233,2025-02-22,Tokyo,Japan,Asia,12.9,78.3,0.0,5.1,1019.1
+1478,2025-02-07,Lima,Peru,South America,22.2,72.5,2.3,17.6,1018.0
+1683,2025-03-04,Lagos,Nigeria,Africa,30.2,90.1,2.8,16.6,1009.5
+7,2025-01-07,Bangkok,Thailand,Asia,29.0,89.8,7.9,8.7,1017.9
+51,2025-02-20,Bangkok,Thailand,Asia,29.9,82.3,16.5,21.2,1003.9
+714,2025-03-25,Paris,France,Europe,16.1,73.8,7.3,16.3,1018.4
+209,2025-01-29,Tokyo,Japan,Asia,22.1,56.3,8.3,14.8,1012.0
+1048,2025-02-27,Los Angeles,USA,North America,26.5,43.8,5.8,16.1,1018.0
+317,2025-02-16,Singapore,Singapore,Asia,31.4,89.2,4.9,15.4,1015.6
+1911,2025-01-21,Sydney,Australia,Oceania,20.3,65.6,5.2,13.6,1010.4
+351,2025-03-22,Singapore,Singapore,Asia,25.2,85.4,6.4,4.0,1016.1
+383,2025-01-23,Beijing,China,Asia,18.9,62.9,4.6,18.0,1002.2
+1875,2025-03-16,Cape Town,South Africa,Africa,17.1,,0.0,17.0,1008.1
+417,2025-02-26,Beijing,China,Asia,16.3,49.8,0.0,1.2,1009.7
+765,2025-02-14,Berlin,Germany,Europe,11.8,72.2,1.8,16.1,1009.0
+138,2025-02-17,Chiang Mai,Thailand,Asia,31.7,63.1,3.5,19.3,1015.7
+847,2025-02-06,Moscow,Russia,Europe,3.5,78.8,0.0,18.0,1003.6
+168,2025-03-19,Chiang Mai,Thailand,Asia,31.5,77.4,1.0,20.9,1011.7
+1241,2025-03-12,Toronto,Canada,North America,11.4,56.2,12.2,26.2,1006.0
+841,2025-01-31,Moscow,Russia,Europe,7.6,59.3,0.0,9.2,1013.7
+1493,2025-02-22,Lima,Peru,South America,20.6,74.7,,8.1,1025.7
+1217,2025-02-16,Toronto,Canada,North America,15.8,67.6,7.9,15.8,
+1917,2025-01-27,Sydney,Australia,Oceania,23.5,53.7,0.0,16.6,1019.9
+768,2025-02-17,Berlin,Germany,Europe,11.9,79.9,3.5,9.2,1011.1
+164,2025-03-15,Chiang Mai,Thailand,Asia,27.1,67.1,8.6,15.5,1019.4
+1879,2025-03-20,Cape Town,South Africa,Africa,20.6,77.1,1.1,14.8,1014.0
+1538,2025-01-08,Cairo,Egypt,Africa,25.8,41.0,2.2,13.6,1011.8
+79,2025-03-20,Bangkok,Thailand,Asia,31.7,78.9,2.7,26.0,1020.1
+503,2025-02-22,Mumbai,India,Asia,32.4,74.4,8.2,13.5,1012.2
+1405,2025-02-24,Buenos Aires,Argentina,South America,26.4,55.0,0.8,15.2,1019.8
+443,2025-03-24,Beijing,China,Asia,13.8,49.8,5.5,12.3,1010.2
+318,2025-02-17,Singapore,Singapore,Asia,32.7,81.4,7.5,10.0,1013.5
+154,2025-03-05,Chiang Mai,Thailand,Asia,28.8,64.7,12.1,11.2,1023.9
+1652,2025-02-01,Lagos,Nigeria,Africa,32.7,,7.9,13.1,1014.6
+836,2025-01-26,Moscow,Russia,Europe,8.0,67.9,3.2,25.9,1010.9
+1565,2025-02-04,Cairo,Egypt,Africa,26.8,51.8,0.0,16.7,1018.8
+1157,2025-03-18,Mexico City,Mexico,North America,17.8,52.5,4.8,27.6,1012.2
+496,2025-02-15,Mumbai,India,Asia,32.7,68.2,11.8,7.0,1017.2
+153,2025-03-04,Chiang Mai,Thailand,Asia,29.1,66.0,15.2,14.4,1019.9
+959,2025-02-28,New York,USA,North America,15.7,58.8,2.5,16.6,1012.1
+413,2025-02-22,Beijing,China,Asia,18.3,43.9,3.6,14.4,1014.6
+763,2025-02-12,Berlin,Germany,Europe,10.2,73.4,0.0,15.6,1005.4
+212,2025-02-01,Tokyo,Japan,Asia,16.4,59.8,8.7,18.3,1010.8
+755,2025-02-04,Berlin,Germany,Europe,14.8,66.0,0.0,10.4,1002.4
+1100,2025-01-20,Mexico City,Mexico,North America,15.2,57.0,0.4,1.8,1022.6
+1844,2025-02-13,Cape Town,South Africa,Africa,22.8,74.7,3.1,9.6,1010.5
+337,2025-03-08,Singapore,Singapore,Asia,32.7,79.8,5.4,16.9,1005.9
+254,2025-03-15,Tokyo,Japan,Asia,16.3,59.1,0.4,10.6,1020.4
+169,2025-03-20,Chiang Mai,Thailand,Asia,30.8,70.4,0.5,17.3,1014.0
+1509,2025-03-10,Lima,Peru,South America,24.2,74.7,4.2,23.1,1019.3
+1300,2025-02-09,Sao Paulo,Brazil,South America,23.5,80.0,9.7,14.6,1010.9
+1128,2025-02-17,Mexico City,Mexico,North America,21.7,74.7,0.0,13.0,1014.4
+374,2025-01-14,Beijing,China,Asia,9.8,53.3,6.5,8.5,1010.5
+1447,2025-01-07,Lima,Peru,South America,16.9,88.5,2.0,19.4,1009.2
+1483,2025-02-12,Lima,Peru,South America,24.3,75.8,0.1,17.4,1026.7
+1270,2025-01-10,Sao Paulo,Brazil,South America,20.9,68.5,10.1,8.0,1008.7
+502,2025-02-21,Mumbai,India,Asia,29.1,93.6,11.0,6.9,
+1211,2025-02-10,Toronto,Canada,North America,15.0,73.2,1.5,20.1,1015.0
+1775,2025-03-06,Nairobi,Kenya,Africa,25.2,60.7,0.0,13.2,1015.8
+624,2025-03-25,London,UK,Europe,15.6,76.4,0.0,21.3,1022.9
+330,2025-03-01,Singapore,Singapore,Asia,32.5,78.5,12.9,22.1,1028.5
+1830,2025-01-30,Cape Town,South Africa,Africa,14.7,63.0,0.1,11.9,1015.5
+70,2025-03-11,Bangkok,Thailand,Asia,34.3,63.4,2.4,10.7,1011.7
+249,2025-03-10,Tokyo,Japan,Asia,18.8,58.4,1.7,8.9,1009.1
+521,2025-03-12,Mumbai,India,Asia,27.1,75.0,3.5,7.9,1009.3
+670,2025-02-09,Paris,France,Europe,18.6,69.7,9.4,19.1,1012.2
+1406,2025-02-25,Buenos Aires,Argentina,South America,22.3,70.5,0.0,8.1,1014.9
+1324,2025-03-05,Sao Paulo,Brazil,South America,23.6,80.7,14.5,6.4,1011.6
+33,2025-02-02,Bangkok,Thailand,Asia,29.7,81.3,12.6,10.1,1018.8
+420,2025-03-01,Beijing,China,Asia,16.2,50.4,0.0,5.7,1017.9
+1247,2025-03-18,Toronto,Canada,North America,13.6,62.1,2.3,0.1,1011.7
+1105,2025-01-25,Mexico City,Mexico,North America,16.8,,6.0,11.3,1007.9
+709,2025-03-20,Paris,France,Europe,16.7,83.6,,8.5,1021.3
+293,2025-01-23,Singapore,Singapore,Asia,29.2,70.2,8.2,9.9,1009.5
+1452,2025-01-12,Lima,Peru,South America,24.4,74.3,3.6,11.5,1027.7
+1446,2025-01-06,Lima,Peru,South America,16.6,74.5,,16.0,1017.0
+175,2025-03-26,Chiang Mai,Thailand,Asia,30.5,58.6,0.0,10.6,1012.8
+1194,2025-01-24,Toronto,Canada,North America,10.9,71.8,7.9,17.0,1009.4
+1918,2025-01-28,Sydney,Australia,Oceania,15.9,68.3,5.3,2.6,1017.8
+1650,2025-01-30,Lagos,Nigeria,Africa,25.6,82.2,5.4,,1017.1
+1491,2025-02-20,Lima,Peru,South America,20.9,78.8,0.0,21.1,1006.7
+172,2025-03-23,Chiang Mai,Thailand,Asia,29.5,58.3,6.9,11.7,1016.8
+671,2025-02-10,Paris,France,Europe,13.3,69.3,4.7,15.5,1009.4
+654,2025-01-24,Paris,France,Europe,18.5,65.0,1.5,16.4,1016.9
+570,2025-01-30,London,UK,Europe,10.2,,0.0,11.4,1009.8
+1238,2025-03-09,Toronto,Canada,North America,10.8,68.3,7.7,14.9,1020.7
+577,2025-02-06,London,UK,Europe,7.8,61.0,0.6,17.7,996.5
+1975,2025-03-26,Sydney,Australia,Oceania,22.1,55.2,1.7,23.3,1014.9
+1390,2025-02-09,Buenos Aires,Argentina,South America,23.2,53.3,6.6,12.8,1017.2
+54,2025-02-23,Bangkok,Thailand,Asia,30.1,88.1,2.3,12.4,1013.8
+1420,2025-03-11,Buenos Aires,Argentina,South America,17.4,89.7,2.7,9.7,1004.6
+1393,2025-02-12,Buenos Aires,Argentina,South America,23.5,69.9,5.0,,1014.2
+94,2025-01-04,Chiang Mai,Thailand,Asia,26.7,69.9,8.0,11.8,1009.5
+727,2025-01-07,Berlin,Germany,Europe,12.0,64.9,1.1,19.5,1015.5
+968,2025-03-09,New York,USA,North America,16.9,58.3,0.0,23.1,1009.1
+1293,2025-02-02,Sao Paulo,Brazil,South America,21.2,61.8,4.3,,1005.8
+106,2025-01-16,Chiang Mai,Thailand,Asia,23.6,52.0,5.2,16.6,1007.6
+274,2025-01-04,Singapore,Singapore,Asia,27.9,79.8,5.3,12.3,1007.7
+875,2025-03-06,Moscow,Russia,Europe,4.2,63.6,0.0,15.8,1019.0
+157,2025-03-08,Chiang Mai,Thailand,Asia,31.1,54.3,6.5,18.7,1016.4
+234,2025-02-23,Tokyo,Japan,Asia,25.3,,6.3,18.6,1018.1
+1941,2025-02-20,Sydney,Australia,Oceania,20.5,68.6,5.3,15.0,1016.3
+1527,2025-03-28,Lima,Peru,South America,25.7,68.2,4.9,19.2,1024.1
+1661,2025-02-10,Lagos,Nigeria,Africa,33.2,78.2,4.1,15.8,1018.0
+685,2025-02-24,Paris,France,Europe,13.7,71.4,4.7,,1002.3
+1798,2025-03-29,Nairobi,Kenya,Africa,27.2,54.6,1.5,24.1,1010.3
+938,2025-02-07,New York,USA,North America,17.1,55.6,0.0,6.3,1010.1
+386,2025-01-26,Beijing,China,Asia,12.4,24.8,0.9,21.6,
+208,2025-01-28,Tokyo,Japan,Asia,21.8,50.2,0.0,16.3,1019.3
+222,2025-02-11,Tokyo,Japan,Asia,16.0,64.9,0.0,11.3,1024.5
+681,2025-02-20,Paris,France,Europe,16.3,76.6,3.8,14.4,1015.6
+984,2025-03-25,New York,USA,North America,17.5,70.5,1.5,23.1,1020.8
+465,2025-01-15,Mumbai,India,Asia,30.1,76.2,7.8,25.0,1013.0
+1296,2025-02-05,Sao Paulo,Brazil,South America,23.9,80.3,1.4,13.5,1014.8
+1297,2025-02-06,Sao Paulo,Brazil,South America,24.1,55.8,1.5,13.0,1017.2
+587,2025-02-16,London,UK,Europe,16.1,74.4,0.0,20.7,1018.3
+23,2025-01-23,Bangkok,Thailand,Asia,26.7,74.8,8.2,29.8,1011.8
+505,2025-02-24,Mumbai,India,Asia,31.7,93.9,7.5,13.1,1018.5
+2021,2025-02-10,Auckland,New Zealand,Oceania,21.1,79.6,0.0,11.0,1007.9
+1264,2025-01-04,Sao Paulo,Brazil,South America,22.1,90.6,2.9,20.7,1012.4
+308,2025-02-07,Singapore,Singapore,Asia,26.4,84.1,6.9,8.0,995.8
+1067,2025-03-18,Los Angeles,USA,North America,20.5,53.0,2.0,22.2,1008.4
+852,2025-02-11,Moscow,Russia,Europe,10.2,61.3,7.7,14.4,1007.7
+523,2025-03-14,Mumbai,India,Asia,33.4,60.9,5.2,15.0,1016.6
+1255,2025-03-26,Toronto,Canada,North America,12.1,70.9,2.6,8.5,1010.6
+1276,2025-01-16,Sao Paulo,Brazil,South America,23.8,,5.3,20.4,1013.4
+161,2025-03-12,Chiang Mai,Thailand,Asia,33.1,60.9,5.4,12.2,1010.4
+1898,2025-01-08,Sydney,Australia,Oceania,21.8,63.7,7.8,12.1,1014.6
+1729,2025-01-19,Nairobi,Kenya,Africa,24.3,53.8,8.6,16.1,1014.5
+2040,2025-03-01,Auckland,New Zealand,Oceania,19.8,,8.1,22.7,1014.8
+2003,2025-01-23,Auckland,New Zealand,Oceania,18.8,84.8,0.0,12.2,1017.9
+775,2025-02-24,Berlin,Germany,Europe,9.8,71.3,0.0,6.1,1008.6
+1771,2025-03-02,Nairobi,Kenya,Africa,27.1,54.0,0.0,3.0,1012.1
+1580,2025-02-19,Cairo,Egypt,Africa,24.7,55.6,0.0,7.0,1010.1
+92,2025-01-02,Chiang Mai,Thailand,Asia,25.2,64.1,0.9,11.7,1005.8
+1169,2025-03-30,Mexico City,Mexico,North America,21.9,48.4,0.0,2.3,1017.3
+1397,2025-02-16,Buenos Aires,Argentina,South America,17.6,78.5,1.9,11.0,1005.5
+1415,2025-03-06,Buenos Aires,Argentina,South America,24.6,60.5,0.0,22.1,1017.4
+561,2025-01-21,London,UK,Europe,12.9,,4.4,9.0,1012.4
+833,2025-01-23,Moscow,Russia,Europe,6.6,71.8,0.9,4.0,1010.4
+1873,2025-03-14,Cape Town,South Africa,Africa,24.4,76.3,1.9,15.8,1019.7
+1968,2025-03-19,Sydney,Australia,Oceania,24.5,73.2,7.7,9.0,1005.7
+1817,2025-01-17,Cape Town,South Africa,Africa,17.9,77.8,1.4,16.8,1021.3
+361,2025-01-01,Beijing,China,Asia,17.8,44.5,0.0,5.9,1002.2
+1846,2025-02-15,Cape Town,South Africa,Africa,20.3,61.1,0.0,4.4,1013.1
+1782,2025-03-13,Nairobi,Kenya,Africa,20.9,65.9,,18.4,1017.1
+1395,2025-02-14,Buenos Aires,Argentina,South America,18.1,67.6,10.6,22.0,1021.1
+419,2025-02-28,Beijing,China,Asia,17.2,47.4,4.5,,1019.2
+1722,2025-01-12,Nairobi,Kenya,Africa,22.7,48.6,11.0,0.0,1008.4
+2011,2025-01-31,Auckland,New Zealand,Oceania,12.6,83.1,1.3,8.4,1006.4
+1592,2025-03-03,Cairo,Egypt,Africa,31.8,44.7,8.6,15.5,1010.7
+540,2025-03-31,Mumbai,India,Asia,35.6,78.7,0.8,18.7,1021.0
+588,2025-02-17,London,UK,Europe,17.6,73.2,2.1,5.2,1010.6
+2013,2025-02-02,Auckland,New Zealand,Oceania,17.5,,7.5,25.7,1004.8
+232,2025-02-21,Tokyo,Japan,Asia,21.6,54.5,13.0,20.9,1011.1
+725,2025-01-05,Berlin,Germany,Europe,6.9,72.8,0.0,15.3,1024.4
+1718,2025-01-08,Nairobi,Kenya,Africa,20.9,74.9,0.0,10.8,1011.7
+402,2025-02-11,Beijing,China,Asia,16.2,45.0,0.0,19.0,1018.6
+1819,2025-01-19,Cape Town,South Africa,Africa,20.0,62.2,0.0,22.7,1020.3
+895,2025-03-26,Moscow,Russia,Europe,9.8,78.3,7.2,18.3,1018.1
+144,2025-02-23,Chiang Mai,Thailand,Asia,33.0,65.9,5.6,12.8,1012.7
+739,2025-01-19,Berlin,Germany,Europe,12.6,76.7,6.9,21.3,1018.2
+539,2025-03-30,Mumbai,India,Asia,29.5,68.0,5.8,14.2,1015.0
+181,2025-01-01,Tokyo,Japan,Asia,17.0,56.9,4.1,22.7,1014.1
+1494,2025-02-23,Lima,Peru,South America,20.1,72.4,0.0,12.5,1016.7
+390,2025-01-30,Beijing,China,Asia,14.1,48.0,1.9,21.8,1012.7
+1546,2025-01-16,Cairo,Egypt,Africa,20.5,34.7,0.0,17.2,1014.0
+810,2025-03-31,Berlin,Germany,Europe,13.0,75.6,13.3,14.4,1015.4
+1040,2025-02-19,Los Angeles,USA,North America,20.0,63.2,0.0,9.9,1018.6
+26,2025-01-26,Bangkok,Thailand,Asia,37.2,67.1,5.7,15.6,1010.0
+204,2025-01-24,Tokyo,Japan,Asia,18.1,54.8,2.1,13.1,1015.5
+911,2025-01-11,New York,USA,North America,17.2,68.7,6.5,9.2,1012.5
+777,2025-02-26,Berlin,Germany,Europe,14.1,71.4,0.0,9.7,1012.6
+922,2025-01-22,New York,USA,North America,13.8,59.2,5.0,19.1,1008.0
+646,2025-01-16,Paris,France,Europe,10.6,65.2,8.0,19.7,1012.8
+192,2025-01-12,Tokyo,Japan,Asia,19.6,62.7,5.8,18.4,1015.7
+352,2025-03-23,Singapore,Singapore,Asia,35.4,78.9,12.8,24.7,1020.9
+665,2025-02-04,Paris,France,Europe,14.8,64.8,0.0,16.5,1019.6
+108,2025-01-18,Chiang Mai,Thailand,Asia,28.3,58.1,3.5,21.0,1009.5
+1036,2025-02-15,Los Angeles,USA,North America,25.4,44.6,0.0,14.3,1013.1
+1418,2025-03-09,Buenos Aires,Argentina,South America,16.4,69.1,0.0,15.3,1018.2
+1659,2025-02-08,Lagos,Nigeria,Africa,29.3,99.7,10.2,28.1,1018.3
+1679,2025-02-28,Lagos,Nigeria,Africa,31.4,81.1,13.3,12.9,1008.0
+1445,2025-01-05,Lima,Peru,South America,22.1,56.8,0.2,33.7,1012.9
+822,2025-01-12,Moscow,Russia,Europe,6.4,65.6,7.4,13.8,1014.4
+1207,2025-02-06,Toronto,Canada,North America,7.3,61.6,5.0,9.7,1004.4
+1355,2025-01-05,Buenos Aires,Argentina,South America,18.3,68.3,0.0,8.0,1006.4
+1074,2025-03-25,Los Angeles,USA,North America,18.2,65.9,0.0,12.1,1022.5
+2056,2025-03-17,Auckland,New Zealand,Oceania,20.3,78.9,5.6,15.8,1020.1
+1663,2025-02-12,Lagos,Nigeria,Africa,27.4,100.0,8.0,9.9,1018.2
+1878,2025-03-19,Cape Town,South Africa,Africa,21.8,58.6,9.0,,1017.9
+1087,2025-01-07,Mexico City,Mexico,North America,15.8,53.1,3.4,12.9,1017.1
+789,2025-03-10,Berlin,GERMANY,Europe,14.7,79.8,0.0,0.7,1010.5
+1983,2025-01-03,Auckland,New Zealand,Oceania,15.8,85.7,1.1,19.8,1016.9
+1114,2025-02-03,Mexico City,Mexico,North America,20.9,66.7,,16.6,1007.0
+1893,2025-01-03,Sydney,Australia,Oceania,19.2,64.7,2.6,,1016.2
+1428,2025-03-19,Buenos Aires,Argentina,South America,23.2,62.8,0.6,11.8,1021.1
+1895,2025-01-05,Sydney,Australia,Oceania,19.4,77.6,0.0,12.0,1000.2
+2055,2025-03-16,Auckland,New Zealand,Oceania,17.9,74.9,11.9,20.6,1008.4
+1593,2025-03-04,Cairo,Egypt,Africa,25.0,58.1,0.0,19.4,1009.6
+15,2025-01-15,Bangkok,Thailand,Asia,31.9,87.3,7.9,24.4,997.3
+1313,2025-02-22,Sao Paulo,Brazil,South America,22.4,82.8,4.2,23.8,1012.9
+620,2025-03-21,London,UK,Europe,18.1,86.3,5.3,14.2,1016.5
+542,2025-01-02,London,UK,Europe,13.8,79.2,3.1,12.9,1022.4
+113,2025-01-23,Chiang Mai,Thailand,Asia,29.3,81.6,,13.0,1020.2
+1591,2025-03-02,Cairo,Egypt,Africa,22.9,52.8,0.0,6.7,1021.1
+393,2025-02-02,Beijing,China,Asia,15.0,47.3,4.1,18.9,1016.3
+1283,2025-01-23,Sao Paulo,Brazil,South America,22.6,71.2,0.0,17.0,1015.2
+1438,2025-03-29,Buenos Aires,Argentina,South America,23.7,51.5,11.5,13.3,1000.8
+279,2025-01-09,Singapore,Singapore,Asia,29.8,74.6,17.1,15.8,1010.8
+1440,2025-03-31,Buenos Aires,Argentina,South America,22.7,71.6,2.6,25.7,1004.1
+1249,2025-03-20,Toronto,Canada,North America,12.4,57.5,8.3,20.6,1009.4
+1979,2025-03-30,Sydney,Australia,Oceania,25.1,72.3,1.5,13.7,1012.2
+391,2025-01-31,Beijing,China,Asia,10.6,55.1,0.0,11.1,1009.4
+31,2025-01-31,Bangkok,Thailand,Asia,32.7,77.8,5.3,16.4,1014.8
+619,2025-03-20,London,UK,Europe,10.4,84.1,2.6,,1007.8
+1206,2025-02-05,Toronto,Canada,North America,11.6,73.6,0.0,3.2,1009.5
+829,2025-01-19,Moscow,Russia,Europe,7.8,81.1,3.5,16.9,1003.9
+1574,2025-02-13,Cairo,Egypt,Africa,23.2,51.9,3.2,8.1,1017.4
+1396,2025-02-15,Buenos Aires,Argentina,South America,20.9,70.6,7.0,24.4,1001.3
+1995,2025-01-15,Auckland,New Zealand,Oceania,13.7,83.6,7.4,18.6,1022.1
+1477,2025-02-06,Lima,Peru,South America,23.7,78.2,0.0,10.2,1011.5
+1490,2025-02-19,Lima,Peru,South America,25.8,81.2,0.0,22.4,1011.5
+159,2025-03-10,Chiang Mai,Thailand,Asia,31.8,66.7,6.1,7.3,1006.5
+1099,2025-01-19,Mexico City,Mexico,North America,17.3,66.2,1.5,27.5,1015.6
+873,2025-03-04,Moscow,Russia,Europe,9.3,61.4,3.1,22.2,1009.4
+1436,2025-03-27,Buenos Aires,Argentina,South America,22.9,77.5,0.0,12.5,1008.7
+1082,2025-01-02,Mexico City,Mexico,North America,17.2,45.7,7.6,13.8,1019.7
+4,2025-01-04,Bangkok,Thailand,Asia,28.9,66.9,9.3,9.6,1004.5
+120,2025-01-30,Chiang Mai,Thailand,Asia,27.7,62.8,,12.3,1015.3
+1078,2025-03-29,Los Angeles,USA,North America,22.1,65.8,0.0,7.0,999.9
+342,2025-03-13,Singapore,Singapore,Asia,31.2,85.4,16.6,14.2,1007.2
+1236,2025-03-07,Toronto,Canada,North America,12.0,63.7,0.0,24.5,1018.3
+432,2025-03-13,Beijing,China,Asia,15.2,42.0,,22.7,1016.3
+1035,2025-02-14,Los Angeles,USA,North America,21.6,44.8,0.0,9.0,1016.3
+1047,2025-02-26,Los Angeles,USA,North America,25.8,59.0,0.0,13.5,1014.8
+1622,2025-01-02,Lagos,Nigeria,Africa,22.2,81.7,10.3,21.6,1015.5
+1768,2025-02-27,Nairobi,Kenya,Africa,22.3,55.6,0.0,23.5,1016.6
+1214,2025-02-13,Toronto,Canada,North America,11.1,58.3,7.4,20.2,1010.0
+75,2025-03-16,Bangkok,Thailand,Asia,33.9,79.0,13.8,20.8,1025.9
+183,2025-01-03,Tokyo,Japan,Asia,15.4,61.8,5.0,24.5,1012.4
+944,2025-02-13,New York,USA,North America,15.7,81.1,7.7,19.3,1013.7
+43,2025-02-12,Bangkok,Thailand,Asia,34.1,84.1,11.8,18.9,1011.1
+343,2025-03-14,Singapore,Singapore,Asia,34.6,79.0,0.3,20.1,
+1666,2025-02-15,Lagos,Nigeria,Africa,34.0,80.7,6.0,15.3,1012.3
+807,2025-03-28,Berlin,Germany,Europe,16.1,58.7,0.0,0.0,1008.1
+1943,2025-02-22,Sydney,Australia,Oceania,18.5,70.4,0.0,,
+1805,2025-01-05,Cape Town,South Africa,Africa,17.8,77.9,0.0,20.3,1013.3
+267,2025-03-28,Tokyo,Japan,Asia,,69.8,3.1,23.9,1013.9
+1552,2025-01-22,Cairo,Egypt,Africa,24.8,37.4,9.3,6.6,1005.2
+125,2025-02-04,Chiang Mai,Thailand,Asia,27.3,68.8,12.5,23.1,1022.6
+2015,2025-02-04,Auckland,New Zealand,Oceania,16.2,69.1,8.0,17.8,1018.5
+603,2025-03-04,London,UK,Europe,14.3,88.6,0.0,6.6,1009.5
+283,2025-01-13,Singapore,Singapore,Asia,32.2,84.4,10.8,28.0,1009.1
+1731,2025-01-21,Nairobi,Kenya,Africa,17.7,64.5,6.3,14.2,1017.7
+897,2025-03-28,Moscow,Russia,Europe,6.0,70.3,0.0,18.3,1012.8
+268,2025-03-29,Tokyo,Japan,Asia,19.2,55.1,2.8,12.7,1014.0
+1379,2025-01-29,Buenos Aires,Argentina,South America,22.4,96.2,0.0,17.7,1008.8
+1239,2025-03-10,Toronto,Canada,North America,15.4,56.4,0.3,20.7,996.7
+1224,2025-02-23,Toronto,CANADA,North America,9.6,71.6,0.0,18.3,1010.9
+694,2025-03-05,Paris,France,Europe,12.2,68.7,3.5,12.3,1011.7
+1516,2025-03-17,Lima,Peru,South America,19.4,57.8,0.9,11.6,1004.4
+1042,2025-02-21,Los Angeles,USA,North America,23.2,64.3,0.0,8.8,1013.4
+1198,2025-01-28,Toronto,Canada,North America,9.4,58.6,3.2,17.6,1010.6
+1684,2025-03-05,Lagos,Nigeria,Africa,31.3,,7.4,,1009.9
+1031,2025-02-10,Los Angeles,USA,North America,26.3,48.2,3.1,11.8,1007.8
+1808,2025-01-08,Cape Town,South Africa,Africa,18.5,65.3,7.4,19.6,1013.0
+1981,2025-01-01,Auckland,New Zealand,Oceania,17.4,,0.0,14.8,1018.8
+1225,2025-02-24,Toronto,Canada,North America,12.0,66.2,0.0,16.3,1022.2
+1712,2025-01-02,Nairobi,Kenya,Africa,19.6,57.2,12.6,14.4,1020.0
+384,2025-01-24,Beijing,China,Asia,13.2,38.7,0.0,14.0,1010.2
+597,2025-02-26,London,UK,Europe,15.0,88.2,5.9,16.7,1003.1
+1773,2025-03-04,Nairobi,Kenya,Africa,23.3,61.1,2.3,5.1,1015.8
+392,2025-02-01,Beijing,China,Asia,18.5,27.9,14.6,21.3,1014.3
+1914,2025-01-24,Sydney,Australia,Oceania,19.9,57.1,5.1,27.9,1010.7
+58,2025-02-27,Bangkok,Thailand,Asia,28.5,73.8,10.4,16.7,1009.3
+435,2025-03-16,Beijing,China,Asia,19.3,44.4,0.7,15.9,1008.0
+1551,2025-01-21,Cairo,Egypt,Africa,24.5,47.5,3.2,10.7,1013.3
+1566,2025-02-05,Cairo,Egypt,Africa,28.2,44.5,0.0,16.1,1006.1
+1673,2025-02-22,Lagos,Nigeria,Africa,31.8,84.1,1.7,12.4,1018.3
+473,2025-01-23,Mumbai,India,Asia,27.0,59.2,0.0,21.7,1009.2
+563,2025-01-23,London,UK,Europe,12.3,72.9,10.0,13.1,1024.0
+1278,2025-01-18,Sao Paulo,Brazil,South America,24.4,71.8,0.0,20.1,1017.5
+1124,2025-02-13,Mexico City,Mexico,North America,13.4,56.7,1.7,17.3,1012.1
+117,2025-01-27,Chiang Mai,Thailand,Asia,29.6,61.7,7.5,28.6,1014.1
+899,2025-03-30,Moscow,Russia,Europe,10.0,60.3,0.0,12.2,1018.1
+582,2025-02-11,London,UK,Europe,15.5,74.7,0.0,12.3,1020.5
+1992,2025-01-12,Auckland,New Zealand,Oceania,17.6,81.1,0.0,18.9,1015.6
+672,2025-02-11,Paris,France,Europe,14.2,72.6,0.0,17.7,1007.1
+82,2025-03-23,Bangkok,Thailand,Asia,35.5,66.5,7.4,15.7,1016.1
+1709,2025-03-30,Lagos,Nigeria,Africa,30.2,71.1,4.3,14.9,1013.4
+1499,2025-02-28,Lima,Peru,South America,21.7,68.8,0.0,15.0,1006.6
+1161,2025-03-22,Mexico City,Mexico,North America,21.7,56.1,1.4,25.9,1020.1
+1657,2025-02-06,Lagos,Nigeria,Africa,28.6,93.0,10.2,0.0,1007.0
+1934,2025-02-13,Sydney,Australia,Oceania,23.9,64.1,1.5,9.5,1014.6
+698,2025-03-09,Paris,France,Europe,14.4,84.2,5.7,9.5,1003.4
+1441,2025-01-01,Lima,Peru,South America,19.4,75.5,4.3,9.9,1002.5
+397,2025-02-06,Beijing,China,Asia,12.9,34.0,0.0,20.2,1018.7
+1801,2025-01-01,Cape Town,South Africa,Africa,19.0,73.6,4.0,3.3,1012.1
+1901,2025-01-11,Sydney,Australia,Oceania,18.1,75.6,3.7,8.9,1024.1
+19,2025-01-19,Bangkok,Thailand,Asia,31.5,82.7,5.2,13.0,1010.6
+1071,2025-03-22,Los Angeles,USA,North America,23.5,58.0,1.7,22.0,1009.8
+437,2025-03-18,Beijing,China,Asia,16.4,42.1,1.3,23.2,999.7
+272,2025-01-02,Singapore,Singapore,Asia,21.7,75.6,10.6,6.1,1014.1
+1721,2025-01-11,Nairobi,Kenya,Africa,18.8,53.9,14.3,17.5,1016.7
+145,2025-02-24,Chiang Mai,Thailand,Asia,31.0,51.3,0.0,19.5,1014.0
+1823,2025-01-23,Cape Town,South Africa,Africa,23.2,69.3,6.2,13.1,1013.1
+1132,2025-02-21,Mexico City,Mexico,North America,18.1,66.1,2.8,23.3,1009.0
+1330,2025-03-11,Sao Paulo,Brazil,South America,28.2,76.4,1.3,21.6,1014.2
+1703,2025-03-24,Lagos,Nigeria,Africa,31.0,86.7,8.0,17.9,1010.4
+660,2025-01-30,Paris,France,Europe,11.3,85.4,0.0,8.1,1019.8
+1050,2025-03-01,Los Angeles,USA,North America,21.4,50.2,0.0,19.9,1015.5
+802,2025-03-23,Berlin,Germany,Europe,15.4,48.4,0.0,12.1,1016.8
+1897,2025-01-07,Sydney,Australia,Oceania,19.9,61.5,0.0,16.7,1004.0
+2007,2025-01-27,Auckland,New Zealand,Oceania,18.9,85.6,6.0,11.8,1001.1
+1403,2025-02-22,Buenos Aires,Argentina,South America,21.9,68.3,,19.4,1011.1
+1171,2025-01-01,Toronto,Canada,North America,9.7,61.2,5.4,9.1,1004.7
+737,2025-01-17,Berlin,Germany,Europe,8.4,66.9,2.7,22.4,1016.6
+178,2025-03-29,Chiang Mai,Thailand,Asia,35.6,69.7,3.6,18.5,1019.7
+853,2025-02-12,Moscow,Russia,Europe,10.2,65.7,5.0,13.2,1012.6
+663,2025-02-02,Paris,France,Europe,11.2,75.6,11.3,8.9,1010.8
+896,2025-03-27,Moscow,Russia,Europe,,64.3,5.0,6.6,1019.3
+238,2025-02-27,Tokyo,Japan,Asia,21.7,52.1,3.1,18.3,1007.2
+1737,2025-01-27,Nairobi,Kenya,Africa,18.0,60.8,0.0,20.0,1018.2
+1610,2025-03-21,Cairo,Egypt,Africa,28.9,40.0,0.0,,1013.5
+286,2025-01-16,Singapore,Singapore,Asia,-88.0,96.4,4.6,13.7,1011.3
+1317,2025-02-26,Sao Paulo,Brazil,South America,22.6,74.0,3.9,5.7,1022.6
+29,2025-01-29,Bangkok,Thailand,Asia,32.5,85.5,1.6,16.1,1014.6
+584,2025-02-13,London,UK,Europe,18.4,76.6,5.7,15.6,1020.8
+1562,2025-02-01,Cairo,Egypt,Africa,23.7,48.4,6.9,24.8,1001.5
+1147,2025-03-08,Mexico City,Mexico,North America,20.3,58.3,7.1,13.9,1009.6
+764,2025-02-13,Berlin,Germany,Europe,8.3,66.9,1.5,12.6,1005.9
+581,2025-02-10,London,UK,Europe,13.5,74.6,0.7,17.0,1003.9
+62,2025-03-03,Bangkok,Thailand,Asia,33.8,85.2,5.6,18.3,
+839,2025-01-29,Moscow,Russia,Europe,7.9,70.1,7.1,0.4,998.7
+644,2025-01-14,Paris,France,Europe,17.4,58.7,0.9,10.6,1017.3
+1535,2025-01-05,Cairo,Egypt,Africa,25.2,28.9,1.3,13.3,1008.0
+1144,2025-03-05,Mexico City,Mexico,North America,19.5,61.6,2.0,18.3,1001.6
+333,2025-03-04,Singapore,Singapore,Asia,34.8,79.1,0.5,11.4,1020.8
+1392,2025-02-11,Buenos Aires,Argentina,South America,16.3,68.8,10.2,31.0,1013.6
+1079,2025-03-30,Los Angeles,USA,North America,20.2,56.3,1.4,15.9,1004.5
+1908,2025-01-18,Sydney,Australia,Oceania,18.1,58.6,7.1,7.3,1011.2
+520,2025-03-11,Mumbai,India,Asia,26.1,65.1,6.8,22.2,1010.0
+571,2025-01-31,London,UK,Europe,11.7,84.7,0.0,16.3,1020.3
+781,2025-03-02,Berlin,Germany,Europe,12.1,69.0,8.7,9.3,1022.7
+1374,2025-01-24,Buenos Aires,Argentina,South America,22.2,76.8,0.0,11.8,1005.1
+997,2025-01-07,Los Angeles,USA,North America,15.5,62.1,2.1,14.1,1016.4
+1954,2025-03-05,Sydney,Australia,Oceania,20.8,72.5,3.3,19.2,1002.4
+1998,2025-01-18,Auckland,New Zealand,Oceania,15.2,75.0,0.0,9.1,
+1498,2025-02-27,Lima,Peru,South America,20.8,84.8,2.8,16.5,1017.9
+1237,2025-03-08,Toronto,Canada,North America,15.1,62.6,0.0,26.7,1012.6
+767,2025-02-16,Berlin,Germany,Europe,12.4,65.8,6.1,6.5,1007.2
+742,2025-01-22,Berlin,Germany,Europe,12.2,65.8,7.4,17.5,1013.2
+668,2025-02-07,Paris,France,Europe,11.1,61.1,2.4,18.0,1023.8
+488,2025-02-07,Mumbai,India,Asia,29.5,68.9,9.3,12.4,1003.4
+1713,2025-01-03,Nairobi,Kenya,Africa,18.2,65.7,7.7,16.3,998.9
+1597,2025-03-08,Cairo,Egypt,Africa,24.3,41.0,0.0,26.3,1014.4
+2035,2025-02-24,Auckland,New Zealand,Oceania,22.7,85.3,6.6,17.1,1009.0
+973,2025-03-14,New York,USA,North America,15.6,55.4,0.3,6.9,1012.5
+1088,2025-01-08,Mexico City,Mexico,North America,16.0,57.5,7.7,17.1,1012.6
+1133,2025-02-22,Mexico City,Mexico,North America,20.0,50.6,3.0,6.1,1010.1
+1557,2025-01-27,Cairo,Egypt,Africa,23.8,53.1,0.4,30.6,1014.2
+1949,2025-02-28,Sydney,Australia,Oceania,19.4,55.7,0.0,16.1,1016.4
+223,2025-02-12,Tokyo,Japan,Asia,18.2,61.7,,18.0,1013.9
+1215,2025-02-14,Toronto,Canada,North America,13.2,52.9,3.7,17.7,1023.2
+173,2025-03-24,Chiang Mai,Thailand,Asia,31.5,52.9,11.2,25.8,1009.3
+1653,2025-02-02,Lagos,Nigeria,Africa,27.9,95.7,6.2,14.5,999.7
+1978,2025-03-29,Sydney,Australia,Oceania,19.3,63.9,1.7,16.5,1006.3
+1284,2025-01-24,Sao Paulo,Brazil,South America,19.9,61.7,10.9,17.9,1011.6
+559,2025-01-19,London,UK,Europe,13.8,73.5,1.3,9.4,1012.8
+462,2025-01-12,Mumbai,India,Asia,36.6,74.9,5.3,18.2,1018.3
+1629,2025-01-09,Lagos,Nigeria,Africa,26.0,76.1,1.2,12.2,1019.5
+1043,2025-02-22,Los Angeles,USA,North America,21.4,46.4,0.3,17.4,1015.2
+1363,2025-01-13,Buenos Aires,Argentina,South America,20.0,,0.0,2.4,1004.5
+981,2025-03-22,New York,USA,North America,16.0,53.9,0.0,12.8,1016.9
+821,2025-01-11,Moscow,Russia,Europe,2.0,61.8,7.4,,1012.6
+952,2025-02-21,New York,USA,North America,16.9,,8.1,11.0,1017.3
+682,2025-02-21,Paris,France,Europe,8.8,77.5,3.5,13.7,1025.3
+1621,2025-01-01,Lagos,Nigeria,Africa,21.1,76.6,5.1,3.8,1006.1
+492,2025-02-11,Mumbai,India,Asia,34.4,65.4,7.0,18.0,1015.8
+606,2025-03-07,London,UK,Europe,13.7,79.5,4.8,11.9,1013.2
+124,2025-02-03,Chiang Mai,Thailand,Asia,29.5,65.9,7.9,17.9,1014.3
+641,2025-01-11,Paris,France,Europe,13.2,75.4,3.9,22.7,1007.3
+1734,2025-01-24,Nairobi,Kenya,Africa,22.8,52.1,1.3,17.3,1017.8
+250,2025-03-11,Tokyo,Japan,Asia,16.7,60.3,0.9,16.4,1003.7
+1877,2025-03-18,Cape Town,South Africa,Africa,20.9,56.5,0.0,9.0,1008.7
+1826,2025-01-26,Cape Town,South Africa,Africa,18.9,69.6,0.0,18.4,1019.0
+562,2025-01-22,London,UK,Europe,8.0,77.4,0.0,20.5,1009.7
+1514,2025-03-15,Lima,Peru,South America,18.5,72.1,0.0,22.1,1009.5
+107,2025-01-17,Chiang Mai,Thailand,Asia,29.8,51.7,4.7,7.7,1009.1
+2028,2025-02-17,Auckland,New Zealand,Oceania,16.8,68.5,0.0,21.1,1005.2
+705,2025-03-16,Paris,France,Europe,17.1,52.1,0.0,24.8,1009.5
+882,2025-03-13,Moscow,Russia,Europe,10.9,67.1,0.5,18.2,1018.3
+1631,2025-01-11,Lagos,Nigeria,Africa,28.9,77.6,5.0,5.9,1018.6
+1804,2025-01-04,Cape Town,South Africa,Africa,14.8,51.4,0.0,13.8,1017.0
+155,2025-03-06,Chiang Mai,Thailand,Asia,32.4,60.5,7.5,20.8,1016.7
+1745,2025-02-04,Nairobi,Kenya,Africa,20.5,61.5,5.1,16.9,1012.2
+1007,2025-01-17,Los Angeles,USA,North America,16.1,65.0,3.9,18.2,1017.3
+1111,2025-01-31,Mexico City,Mexico,North America,16.6,61.3,,18.8,1012.6
+675,2025-02-14,Paris,France,Europe,14.6,62.4,8.8,25.8,1002.9
+1594,2025-03-05,Cairo,Egypt,Africa,25.4,53.2,0.0,12.6,1019.8
+871,2025-03-02,Moscow,Russia,Europe,3.4,68.4,1.0,5.0,1015.4
+311,2025-02-10,Singapore,Singapore,Asia,30.3,78.4,5.5,10.0,1011.6
+1342,2025-03-23,Sao Paulo,Brazil,South America,21.0,68.7,5.1,23.8,1011.3
+1231,2025-03-02,Toronto,Canada,North America,17.2,57.9,0.0,9.8,1017.3
+850,2025-02-09,Moscow,Russia,Europe,3.7,69.3,10.8,18.0,1012.7
+128,2025-02-07,Chiang Mai,Thailand,Asia,25.3,71.6,5.3,7.3,1005.2
+712,2025-03-23,Paris,France,Europe,15.9,77.1,3.5,14.3,1005.2
+2058,2025-03-19,Auckland,New Zealand,Oceania,19.7,77.3,4.0,11.5,1008.5
+1853,2025-02-22,Cape Town,South Africa,Africa,15.3,76.9,4.4,10.4,1007.4
+1213,2025-02-12,Toronto,Canada,North America,11.8,70.8,1.5,29.3,1014.1
+631,2025-01-01,Paris,France,Europe,14.2,69.0,0.0,12.8,1006.8
+759,2025-02-08,Berlin,Germany,Europe,14.0,66.7,3.0,13.6,1013.0
+1348,2025-03-29,Sao Paulo,Brazil,South America,25.3,78.5,,32.6,1006.8
+44,2025-02-13,Bangkok,Thailand,Asia,34.6,68.8,7.1,12.1,
+457,2025-01-07,Mumbai,India,Asia,24.2,64.6,10.8,9.1,1010.2
+1422,2025-03-13,Buenos Aires,Argentina,South America,20.8,52.5,2.4,0.8,1015.1
+811,2025-01-01,Moscow,Russia,Europe,3.2,69.5,3.8,16.2,1006.9
+1149,2025-03-10,Mexico City,Mexico,North America,21.6,50.1,3.1,6.2,1002.4
+1357,2025-01-07,Buenos Aires,Argentina,South America,21.5,68.1,3.2,13.4,1017.1
+202,2025-01-22,Tokyo,Japan,Asia,18.5,67.2,6.5,21.3,1009.8
+1606,2025-03-17,Cairo,Egypt,Africa,26.5,35.9,0.2,5.2,1013.5
+1733,2025-01-23,Nairobi,Kenya,Africa,26.3,48.8,7.2,25.0,1011.1
+1831,2025-01-31,Cape Town,South Africa,Africa,20.7,66.9,6.0,18.5,1011.2
+954,2025-02-23,New York,USA,North America,16.8,52.5,2.0,21.2,1017.8
+2004,2025-01-24,Auckland,New Zealand,Oceania,16.7,69.4,5.8,10.7,1023.8
+1896,2025-01-06,Sydney,Australia,Oceania,18.5,67.2,9.4,15.7,1019.3
+1786,2025-03-17,Nairobi,Kenya,Africa,24.5,49.2,2.8,9.0,1013.8
+971,2025-03-12,New York,USA,North America,10.2,82.4,,15.9,1020.1
+719,2025-03-30,Paris,France,Europe,18.7,76.8,12.2,6.1,1020.6
+1053,2025-03-04,Los Angeles,USA,North America,24.7,,2.1,17.5,1020.1
+1376,2025-01-26,Buenos Aires,Argentina,South America,17.5,72.4,0.1,13.2,1003.2
+366,2025-01-06,Beijing,China,Asia,14.5,36.3,7.6,14.4,1013.1
+962,2025-03-03,New York,USA,North America,12.5,56.1,5.6,23.6,1010.5
+1598,2025-03-09,Cairo,Egypt,Africa,24.6,46.8,0.0,16.9,1016.5
+1746,2025-02-05,Nairobi,Kenya,Africa,20.4,85.3,7.6,17.5,1011.6
+1015,2025-01-25,Los Angeles,USA,North America,16.7,53.2,3.4,5.7,1014.2
+933,2025-02-02,New York,USA,North America,18.9,59.7,0.7,12.2,1017.3
+127,2025-02-06,Chiang Mai,Thailand,Asia,25.1,77.2,4.4,12.4,1006.9
+1385,2025-02-04,Buenos Aires,Argentina,South America,20.9,63.0,4.7,10.7,1000.8
+1678,2025-02-27,Lagos,Nigeria,Africa,26.7,95.0,8.5,11.5,1005.5
+575,2025-02-04,London,UK,Europe,11.7,81.7,0.0,11.5,1012.8
+1806,2025-01-06,Cape Town,South Africa,Africa,19.1,61.5,6.3,16.8,1008.9
+1402,2025-02-21,Buenos Aires,Argentina,South America,23.1,80.9,8.4,23.1,1021.7
+1777,2025-03-08,Nairobi,Kenya,Africa,17.3,57.0,7.9,12.7,1023.4
+483,2025-02-02,Mumbai,India,Asia,32.2,82.3,1.5,9.5,1019.1
+547,2025-01-07,London,UK,Europe,14.6,91.5,5.3,9.7,1024.9
+779,2025-02-28,Berlin,Germany,Europe,15.1,,0.0,3.6,1010.6
+1600,2025-03-11,Cairo,Egypt,Africa,32.3,47.6,0.0,24.9,1025.5
+235,2025-02-24,Tokyo,Japan,Asia,21.1,62.2,4.4,14.6,1008.5
+1291,2025-01-31,Sao Paulo,Brazil,South America,21.4,79.8,0.6,11.3,1004.0
+132,2025-02-11,Chiang Mai,Thailand,Asia,29.8,65.1,4.9,16.2,1012.1
+1870,2025-03-11,Cape Town,South Africa,Africa,20.3,67.6,5.0,18.7,
+225,2025-02-14,Tokyo,Japan,Asia,21.6,69.5,6.6,8.1,
+63,2025-03-04,Bangkok,Thailand,Asia,33.0,83.8,,19.9,1020.8
+102,2025-01-12,Chiang Mai,Thailand,Asia,26.6,60.3,1.5,15.3,1008.0
+753,2025-02-02,Berlin,Germany,Europe,13.0,69.9,0.0,19.9,1014.4
+1840,2025-02-09,Cape Town,South Africa,Africa,15.7,77.3,7.7,0.1,1010.3
+2024,2025-02-13,Auckland,New Zealand,Oceania,18.1,81.6,5.7,10.5,1006.3
+1793,2025-03-24,Nairobi,Kenya,Africa,24.1,58.9,5.0,13.6,1017.0
+301,2025-01-31,Singapore,Singapore,Asia,32.0,75.6,5.7,15.0,1012.0
+1933,2025-02-12,Sydney,Australia,Oceania,20.6,67.3,1.6,16.4,1009.4
+261,2025-03-22,Tokyo,Japan,Asia,18.3,67.9,3.3,10.5,1016.2
+832,2025-01-22,Moscow,Russia,Europe,5.9,72.2,,11.1,1013.5
+1044,2025-02-23,Los Angeles,USA,North America,22.5,57.3,0.0,11.9,1005.8
+758,2025-02-07,Berlin,Germany,Europe,11.1,72.5,0.0,16.1,1020.8
+1461,2025-01-21,Lima,Peru,South America,18.8,70.9,0.0,17.0,1015.7
+887,2025-03-18,Moscow,Russia,Europe,4.4,50.2,2.9,11.6,1009.7
+288,2025-01-18,Singapore,Singapore,Asia,29.9,78.0,15.4,17.9,1017.4
+1792,2025-03-23,Nairobi,Kenya,Africa,25.6,50.7,2.6,20.7,1011.2
+2005,2025-01-25,Auckland,New Zealand,Oceania,20.5,82.8,9.4,15.4,1017.6
+1081,2025-01-01,Mexico City,Mexico,North America,14.1,54.8,5.1,15.5,1007.9
+1704,2025-03-25,Lagos,Nigeria,Africa,31.5,74.6,12.2,11.2,1019.8
+1614,2025-03-25,Cairo,Egypt,Africa,27.2,54.3,3.7,15.2,1010.8
+1626,2025-01-06,Lagos,Nigeria,Africa,29.6,89.0,3.2,13.9,1014.7
+1585,2025-02-24,Cairo,Egypt,Africa,29.5,54.4,0.0,22.7,1011.1
+652,2025-01-22,Paris,France,Europe,13.8,65.0,0.2,22.1,1021.6
+412,2025-02-21,Beijing,China,Asia,14.1,41.2,5.5,16.6,1014.2
+377,2025-01-17,Beijing,China,Asia,16.6,57.9,0.0,11.4,1012.8
+263,2025-03-24,Tokyo,Japan,Asia,19.9,66.5,9.6,18.3,1013.1
+1244,2025-03-15,Toronto,Canada,North America,8.7,,0.0,13.4,1021.2
+710,2025-03-21,Paris,France,Europe,16.7,77.5,8.9,8.3,1012.8
+729,2025-01-09,Berlin,Germany,Europe,9.4,68.5,0.0,14.8,1008.1
+1644,2025-01-24,Lagos,Nigeria,Africa,29.2,93.9,0.0,13.7,1005.0
+1065,2025-03-16,Los Angeles,USA,North America,22.4,45.4,5.3,16.3,1014.2
+367,2025-01-07,Beijing,China,Asia,15.3,46.9,5.8,16.7,1009.3
+13,2025-01-13,Bangkok,Thailand,Asia,29.7,73.5,3.6,7.8,1017.9
+130,2025-02-09,Chiang Mai,Thailand,Asia,28.9,43.4,4.8,13.6,1017.2
+674,2025-02-13,Paris,France,Europe,19.6,67.8,3.7,17.4,1013.8
+510,2025-03-01,Mumbai,India,Asia,32.5,59.0,3.7,21.1,1025.5
+982,2025-03-23,New York,USA,North America,19.3,58.0,0.0,16.6,1008.1
+1216,2025-02-15,Toronto,Canada,North America,9.9,54.8,,7.0,1021.0
+1398,2025-02-17,Buenos Aires,Argentina,South America,19.6,56.8,11.4,14.9,1012.7
+1492,2025-02-21,Lima,Peru,South America,19.5,67.7,4.0,11.3,1004.9
+1772,2025-03-03,Nairobi,Kenya,Africa,20.8,61.7,4.5,5.4,1002.1
+1233,2025-03-04,Toronto,Canada,North America,12.9,72.0,0.0,5.8,1022.5
+598,2025-02-27,London,UK,Europe,12.0,77.0,3.4,8.2,1027.5
+987,2025-03-28,New York,USA,North America,19.7,44.5,9.1,21.7,1010.2
+373,2025-01-13,Beijing,China,Asia,13.6,51.5,5.2,4.5,1020.8
+39,2025-02-08,Bangkok,Thailand,Asia,31.4,81.9,8.9,7.5,1014.0
+1340,2025-03-21,Sao Paulo,Brazil,South America,21.2,80.0,9.5,8.2,1008.1
+1375,2025-01-25,Buenos Aires,Argentina,South America,20.7,73.3,0.0,12.3,1004.9
+1055,2025-03-06,Los Angeles,USA,North America,24.8,75.7,0.0,19.2,1010.5
+77,2025-03-18,Bangkok,Thailand,Asia,31.8,70.2,0.0,11.8,1008.4
+948,2025-02-17,New York,USA,North America,18.3,55.7,3.1,6.8,1017.2
+1518,2025-03-19,Lima,Peru,South America,20.8,66.7,4.3,17.4,1014.0
+1988,2025-01-08,Auckland,New Zealand,Oceania,15.9,80.5,7.4,7.4,1001.5
+302,2025-02-01,Singapore,Singapore,Asia,29.0,85.6,12.8,15.5,1021.9
+713,2025-03-24,Paris,France,Europe,16.5,65.9,0.0,22.2,1018.8
+1924,2025-02-03,Sydney,Australia,Oceania,21.2,73.1,0.0,21.2,1009.1
+1235,2025-03-06,Toronto,Canada,North America,10.4,66.1,1.5,7.1,1015.0
+215,2025-02-04,Tokyo,Japan,Asia,18.1,63.8,4.3,7.3,1019.0
+947,2025-02-16,New York,USA,North America,12.9,61.6,0.0,17.8,1014.7
+339,2025-03-10,Singapore,Singapore,Asia,33.2,76.2,12.5,6.9,1013.8
+259,2025-03-20,Tokyo,Japan,Asia,,79.9,4.0,20.0,1013.5
+1252,2025-03-23,Toronto,Canada,North America,7.4,76.1,0.0,9.0,1011.0
+1599,2025-03-10,Cairo,Egypt,Africa,29.7,,6.6,20.4,1008.8
+567,2025-01-27,London,UK,Europe,8.5,70.6,9.3,13.4,1011.5
+1470,2025-01-30,Lima,Peru,South America,18.4,68.4,,9.6,1021.5
+726,2025-01-06,Berlin,Germany,Europe,8.0,63.3,5.1,5.7,1009.2
+701,2025-03-12,Paris,France,Europe,18.7,67.0,3.2,15.3,1010.0
+424,2025-03-05,Beijing,China,Asia,15.3,43.2,0.0,0.0,1011.9
+1460,2025-01-20,Lima,Peru,South America,19.3,68.4,0.0,10.7,1019.7
+101,2025-01-11,Chiang Mai,Thailand,Asia,30.1,80.3,0.0,18.4,1009.1
+309,2025-02-08,Singapore,Singapore,Asia,30.4,94.2,15.6,12.3,1009.4
+800,2025-03-21,Berlin,Germany,Europe,14.0,53.4,0.7,24.9,1015.2
+629,2025-03-30,London,UK,Europe,17.1,61.0,2.6,11.4,1015.6
+1167,2025-03-28,Mexico City,Mexico,North America,20.4,57.0,0.0,19.9,1014.1
+655,2025-01-25,Paris,France,Europe,13.1,65.0,6.5,19.3,1007.5
+1547,2025-01-17,Cairo,Egypt,Africa,28.0,,0.0,15.0,1013.7
+909,2025-01-09,New York,USA,North America,11.0,77.6,0.0,11.4,1015.2
+1344,2025-03-25,Sao Paulo,Brazil,South America,25.1,80.4,4.7,25.5,1018.2
+1692,2025-03-13,Lagos,Nigeria,Africa,32.6,90.1,7.1,9.8,1022.5
+482,2025-02-01,Mumbai,India,Asia,33.4,59.6,9.3,19.9,1006.1
+1254,2025-03-25,Toronto,Canada,North America,13.3,65.6,6.9,20.8,1016.0
+38,2025-02-07,Bangkok,Thailand,Asia,34.2,78.8,7.7,9.9,1003.9
+1331,2025-03-12,Sao Paulo,Brazil,South America,24.4,69.2,2.0,17.0,1009.7
+1836,2025-02-05,Cape Town,South Africa,Africa,18.4,75.1,0.0,8.8,1010.3
+717,2025-03-28,Paris,France,Europe,999.0,82.7,10.7,7.7,1013.4
+799,2025-03-20,Berlin,Germany,Europe,,66.2,0.0,19.5,1000.6
+1260,2025-03-31,Toronto,Canada,North America,14.7,57.6,0.0,12.9,1009.5
+549,2025-01-09,London,UK,Europe,12.7,81.7,3.2,18.3,997.8
+129,2025-02-08,Chiang Mai,Thailand,Asia,28.6,78.4,4.0,6.0,1011.5
+1534,2025-01-04,Cairo,Egypt,Africa,24.9,36.8,0.0,15.0,1012.8
+1959,2025-03-10,Sydney,Australia,Oceania,23.8,67.7,3.7,9.3,1009.5
+601,2025-03-02,London,UK,Europe,9.7,71.1,1.3,26.3,1016.3
+1435,2025-03-26,Buenos Aires,Argentina,South America,20.8,66.0,2.3,18.6,1021.2
+658,2025-01-28,Paris,France,Europe,17.6,69.4,2.2,11.2,1011.3
+41,2025-02-10,Bangkok,Thailand,Asia,33.5,79.5,12.3,21.3,1004.7
+1134,2025-02-23,Mexico City,Mexico,North America,16.6,63.6,5.9,4.6,1021.0
+1754,2025-02-13,Nairobi,Kenya,Africa,20.6,68.1,4.7,15.3,1017.7
+1577,2025-02-16,Cairo,Egypt,Africa,22.6,43.1,5.1,14.7,1013.8
+834,2025-01-24,Moscow,Russia,Europe,8.6,65.6,1.0,20.9,1008.7
+296,2025-01-26,Singapore,Singapore,Asia,31.4,79.0,10.7,9.7,1010.4
+690,2025-03-01,Paris,France,Europe,12.6,71.1,0.0,12.7,1010.5
+448,2025-03-29,Beijing,China,Asia,18.8,45.1,0.0,12.6,1017.1
+1827,2025-01-27,Cape Town,South Africa,Africa,21.8,,3.0,16.6,1003.9
+637,2025-01-07,Paris,France,Europe,14.9,76.2,0.0,13.0,1008.3
+1952,2025-03-03,Sydney,Australia,Oceania,24.1,71.2,1.0,14.2,1009.7
+1919,2025-01-29,Sydney,Australia,Oceania,22.1,62.5,8.0,21.8,1013.6
+1942,2025-02-21,Sydney,Australia,Oceania,19.1,77.5,7.0,6.9,1006.5
+1630,2025-01-10,Lagos,Nigeria,Africa,27.6,87.0,13.7,16.6,1009.6
+992,2025-01-02,Los Angeles,USA,North America,14.7,53.4,5.2,14.7,1016.0
+530,2025-03-21,Mumbai,India,Asia,30.0,67.0,0.4,15.1,1018.4
+1618,2025-03-29,Cairo,Egypt,Africa,27.6,29.1,0.0,17.6,1009.9
+919,2025-01-19,New York,USA,North America,12.8,63.6,5.2,2.0,1013.0
+915,2025-01-15,New York,USA,North America,12.5,59.6,6.2,11.5,1008.5
+1944,2025-02-23,Sydney,Australia,Oceania,21.0,67.1,0.0,18.6,1009.3
+931,2025-01-31,New York,USA,North America,14.4,67.0,3.2,18.7,1017.2
+1502,2025-03-03,Lima,Peru,South America,16.9,76.6,0.0,10.2,1010.0
+595,2025-02-24,London,UK,Europe,9.5,77.5,0.0,26.9,1018.5
+1984,2025-01-04,Auckland,New Zealand,Oceania,16.0,88.5,1.8,13.9,1013.6
+1662,2025-02-11,Lagos,Nigeria,Africa,31.6,70.6,14.6,11.2,1011.4
+580,2025-02-09,London,UK,Europe,23.4,61.3,9.9,13.3,1014.7
+793,2025-03-14,Berlin,Germany,Europe,12.0,85.1,2.2,19.6,1009.4
+790,2025-03-11,Berlin,Germany,Europe,16.0,74.3,3.7,13.3,1005.3
+1384,2025-02-03,Buenos Aires,Argentina,South America,17.0,59.3,13.2,25.5,1012.8
+1891,2025-01-01,Sydney,Australia,Oceania,17.6,68.3,0.5,16.4,1017.7
+1726,2025-01-16,Nairobi,Kenya,Africa,20.6,57.3,7.8,18.9,1008.9
+486,2025-02-05,Mumbai,India,Asia,31.6,74.6,5.8,21.7,1011.0
+196,2025-01-16,Tokyo,Japan,Asia,12.4,56.4,0.0,5.5,1017.6
+2030,2025-02-19,Auckland,New Zealand,Oceania,20.8,68.6,3.4,4.6,1010.6
+1308,2025-02-17,Sao Paulo,Brazil,South America,25.0,64.4,7.8,11.9,1006.9
+2022,2025-02-11,Auckland,New Zealand,Oceania,16.3,82.5,3.6,14.5,1020.9
+1073,2025-03-24,Los Angeles,USA,North America,21.8,55.9,1.2,9.4,1011.9
+1201,2025-01-31,Toronto,Canada,North America,8.2,60.0,0.0,11.7,1011.7
+481,2025-01-31,Mumbai,India,Asia,28.2,71.4,3.8,13.4,1023.0
+1524,2025-03-25,Lima,Peru,South America,20.3,76.3,7.0,7.1,1015.4
+387,2025-01-27,Beijing,China,Asia,11.7,49.0,0.1,14.4,1028.9
+258,2025-03-19,Tokyo,Japan,Asia,16.6,45.3,6.0,8.4,1000.1
+1664,2025-02-13,Lagos,Nigeria,Africa,31.7,,10.4,10.0,1010.0
+1312,2025-02-21,Sao Paulo,Brazil,South America,19.6,71.1,9.4,19.1,1021.4
+1728,2025-01-18,Nairobi,Kenya,Africa,17.3,70.2,0.0,18.1,1009.3
+958,2025-02-27,New York,USA,North America,15.6,67.8,0.4,2.5,1012.0
+1716,2025-01-06,Nairobi,Kenya,Africa,20.4,60.1,0.1,1.5,1015.6
+1986,2025-01-06,Auckland,New Zealand,Oceania,14.1,71.3,3.1,19.1,1016.3
+1208,2025-02-07,Toronto,Canada,North America,11.6,71.9,0.0,19.9,1017.9
+1706,2025-03-27,Lagos,Nigeria,Africa,28.3,79.4,7.8,21.1,1010.3
+969,2025-03-10,New York,USA,North America,14.7,62.6,5.7,,1020.0
+34,2025-02-03,Bangkok,Thailand,Asia,33.2,81.6,15.6,13.5,1008.5
+81,2025-03-22,Bangkok,Thailand,Asia,30.0,70.2,8.0,15.3,
+961,2025-03-02,New York,USA,North America,17.7,61.5,0.0,10.8,1011.4
+1481,2025-02-10,Lima,Peru,South America,20.0,79.6,0.6,13.9,1008.4
+1090,2025-01-10,Mexico City,Mexico,North America,17.1,47.2,10.1,16.9,1004.6
+2029,2025-02-18,Auckland,New Zealand,Oceania,17.5,84.0,1.5,10.0,1014.4
+1311,2025-02-20,Sao Paulo,Brazil,South America,23.0,81.3,6.6,10.5,1011.3
+1570,2025-02-09,Cairo,Egypt,Africa,29.2,37.9,0.3,11.1,1011.0
+1587,2025-02-26,Cairo,Egypt,Africa,27.8,55.8,0.0,23.2,1011.9
+444,2025-03-25,Beijing,China,Asia,17.6,41.5,1.7,27.6,1011.5
+66,2025-03-07,Bangkok,Thailand,Asia,30.6,84.3,11.2,18.7,1016.8
+1411,2025-03-02,Buenos Aires,Argentina,South America,23.9,71.2,7.2,16.9,1013.9
+1347,2025-03-28,Sao Paulo,Brazil,South America,28.2,64.9,5.6,10.9,1016.7
+548,2025-01-08,London,UK,Europe,10.2,75.3,4.4,24.3,1018.1
+1694,2025-03-15,Lagos,Nigeria,Africa,29.9,86.8,12.6,7.7,1009.6
+59,2025-02-28,Bangkok,Thailand,Asia,32.9,71.1,5.6,20.1,1015.1
+879,2025-03-10,Moscow,Russia,Europe,10.0,74.6,,11.8,1018.0
+797,2025-03-18,Berlin,Germany,Europe,17.3,83.1,14.6,8.3,1014.5
+1658,2025-02-07,Lagos,Nigeria,Africa,31.8,83.2,2.9,11.2,1001.6
+89,2025-03-30,Bangkok,Thailand,Asia,35.0,74.7,0.0,14.5,1005.2
+566,2025-01-26,London,UK,Europe,17.0,88.0,2.8,20.7,1010.8
+1935,2025-02-14,Sydney,Australia,Oceania,21.3,68.1,0.0,5.4,1016.8
+1625,2025-01-05,Lagos,Nigeria,Africa,30.2,72.6,8.7,14.9,1011.0
+1127,2025-02-16,Mexico City,Mexico,North America,18.0,64.9,3.6,16.8,1008.3
+255,2025-03-16,Tokyo,Japan,Asia,22.6,64.9,0.0,13.1,1020.3
+1903,2025-01-13,Sydney,Australia,Oceania,12.9,56.8,6.9,13.5,1014.2
+1617,2025-03-28,Cairo,Egypt,Africa,25.2,54.1,0.0,19.7,1004.2
+857,2025-02-16,Moscow,Russia,Europe,13.1,55.9,6.6,20.8,1008.3
+18,2025-01-18,Bangkok,Thailand,Asia,30.0,82.3,9.3,11.8,1016.1
+5,2025-01-05,Bangkok,Thailand,Asia,34.0,73.2,8.3,6.5,1009.7
+1160,2025-03-21,Mexico City,Mexico,North America,20.7,82.8,2.0,18.1,1009.1
+2068,2025-03-29,Auckland,New Zealand,Oceania,18.8,71.4,10.5,11.8,1006.2
+1346,2025-03-27,Sao Paulo,Brazil,South America,27.0,65.5,4.1,-5.0,1023.7
+100,2025-01-10,Chiang Mai,Thailand,Asia,29.0,56.7,4.2,9.7,1004.7
+1987,2025-01-07,Auckland,New Zealand,Oceania,13.7,71.2,6.6,10.7,1013.4
+364,2025-01-04,Beijing,China,Asia,11.0,27.8,,13.7,1007.1
+1289,2025-01-29,Sao Paulo,Brazil,South America,17.2,71.0,0.0,20.4,1017.7
+1484,2025-02-13,Lima,Peru,South America,17.3,81.3,0.0,14.9,1011.5
+37,2025-02-06,Bangkok,Thailand,Asia,33.9,68.1,3.7,17.9,1011.7
+97,2025-01-07,Chiang Mai,Thailand,Asia,27.2,57.4,0.0,16.2,1008.5
+95,2025-01-05,Chiang Mai,Thailand,Asia,26.7,46.6,0.0,23.2,1022.9
+1018,2025-01-28,Los Angeles,USA,North America,25.7,54.9,3.0,15.5,1008.7
+837,2025-01-27,Moscow,Russia,Europe,7.5,63.9,0.0,,1010.1
+135,2025-02-14,Chiang Mai,Thailand,Asia,32.9,48.4,3.6,12.8,1004.6
+856,2025-02-15,Moscow,Russia,Europe,7.6,63.2,0.0,14.6,1015.2
+996,2025-01-06,Los Angeles,USA,North America,15.0,66.0,1.5,17.3,999.7
+1424,2025-03-15,Buenos Aires,Argentina,South America,20.7,82.0,1.5,10.0,1017.1
+1937,2025-02-16,Sydney,Australia,Oceania,19.9,53.9,7.0,10.3,1008.3
+650,2025-01-20,Paris,France,Europe,15.3,75.5,0.1,16.4,1001.9
+1624,2025-01-04,Lagos,Nigeria,Africa,26.9,73.9,8.4,13.6,1013.1
+762,2025-02-11,Berlin,Germany,Europe,13.9,,0.0,18.9,1017.9
+828,2025-01-18,Moscow,Russia,Europe,5.2,67.6,3.4,20.3,1013.0
+1788,2025-03-19,Nairobi,Kenya,Africa,22.8,,13.0,17.9,1012.1
+499,2025-02-18,Mumbai,India,Asia,31.0,64.5,4.0,23.7,1005.5
+1005,2025-01-15,Los Angeles,USA,North America,18.9,49.1,0.3,5.4,1026.7
+940,2025-02-09,New York,USA,North America,15.0,,8.1,15.8,1010.2
+295,2025-01-25,Singapore,Singapore,Asia,32.7,75.1,8.5,15.1,1008.3
+1151,2025-03-12,Mexico City,Mexico,North America,20.6,48.1,,6.9,1011.8
+224,2025-02-13,Tokyo,Japan,Asia,19.7,79.2,3.8,16.2,1019.3
+977,2025-03-18,New York,USA,North America,19.4,73.0,0.0,17.9,1016.8
+667,2025-02-06,Paris,France,Europe,16.7,59.6,9.4,18.4,1021.4
+1847,2025-02-16,Cape Town,South Africa,Africa,19.8,70.2,2.3,14.2,1020.1
+888,2025-03-19,Moscow,Russia,Europe,10.6,77.4,0.9,13.0,1016.0
+401,2025-02-10,Beijing,China,Asia,13.9,43.8,0.0,13.2,1001.6
+1889,2025-03-30,Cape Town,South Africa,Africa,16.6,63.0,0.0,15.5,1021.6
+1902,2025-01-12,Sydney,Australia,Oceania,21.3,64.0,5.9,12.6,1018.0
+1191,2025-01-21,Toronto,Canada,North America,10.8,65.2,0.1,19.9,1016.2
+1328,2025-03-09,Sao Paulo,Brazil,South America,22.7,75.1,0.0,12.6,1012.8
+513,2025-03-04,Mumbai,India,Asia,29.0,70.7,2.3,16.5,1007.6
+617,2025-03-18,London,UK,Europe,17.9,79.1,0.0,8.3,1011.9
+616,2025-03-17,London,UK,Europe,19.4,84.2,5.2,16.4,1011.5
+686,2025-02-25,Paris,France,Europe,17.9,74.0,8.5,17.7,1019.6
+1368,2025-01-18,Buenos Aires,Argentina,South America,16.3,75.4,0.0,11.5,1011.5
+680,2025-02-19,Paris,France,Europe,11.6,76.0,9.0,28.6,1010.6
+782,2025-03-03,Berlin,Germany,Europe,12.7,80.6,0.0,18.5,1008.6
+1588,2025-02-27,Cairo,Egypt,Africa,28.5,27.3,9.7,24.0,1011.3
+1089,2025-01-09,Mexico City,Mexico,North America,16.1,52.9,0.0,11.8,1017.5
+24,2025-01-24,Bangkok,Thailand,Asia,32.4,74.7,3.3,21.9,1017.5
+1125,2025-02-14,Mexico City,Mexico,North America,19.0,43.8,0.0,17.9,1023.3
+200,2025-01-20,Tokyo,Japan,Asia,16.6,,6.6,11.6,1016.4
+306,2025-02-05,Singapore,Singapore,Asia,33.0,95.1,15.2,12.1,1006.3
+246,2025-03-07,Tokyo,Japan,Asia,19.3,60.4,3.4,20.8,1026.3
+1177,2025-01-07,Toronto,Canada,North America,3.5,,5.7,6.0,1004.1
+1319,2025-02-28,Sao Paulo,Brazil,South America,22.9,62.6,10.9,11.3,1002.0
+1544,2025-01-14,Cairo,Egypt,Africa,25.6,39.3,4.7,13.2,1005.6
+468,2025-01-18,Mumbai,India,Asia,30.7,74.0,6.2,15.0,1009.0
+656,2025-01-26,Paris,France,Europe,17.1,81.4,,15.5,1016.3
+21,2025-01-21,Bangkok,Thailand,Asia,27.9,71.6,6.6,10.2,1012.0
+378,2025-01-18,Beijing,China,Asia,14.9,38.5,3.7,12.2,1012.9
+858,2025-02-17,Moscow,Russia,Europe,8.4,64.3,2.7,24.1,1016.6
+28,2025-01-28,Bangkok,Thailand,Asia,35.7,68.7,6.7,19.9,1005.6
+1377,2025-01-27,Buenos Aires,Argentina,South America,20.3,67.6,0.1,13.9,1014.1
+1358,2025-01-08,Buenos Aires,Argentina,South America,17.5,75.8,0.0,8.4,1017.1
+404,2025-02-13,Beijing,China,Asia,15.3,42.9,0.0,18.8,1005.6
+854,2025-02-13,Moscow,Russia,Europe,9.0,70.3,0.0,8.3,1018.6
+226,2025-02-15,Tokyo,Japan,Asia,16.0,62.4,1.0,14.6,1015.0
+645,2025-01-15,Paris,France,Europe,,78.1,8.5,19.2,1014.7
+1967,2025-03-18,Sydney,Australia,Oceania,19.3,58.5,1.2,12.9,1026.0
+784,2025-03-05,Berlin,Germany,Europe,13.3,69.3,4.2,20.7,1012.6
+2067,2025-03-28,Auckland,New Zealand,Oceania,17.1,73.7,11.6,14.1,1014.2
+1812,2025-01-12,Cape Town,South Africa,Africa,16.1,63.5,1.5,6.1,1019.9
+618,2025-03-19,London,UK,Europe,15.7,77.5,7.9,3.3,1013.9
+794,2025-03-15,Berlin,Germany,Europe,14.7,72.5,0.0,27.1,1020.7
+918,2025-01-18,New York,USA,North America,17.2,70.2,6.7,12.2,1006.5
+85,2025-03-26,Bangkok,Thailand,Asia,39.1,89.0,7.0,20.8,1016.9
+1752,2025-02-11,Nairobi,Kenya,Africa,24.8,56.0,5.2,16.0,1021.8
+1922,2025-02-01,Sydney,Australia,Oceania,23.9,42.6,4.7,6.4,1016.0
+1272,2025-01-12,Sao Paulo,Brazil,South America,20.2,89.2,0.0,3.1,1004.0
+1730,2025-01-20,Nairobi,Kenya,Africa,15.4,42.4,3.1,16.5,1006.2
+604,2025-03-05,London,UK,Europe,17.2,65.8,0.0,12.3,1016.3
+818,2025-01-08,Moscow,Russia,Europe,5.0,74.9,2.3,21.8,1010.7
+454,2025-01-04,Mumbai,India,Asia,31.3,55.8,7.3,12.0,1012.5
+1572,2025-02-11,Cairo,Egypt,Africa,23.5,35.4,0.0,0.0,1016.3
+1767,2025-02-26,Nairobi,Kenya,Africa,21.4,55.2,2.1,20.7,1017.2
+1525,2025-03-26,Lima,Peru,South America,21.0,71.0,0.0,,1029.3
+814,2025-01-04,Moscow,Russia,Europe,3.7,69.5,3.2,7.9,1019.3
+1946,2025-02-25,Sydney,Australia,Oceania,20.5,65.0,0.0,12.2,1015.3
+214,2025-02-03,Tokyo,Japan,Asia,15.4,49.6,8.6,12.2,1015.1
+1818,2025-01-18,Cape Town,South Africa,Africa,17.2,81.3,10.0,14.2,1009.5
+1112,2025-02-01,Mexico City,Mexico,North America,15.5,58.6,7.2,14.8,1017.7
+363,2025-01-03,Beijing,China,Asia,12.0,46.2,8.4,20.4,1011.4
+1287,2025-01-27,Sao Paulo,Brazil,South America,20.2,51.1,0.0,7.0,1013.8
+1075,2025-03-26,Los Angeles,USA,North America,18.9,46.0,0.0,14.6,1015.6
+560,2025-01-20,London,UK,Europe,10.2,82.6,0.0,12.8,1014.8
+1727,2025-01-17,Nairobi,Kenya,Africa,16.8,57.7,10.1,21.9,1006.3
+533,2025-03-24,Mumbai,India,Asia,29.0,62.8,8.4,9.3,1015.8
+535,2025-03-26,Mumbai,India,Asia,30.2,74.7,7.0,11.8,1006.9
+697,2025-03-08,Paris,France,Europe,14.9,51.2,1.6,14.6,1006.9
+1072,2025-03-23,Los Angeles,USA,North America,24.2,41.9,,4.2,1011.4
+1143,2025-03-04,Mexico City,Mexico,North America,20.8,49.7,6.4,17.4,1015.4
+1674,2025-02-23,Lagos,Nigeria,Africa,31.1,86.5,8.5,24.8,1014.4
+237,2025-02-26,Tokyo,Japan,Asia,19.8,71.1,7.7,5.6,
+1930,2025-02-09,Sydney,Australia,Oceania,19.8,69.0,2.9,16.9,1014.3
+2044,2025-03-05,Auckland,New Zealand,Oceania,16.2,85.2,0.0,22.1,1016.1
+1250,2025-03-21,Toronto,Canada,North America,14.2,69.3,5.6,4.8,1019.0
+1487,2025-02-16,Lima,Peru,South America,22.0,63.6,2.8,9.5,1010.3
+1921,2025-01-31,Sydney,Australia,Oceania,14.5,75.1,3.8,12.7,1018.1
+1732,2025-01-22,Nairobi,Kenya,Africa,17.5,57.2,10.6,15.4,1013.8
+978,2025-03-19,New York,USA,North America,15.7,55.8,9.4,16.4,1016.8
+1647,2025-01-27,Lagos,Nigeria,Africa,28.8,67.2,0.0,11.5,1019.3
+1204,2025-02-03,Toronto,Canada,North America,9.1,82.4,3.8,14.1,1018.8
+579,2025-02-08,London,UK,Europe,13.8,61.0,6.1,16.3,1016.0
+1991,2025-01-11,Auckland,New Zealand,Oceania,17.9,79.8,0.4,9.2,1014.5
+1192,2025-01-22,Toronto,Canada,North America,12.6,64.0,5.4,12.3,1025.3
+819,2025-01-09,Moscow,Russia,Europe,2.9,79.4,1.5,16.3,1020.4
+1851,2025-02-20,Cape Town,South Africa,Africa,18.1,78.4,0.3,7.1,1014.3
+995,2025-01-05,Los Angeles,USA,North America,22.2,54.4,0.0,2.5,1004.2
+1332,2025-03-13,Sao Paulo,Brazil,South America,28.3,61.8,11.1,14.3,1014.8
+368,2025-01-08,Beijing,China,Asia,14.5,35.9,2.4,14.8,1011.8
+1660,2025-02-09,Lagos,Nigeria,Africa,32.1,97.8,8.5,13.9,1019.2
+1639,2025-01-19,Lagos,Nigeria,Africa,29.8,78.7,6.7,15.5,1013.6
+300,2025-01-30,Singapore,Singapore,Asia,35.0,96.5,13.8,21.1,1016.6
+49,2025-02-18,Bangkok,Thailand,Asia,31.0,74.1,10.0,20.2,1005.8
+2019,2025-02-08,Auckland,New Zealand,Oceania,16.4,68.9,0.0,9.1,1012.3
+772,2025-02-21,Berlin,Germany,Europe,12.7,58.8,4.4,10.7,1011.8
+148,2025-02-27,Chiang Mai,Thailand,Asia,31.5,67.0,8.9,25.0,1019.1
+1354,2025-01-04,Buenos Aires,Argentina,South America,19.3,85.1,4.1,24.9,1009.2
+743,2025-01-23,Berlin,Germany,Europe,8.0,59.5,3.1,2.2,1019.1
+1857,2025-02-26,Cape Town,South Africa,Africa,23.2,65.9,0.0,19.2,1014.2
+2060,2025-03-21,Auckland,New Zealand,Oceania,18.2,59.2,10.3,21.5,1015.7
+2064,2025-03-25,Auckland,New Zealand,Oceania,21.3,87.8,,21.8,1025.4
+379,2025-01-19,Beijing,China,Asia,15.7,45.1,0.3,14.3,1012.5
+1928,2025-02-07,Sydney,Australia,Oceania,16.9,64.4,9.0,11.3,1011.6
+625,2025-03-26,London,UK,Europe,13.8,73.1,5.0,12.9,1012.2
+194,2025-01-14,Tokyo,Japan,Asia,20.6,54.6,11.2,14.8,1004.4
+1009,2025-01-19,Los Angeles,USA,North America,20.5,,0.3,10.1,1018.0
+939,2025-02-08,New York,USA,North America,15.3,63.9,6.8,18.2,1011.9
+1689,2025-03-10,Lagos,Nigeria,Africa,28.7,93.2,6.1,7.1,1014.1
+543,2025-01-03,London,UK,Europe,9.2,90.3,5.0,6.6,1015.2
+516,2025-03-07,Mumbai,India,Asia,28.8,81.7,10.0,16.7,1023.6
+649,2025-01-19,Paris,France,Europe,13.3,94.9,0.0,21.4,1012.0
+1871,2025-03-12,Cape Town,South Africa,Africa,21.6,68.8,0.0,16.0,1000.0
+769,2025-02-18,Berlin,Germany,Europe,11.5,64.3,5.9,6.8,1022.7
+905,2025-01-05,New York,USA,North America,12.1,70.6,5.0,27.5,1020.1
+1140,2025-03-01,Mexico City,Mexico,North America,21.7,54.8,0.0,14.4,1016.7
+943,2025-02-12,New York,USA,North America,14.2,66.7,4.6,17.1,
+1117,2025-02-06,Mexico City,Mexico,North America,24.1,66.2,9.6,17.3,1020.0
+1960,2025-03-11,Sydney,Australia,Oceania,24.8,64.6,4.5,14.3,1005.9
+1257,2025-03-28,Toronto,Canada,North America,13.3,66.5,6.7,21.1,1009.4
+1904,2025-01-14,Sydney,Australia,Oceania,15.6,79.8,7.8,13.8,1010.6
+440,2025-03-21,Beijing,China,Asia,15.3,48.4,2.1,,1015.9
+78,2025-03-19,Bangkok,Thailand,Asia,34.3,77.7,,20.7,1009.5
+2046,2025-03-07,Auckland,New Zealand,Oceania,20.9,72.7,4.3,11.8,1008.1
+332,2025-03-03,Singapore,Singapore,Asia,30.8,81.3,14.3,,1019.8
+1288,2025-01-28,Sao Paulo,Brazil,South America,21.0,,3.9,18.0,1016.2
+1179,2025-01-09,Toronto,Canada,North America,9.0,70.7,0.0,5.9,1015.7
+1751,2025-02-10,Nairobi,Kenya,Africa,23.8,64.3,6.5,12.7,1009.1
+586,2025-02-15,London,UK,Europe,14.5,77.1,3.9,24.5,1018.9
+718,2025-03-29,Paris,France,Europe,12.8,66.4,0.0,22.4,1010.6
+2061,2025-03-22,Auckland,New Zealand,Oceania,23.7,70.2,11.6,9.2,1014.4
+1261,2025-01-01,Sao Paulo,Brazil,South America,19.5,,8.8,21.8,1001.3
+1637,2025-01-17,Lagos,Nigeria,Africa,,84.4,7.0,15.8,1013.3
+537,2025-03-28,Mumbai,India,Asia,33.7,67.6,4.7,19.4,1015.0
+1138,2025-02-27,Mexico City,Mexico,North America,16.6,68.0,1.0,7.4,1012.0
+1628,2025-01-08,Lagos,Nigeria,Africa,27.2,74.7,9.4,5.3,1015.1
+529,2025-03-20,Mumbai,India,Asia,36.4,68.3,2.6,11.1,1006.5
+1736,2025-01-26,Nairobi,Kenya,Africa,23.0,61.7,5.8,17.5,1003.4
+1367,2025-01-17,Buenos Aires,Argentina,South America,20.3,62.0,0.0,15.7,1015.3
+1528,2025-03-29,Lima,Peru,South America,21.9,66.2,0.0,23.6,1002.0
+141,2025-02-20,Chiang Mai,Thailand,Asia,28.8,73.4,2.2,6.5,1003.7
+1057,2025-03-08,Los Angeles,USA,North America,20.1,60.3,5.1,18.6,1022.7
+1645,2025-01-25,Lagos,Nigeria,Africa,24.5,89.7,9.2,17.7,1018.5
+1014,2025-01-24,Los Angeles,USA,North America,19.1,55.3,7.4,14.9,1014.7
+466,2025-01-16,Mumbai,India,Asia,30.8,61.3,4.5,19.2,1018.1
+613,2025-03-14,London,UK,Europe,15.6,75.3,2.6,11.8,1003.9
+163,2025-03-14,Chiang Mai,Thailand,Asia,30.3,61.5,,16.2,1019.2
+114,2025-01-24,Chiang Mai,Thailand,Asia,27.6,48.7,1.0,3.8,1010.9
+1203,2025-02-02,Toronto,Canada,North America,11.0,68.6,3.8,21.6,1015.9
+409,2025-02-18,Beijing,China,Asia,14.3,41.7,0.0,15.9,1008.1
+720,2025-03-31,Paris,France,Europe,18.9,64.2,7.0,17.0,1011.6
+904,2025-01-04,New York,USA,North America,11.0,,4.4,17.1,1007.6
+1003,2025-01-13,Los Angeles,USA,North America,22.9,60.9,1.0,13.6,1013.5
+1742,2025-02-01,Nairobi,Kenya,Africa,22.8,61.6,5.6,23.5,1007.8
+611,2025-03-12,London,UK,Europe,11.3,72.3,1.8,10.3,1023.4
+1431,2025-03-22,Buenos Aires,Argentina,South America,23.7,73.9,0.0,19.0,1010.7
+531,2025-03-22,Mumbai,India,Asia,29.7,82.2,8.0,21.2,
+1695,2025-03-16,Lagos,Nigeria,Africa,30.7,94.3,4.4,11.4,1015.9
+1762,2025-02-21,Nairobi,Kenya,Africa,17.1,53.1,3.9,17.9,1017.6
+455,2025-01-05,Mumbai,India,Asia,29.2,66.1,3.3,15.2,1006.5
+804,2025-03-25,Berlin,Germany,Europe,12.5,66.2,4.8,11.9,1012.5
+431,2025-03-12,Beijing,China,Asia,16.3,58.3,2.1,16.4,1005.4
+830,2025-01-20,Moscow,Russia,Europe,-0.2,71.1,1.6,11.9,1014.5
+1843,2025-02-12,Cape Town,South Africa,Africa,16.1,57.6,6.9,18.2,1009.3
+477,2025-01-27,Mumbai,India,Asia,27.4,62.3,7.4,14.7,1013.2
+1046,2025-02-25,Los Angeles,USA,North America,18.6,51.6,2.7,18.6,1018.7
+626,2025-03-27,London,UK,Europe,16.8,62.7,8.3,15.4,1010.5
+1953,2025-03-04,Sydney,Australia,Oceania,18.0,58.1,3.8,17.0,1013.9
+284,2025-01-14,Singapore,Singapore,Asia,31.3,80.5,10.1,24.2,1016.0
+6,2025-01-06,Bangkok,Thailand,Asia,30.7,65.8,9.5,11.4,1011.2
+2020,2025-02-09,Auckland,New Zealand,Oceania,21.5,83.4,5.2,12.6,1009.5
+421,2025-03-02,Beijing,China,Asia,17.4,37.8,0.0,21.8,1005.9
+612,2025-03-13,London,UK,Europe,12.6,73.6,3.8,7.8,1010.6
+1714,2025-01-04,Nairobi,Kenya,Africa,19.3,69.8,6.1,17.7,1002.7
+993,2025-01-03,Los Angeles,USA,North America,17.4,46.8,0.5,16.9,1009.1
+1675,2025-02-24,Lagos,Nigeria,Africa,29.3,74.7,8.0,0.4,1011.9
+920,2025-01-20,New York,USA,North America,14.7,59.8,8.2,17.5,1020.9
+370,2025-01-10,Beijing,China,Asia,11.1,55.1,0.0,20.8,1015.6
+676,2025-02-15,Paris,France,Europe,12.3,69.8,0.0,18.0,1008.6
+966,2025-03-07,New York,USA,North America,17.2,62.7,6.2,20.5,1006.7
+273,2025-01-03,Singapore,Singapore,Asia,28.2,84.6,9.5,9.2,1020.2
+103,2025-01-13,Chiang Mai,Thailand,Asia,28.6,64.6,4.0,9.6,1009.5
+276,2025-01-06,Singapore,Singapore,Asia,27.9,74.6,13.2,11.4,1024.0
+270,2025-03-31,Tokyo,Japan,Asia,16.3,39.6,7.7,6.8,1011.7
+1080,2025-03-31,Los Angeles,USA,North America,24.0,56.9,3.9,3.6,1014.9
+354,2025-03-25,Singapore,Singapore,Asia,29.9,97.4,8.3,15.7,1016.3
+924,2025-01-24,New York,USA,North America,13.8,71.2,0.0,14.9,1012.4
+326,2025-02-25,Singapore,Singapore,Asia,34.0,,14.1,15.4,1018.1
+1421,2025-03-12,Buenos Aires,Argentina,South America,21.2,67.0,3.4,13.2,1016.8
+1848,2025-02-17,Cape Town,South Africa,Africa,16.7,69.3,0.0,10.0,1005.7
+1104,2025-01-24,Mexico City,Mexico,North America,14.8,62.0,5.5,7.6,1004.0
+71,2025-03-12,Bangkok,Thailand,Asia,34.5,86.8,11.4,14.0,1012.9
+467,2025-01-17,Mumbai,India,Asia,28.4,69.4,0.0,12.9,1018.3
+47,2025-02-16,Bangkok,Thailand,Asia,31.1,76.7,8.2,11.1,1025.9
+398,2025-02-07,Beijing,China,Asia,16.7,50.8,4.1,11.2,1015.6
+826,2025-01-16,Moscow,Russia,Europe,3.3,61.0,9.2,10.6,1022.9
+884,2025-03-15,Moscow,Russia,Europe,10.3,70.1,0.0,12.9,999.7
+785,2025-03-06,Berlin,Germany,Europe,18.2,71.8,0.6,5.3,1011.4
+1469,2025-01-29,Lima,Peru,South America,19.4,78.3,4.4,9.5,1010.3
+702,2025-03-13,Paris,France,Europe,12.4,74.6,2.8,18.0,1009.8
+2008,2025-01-28,Auckland,New Zealand,Oceania,15.6,75.6,2.7,18.7,1024.9
+1894,2025-01-04,Sydney,Australia,Oceania,15.2,76.5,0.0,10.9,1012.4
+1541,2025-01-11,Cairo,Egypt,Africa,26.0,36.1,0.0,21.0,1008.4
+817,2025-01-07,Moscow,Russia,Europe,7.1,62.4,8.7,3.5,1020.9
+2038,2025-02-27,Auckland,New Zealand,Oceania,25.6,67.8,0.0,16.4,1025.7
+1471,2025-01-31,Lima,Peru,South America,18.7,76.0,0.0,,1020.9
+1430,2025-03-21,Buenos Aires,Argentina,South America,23.1,72.7,0.0,23.2,1008.6
+1373,2025-01-23,Buenos Aires,Argentina,South America,17.5,82.8,10.7,16.5,1012.9
+1314,2025-02-23,Sao Paulo,Brazil,South America,25.0,83.8,4.2,16.3,1020.7
+1178,2025-01-08,Toronto,Canada,North America,13.7,59.1,,1.4,1010.9
+73,2025-03-14,Bangkok,Thailand,Asia,35.1,,7.6,17.4,1017.1
+1019,2025-01-29,Los Angeles,USA,North America,15.4,,0.0,25.2,1012.3
+475,2025-01-25,Mumbai,India,Asia,29.3,65.6,6.6,18.0,1019.7
+1522,2025-03-23,Lima,Peru,South America,21.1,67.8,0.0,12.7,1012.7
+359,2025-03-30,Singapore,Singapore,Asia,27.3,80.9,8.4,19.0,1014.3
+1855,2025-02-24,Cape Town,South Africa,Africa,24.0,75.2,,21.2,1009.1
+989,2025-03-30,New York,USA,North America,18.5,60.4,3.3,10.6,1023.5
+1994,2025-01-14,Auckland,New Zealand,Oceania,17.2,,4.0,15.4,1008.6
+1327,2025-03-08,Sao Paulo,Brazil,South America,19.7,75.7,3.4,10.4,1008.4
+1766,2025-02-25,Nairobi,Kenya,Africa,18.9,51.3,5.3,18.1,1005.5
+1320,2025-03-01,Sao Paulo,Brazil,South America,26.8,68.0,2.6,4.4,1023.4
+1318,2025-02-27,Sao Paulo,Brazil,South America,23.6,83.4,4.0,9.7,1014.6
+189,2025-01-09,Tokyo,Japan,Asia,13.4,67.0,6.6,14.4,1024.1
+1362,2025-01-12,Buenos Aires,Argentina,South America,,60.7,5.8,12.7,1005.2
+1965,2025-03-16,Sydney,Australia,Oceania,22.6,68.2,0.0,12.2,1011.9
+1429,2025-03-20,Buenos Aires,Argentina,South America,13.9,71.2,3.1,4.9,1014.9
+344,2025-03-15,Singapore,Singapore,Asia,31.6,82.7,9.8,19.3,1010.4
+8,2025-01-08,Bangkok,Thailand,Asia,27.5,,0.2,7.0,1014.2
+760,2025-02-09,Berlin,Germany,Europe,11.7,68.7,,9.0,1006.9
+1938,2025-02-17,Sydney,Australia,Oceania,23.4,49.9,0.0,14.9,1014.8
+1966,2025-03-17,Sydney,Australia,Oceania,18.0,51.5,,18.1,1009.1
+216,2025-02-05,Tokyo,Japan,Asia,17.1,47.5,2.3,24.0,1018.1
+110,2025-01-20,Chiang Mai,Thailand,Asia,26.4,69.6,4.2,17.2,1009.4
+1701,2025-03-22,Lagos,Nigeria,Africa,37.2,78.4,14.6,13.4,1004.8
+1115,2025-02-04,Mexico City,Mexico,North America,19.3,53.7,1.6,12.8,1007.1
+1142,2025-03-03,Mexico City,Mexico,North America,15.3,65.8,4.2,10.4,1024.4
+1735,2025-01-25,Nairobi,Kenya,Africa,23.5,72.6,3.7,22.2,1010.9
+1052,2025-03-03,Los Angeles,USA,North America,18.7,51.7,0.0,5.2,1025.1
+231,2025-02-20,Tokyo,Japan,Asia,16.6,42.8,1.4,7.1,1022.9
+607,2025-03-08,London,UK,Europe,8.4,72.7,4.8,9.1,1013.4
+507,2025-02-26,Mumbai,India,Asia,32.5,62.6,8.2,9.5,1010.5
+416,2025-02-25,Beijing,China,Asia,15.5,49.9,6.8,14.2,1010.3
+1753,2025-02-12,Nairobi,Kenya,Africa,24.1,49.6,0.0,18.5,1012.6
+809,2025-03-30,Berlin,Germany,Europe,14.5,76.1,0.0,16.8,1018.6
+1381,2025-01-31,Buenos Aires,Argentina,South America,22.4,68.4,4.7,12.2,1010.8
+882,2025-03-13,Moscow,Russia,Europe,10.9,67.1,0.5,18.2,1018.3
+1271,2025-01-11,Sao Paulo,Brazil,South America,27.7,63.7,0.0,19.4,1000.5
+801,2025-03-22,Berlin,Germany,Europe,11.8,69.8,2.1,17.8,1004.8
+376,2025-01-16,Beijing,China,Asia,17.6,40.5,1.2,4.9,1008.2
+197,2025-01-17,Tokyo,Japan,Asia,19.1,63.4,0.1,,1013.0
+1351,2025-01-01,Buenos Aires,Argentina,South America,20.3,61.9,1.9,17.2,1001.4
+65,2025-03-06,Bangkok,Thailand,Asia,33.8,79.8,4.7,27.6,1007.0
+1774,2025-03-05,Nairobi,Kenya,Africa,,62.2,0.6,15.3,1004.8
+848,2025-02-07,Moscow,Russia,Europe,4.5,79.5,0.6,23.7,1012.5
+380,2025-01-20,Beijing,China,Asia,13.4,42.9,8.4,18.4,1011.2
+1343,2025-03-24,Sao Paulo,Brazil,South America,26.6,83.4,10.7,16.7,1001.2
+972,2025-03-13,New York,USA,North America,22.6,69.0,6.8,15.8,1012.2
+1294,2025-02-03,Sao Paulo,Brazil,South America,24.2,65.2,3.1,18.2,1009.0
+1372,2025-01-22,Buenos Aires,Argentina,South America,23.7,,1.8,11.3,1018.4
+139,2025-02-18,Chiang Mai,Thailand,Asia,29.1,74.3,0.7,18.7,1016.6
+358,2025-03-29,Singapore,Singapore,Asia,28.3,77.5,6.0,16.9,1021.0
+484,2025-02-03,Mumbai,India,Asia,30.9,74.4,7.4,17.3,1005.0
+236,2025-02-25,Tokyo,Japan,Asia,18.6,46.5,3.6,9.1,1006.4
+1443,2025-01-03,Lima,Peru,South America,25.1,72.0,0.0,12.6,1013.1
+787,2025-03-08,Berlin,Germany,Europe,15.3,82.2,5.6,19.6,1013.4
+1463,2025-01-23,Lima,Peru,South America,19.4,69.0,1.9,3.3,1006.3
+1815,2025-01-15,Cape Town,South Africa,Africa,20.3,60.8,0.0,23.9,1025.3
+1197,2025-01-27,Toronto,Canada,North America,8.3,78.0,11.0,17.4,1022.5
+704,2025-03-15,Paris,France,Europe,17.0,65.6,4.7,22.7,999.7
+591,2025-02-20,London,UK,Europe,17.1,84.2,4.9,24.1,1007.3
+1454,2025-01-14,Lima,Peru,South America,18.3,82.0,1.3,,1008.0
+945,2025-02-14,New York,USA,North America,18.3,66.1,3.1,13.2,1012.5
+176,2025-03-27,Chiang Mai,Thailand,Asia,35.5,60.9,5.9,14.9,1020.1
+436,2025-03-17,Beijing,China,Asia,22.1,32.1,2.7,27.1,1013.0
+823,2025-01-13,Moscow,Russia,Europe,8.8,61.8,8.2,5.8,1022.8
+1505,2025-03-06,Lima,Peru,South America,25.1,62.3,1.7,17.7,1012.6
+375,2025-01-15,Beijing,China,Asia,11.3,43.3,0.8,19.7,1020.9
+1765,2025-02-24,Nairobi,Kenya,Africa,23.2,70.7,5.1,11.1,1018.3
+1778,2025-03-09,Nairobi,Kenya,Africa,23.8,62.7,,14.6,1011.4
+803,2025-03-24,Berlin,Germany,Europe,14.0,58.8,0.0,16.2,1012.5
+83,2025-03-24,Bangkok,Thailand,Asia,35.7,66.0,1.9,22.7,1015.0
+1086,2025-01-06,Mexico City,Mexico,North America,19.1,65.7,2.9,10.4,1002.4
+438,2025-03-19,Beijing,China,Asia,20.7,,0.9,12.4,1016.5
+553,2025-01-13,London,UK,Europe,13.5,71.6,6.6,11.2,1014.5
+1364,2025-01-14,Buenos Aires,Argentina,South America,19.4,52.3,0.0,15.0,1009.7
+806,2025-03-27,Berlin,Germany,Europe,13.2,63.8,1.0,24.6,1017.8
+1097,2025-01-17,Mexico City,Mexico,North America,23.1,61.6,,15.2,998.7
+1651,2025-01-31,Lagos,Nigeria,Africa,28.0,73.6,0.0,8.8,1013.7
+1109,2025-01-29,Mexico City,Mexico,North America,23.1,71.4,7.9,13.8,1010.8
+1517,2025-03-18,Lima,Peru,South America,25.9,80.3,0.9,23.2,1017.0
+1309,2025-02-18,Sao Paulo,Brazil,South America,23.7,50.6,0.0,13.9,1013.5
+1862,2025-03-03,Cape Town,South Africa,Africa,22.8,71.6,3.5,16.3,1019.2
+1432,2025-03-23,Buenos Aires,Argentina,South America,16.8,77.3,0.0,9.9,1010.6
+369,2025-01-09,Beijing,China,Asia,13.3,29.9,0.0,15.6,1014.0
+451,2025-01-01,Mumbai,India,Asia,27.7,82.1,0.2,14.9,1005.5
+278,2025-01-08,Singapore,SINGAPORE,Asia,29.3,90.4,15.2,15.2,1008.5
+1163,2025-03-24,Mexico City,Mexico,North America,23.7,69.5,3.9,9.9,998.4
+572,2025-02-01,London,UK,Europe,11.8,72.3,2.1,22.1,1014.2
+677,2025-02-16,Paris,France,Europe,20.3,81.5,3.9,21.2,1019.6
+1595,2025-03-06,Cairo,Egypt,Africa,30.6,50.2,0.0,11.9,1013.5
+1486,2025-02-15,Lima,Peru,South America,23.2,,0.0,16.2,1003.7
+872,2025-03-03,Moscow,Russia,Europe,10.3,69.8,0.7,18.5,1017.1
+715,2025-03-26,Paris,France,Europe,15.2,82.5,4.3,16.2,1005.4
+1576,2025-02-15,Cairo,Egypt,Africa,25.0,40.3,1.3,11.5,1015.4
+1693,2025-03-14,Lagos,Nigeria,Africa,28.9,64.7,8.8,8.4,1018.9
+594,2025-02-23,London,UK,Europe,13.6,80.8,0.7,4.1,1014.6
+1829,2025-01-29,Cape Town,South Africa,Africa,18.9,63.6,3.0,12.7,1010.4
+628,2025-03-29,London,UK,Europe,,85.6,0.0,17.8,1011.4
+429,2025-03-10,Beijing,China,Asia,17.1,45.4,2.7,16.5,1011.7
+1156,2025-03-17,Mexico City,Mexico,North America,17.6,61.6,1.6,15.2,1017.2
+1033,2025-02-12,Los Angeles,USA,North America,21.4,38.4,0.6,15.1,1017.8
+721,2025-01-01,Berlin,Germany,Europe,8.0,64.2,10.2,15.0,1017.7
+345,2025-03-16,Singapore,Singapore,Asia,33.1,77.9,12.0,18.7,1007.4
+1409,2025-02-28,Buenos Aires,Argentina,South America,23.3,64.7,4.8,5.9,1017.8
+1511,2025-03-12,Lima,Peru,South America,23.6,90.3,0.0,8.1,1018.1
+426,2025-03-07,Beijing,China,Asia,18.0,35.6,6.5,19.3,1017.3
+1196,2025-01-26,Toronto,Canada,North America,9.1,78.2,5.5,16.4,1015.9
+52,2025-02-21,Bangkok,Thailand,Asia,31.9,85.1,,17.7,1017.6
+974,2025-03-15,New York,USA,North America,12.6,63.5,2.9,15.9,1009.9
+1691,2025-03-12,Lagos,Nigeria,Africa,26.4,85.6,3.5,11.3,1006.4
+1710,2025-03-31,Lagos,Nigeria,Africa,35.8,82.7,11.7,12.4,1011.1
+519,2025-03-10,Mumbai,India,Asia,34.8,66.3,5.8,15.3,
+1993,2025-01-13,Auckland,New Zealand,Oceania,13.2,71.7,6.8,13.6,1022.5
+880,2025-03-11,Moscow,Russia,Europe,5.3,60.8,0.0,21.5,1018.7
+1292,2025-02-01,Sao Paulo,Brazil,South America,19.6,62.5,9.0,10.8,1013.7
+1780,2025-03-11,Nairobi,Kenya,Africa,27.8,64.2,5.2,8.7,1016.7
+1442,2025-01-02,Lima,Peru,South America,19.5,77.2,7.0,7.4,1019.9
+1051,2025-03-02,Los Angeles,USA,North America,19.1,,0.0,6.1,1008.1
+862,2025-02-21,Moscow,Russia,Europe,4.1,63.0,4.9,13.8,1010.2
+1325,2025-03-06,Sao Paulo,Brazil,South America,17.7,73.5,6.5,14.8,1009.1
+1054,2025-03-05,Los Angeles,USA,North America,19.5,63.7,0.0,7.0,1017.3
+1747,2025-02-06,Nairobi,Kenya,Africa,20.3,59.0,5.2,3.7,1003.6
+346,2025-03-17,Singapore,Singapore,Asia,34.6,75.7,12.2,17.2,1024.0
+998,2025-01-08,Los Angeles,USA,North America,22.6,53.2,1.3,16.2,1027.4
+696,2025-03-07,Paris,France,Europe,12.4,79.8,0.0,21.9,1021.3
+1866,2025-03-07,Cape Town,South Africa,Africa,21.5,58.6,6.3,16.4,1016.6
+193,2025-01-13,Tokyo,Japan,Asia,18.5,70.6,4.8,19.3,1012.5
+289,2025-01-19,Singapore,Singapore,Asia,30.9,,9.7,7.2,1015.4
+1021,2025-01-31,Los Angeles,USA,North America,22.6,59.0,2.0,15.5,1015.4
+1501,2025-03-02,Lima,Peru,South America,26.8,76.0,4.0,15.6,1009.0
+126,2025-02-05,Chiang Mai,Thailand,Asia,28.0,57.1,4.5,15.3,1019.6
+365,2025-01-05,Beijing,China,Asia,13.0,45.6,1.1,11.1,1014.0
+1259,2025-03-30,Toronto,Canada,North America,12.4,76.7,5.0,17.6,1005.9
+986,2025-03-27,New York,USA,North America,15.7,58.4,4.0,7.3,1012.1
+877,2025-03-08,Moscow,Russia,Europe,9.0,69.4,0.0,,1009.4
+1103,2025-01-23,Mexico City,Mexico,North America,18.9,63.8,5.6,16.6,1020.2
+1540,2025-01-10,Cairo,Egypt,Africa,27.3,53.3,0.0,17.7,1018.1
+1845,2025-02-14,Cape Town,South Africa,Africa,20.5,63.5,5.8,5.8,1004.0
+1971,2025-03-22,Sydney,Australia,Oceania,20.3,63.7,5.7,11.1,1009.6
+528,2025-03-19,Mumbai,India,Asia,34.6,71.5,9.8,8.8,1015.4
+1060,2025-03-11,Los Angeles,USA,North America,21.3,55.6,4.0,19.2,1014.7
+1743,2025-02-02,Nairobi,Kenya,Africa,20.9,56.4,0.0,13.0,1019.6
+589,2025-02-18,London,UK,Europe,16.5,74.3,5.6,13.9,1014.9
+500,2025-02-19,Mumbai,India,Asia,33.1,67.8,4.9,19.7,1015.0
+1062,2025-03-13,Los Angeles,USA,North America,24.5,54.0,0.0,10.4,1007.1
+707,2025-03-18,Paris,France,Europe,19.6,86.9,2.6,7.6,1025.6
+1702,2025-03-23,Lagos,Nigeria,Africa,30.2,90.4,3.6,11.4,1016.6
+647,2025-01-17,Paris,France,Europe,12.1,55.8,0.0,26.5,1005.3
+1130,2025-02-19,Mexico City,Mexico,North America,15.7,53.1,9.3,23.7,1018.6
+734,2025-01-14,Berlin,Germany,Europe,7.8,75.9,,14.1,1015.0
+1685,2025-03-06,Lagos,Nigeria,Africa,31.3,89.5,4.6,9.8,1016.7
+1150,2025-03-11,Mexico City,Mexico,North America,21.7,54.9,3.8,14.9,1007.1
+976,2025-03-17,New York,USA,North America,14.3,51.3,4.7,10.9,1018.8
+1085,2025-01-05,Mexico City,Mexico,North America,17.4,48.5,6.7,14.5,1011.9
+385,2025-01-25,Beijing,China,Asia,9.7,51.0,0.0,16.4,1025.4
+162,2025-03-13,Chiang Mai,Thailand,Asia,30.0,66.8,3.1,22.5,1007.6
+1900,2025-01-10,Sydney,Australia,Oceania,15.7,74.9,5.9,15.4,1023.0
+2017,2025-02-06,Auckland,New Zealand,Oceania,22.0,67.5,5.1,24.4,1016.6
+490,2025-02-09,Mumbai,India,Asia,31.2,72.4,5.1,10.3,1008.9
+1011,2025-01-21,Los Angeles,USA,North America,21.2,57.8,2.4,13.4,1005.7
+478,2025-01-28,Mumbai,India,Asia,28.0,68.2,2.3,20.3,1019.2
+1006,2025-01-16,Los Angeles,USA,North America,16.0,46.7,0.0,22.7,1013.1
+442,2025-03-23,Beijing,China,Asia,18.1,56.9,3.4,13.1,1013.0
+632,2025-01-02,Paris,France,Europe,8.1,62.1,3.4,23.0,1014.9
+2031,2025-02-20,Auckland,New Zealand,Oceania,18.2,71.2,2.2,6.6,1013.5
+1603,2025-03-14,Cairo,Egypt,Africa,26.1,48.4,0.0,14.7,1010.7
+640,2025-01-10,Paris,France,Europe,8.0,77.7,0.0,12.8,1015.6
+1564,2025-02-03,Cairo,Egypt,Africa,25.6,40.4,0.0,12.3,1014.4
+724,2025-01-04,Berlin,Germany,Europe,12.1,62.1,0.9,22.2,1018.4
+1760,2025-02-19,Nairobi,Kenya,Africa,17.5,55.9,7.6,22.5,1020.1
+494,2025-02-13,Mumbai,India,Asia,33.0,63.9,,19.1,1011.7
+1222,2025-02-21,Toronto,Canada,North America,14.8,83.7,0.0,18.2,1008.6
+119,2025-01-29,Chiang Mai,Thailand,Asia,29.1,61.2,6.9,17.0,1019.2
+1790,2025-03-21,Nairobi,Kenya,Africa,22.6,58.4,4.7,17.0,1016.4
+1258,2025-03-29,Toronto,Canada,North America,11.5,56.7,5.8,23.7,1011.1
+2018,2025-02-07,Auckland,New Zealand,Oceania,17.9,70.3,0.0,19.6,1022.0
+1091,2025-01-11,Mexico City,Mexico,North America,16.6,58.9,9.8,8.4,1018.9
+890,2025-03-21,Moscow,Russia,Europe,7.0,61.0,2.4,17.9,
+1321,2025-03-02,Sao Paulo,Brazil,South America,20.2,72.5,8.7,17.5,1012.6
+415,2025-02-24,Beijing,China,Asia,18.7,54.9,2.4,16.2,1009.3
+1302,2025-02-11,Sao Paulo,Brazil,South America,22.0,82.1,7.0,7.7,1021.5
+771,2025-02-20,Berlin,Germany,Europe,11.8,73.9,7.2,8.4,1010.8
+805,2025-03-26,Berlin,Germany,Europe,19.4,58.6,0.0,19.7,1008.9
+1899,2025-01-09,Sydney,Australia,Oceania,19.1,64.6,1.3,17.4,1007.4
+949,2025-02-18,New York,USA,North America,17.3,66.0,3.0,17.5,1022.6
+1723,2025-01-13,Nairobi,Kenya,Africa,18.7,64.7,4.9,14.0,1012.9
+573,2025-02-02,London,UK,Europe,11.8,81.9,0.0,19.1,1015.5
+1523,2025-03-24,Lima,Peru,South America,23.5,45.5,0.0,12.7,1022.0
+1495,2025-02-24,Lima,Peru,South America,24.6,72.6,0.0,22.6,1012.4
+1842,2025-02-11,Cape Town,South Africa,Africa,15.4,73.4,0.0,16.5,1018.3
+673,2025-02-12,Paris,France,Europe,11.8,58.5,0.0,6.9,1008.7
+400,2025-02-09,Beijing,China,Asia,18.2,44.8,0.0,14.0,1008.5
+552,2025-01-12,London,UK,Europe,10.7,79.6,0.0,8.2,1016.7
+1199,2025-01-29,Toronto,Canada,North America,12.3,67.5,0.0,18.1,1018.2
+321,2025-02-20,Singapore,Singapore,Asia,30.6,91.0,6.4,10.2,1010.1
+470,2025-01-20,Mumbai,India,Asia,32.1,66.2,2.5,19.2,1010.6
+2070,2025-03-31,Auckland,New Zealand,Oceania,17.3,85.1,9.6,19.7,1011.7
+1299,2025-02-08,Sao Paulo,Brazil,South America,22.8,64.7,8.8,19.0,1006.8
+1267,2025-01-07,Sao Paulo,Brazil,South America,23.8,61.1,3.2,13.3,1012.3
+1295,2025-02-04,Sao Paulo,Brazil,South America,22.4,69.5,,0.7,1002.0
+80,2025-03-21,Bangkok,Thailand,Asia,32.8,61.3,13.4,14.3,1020.4
+534,2025-03-25,Mumbai,India,Asia,28.6,76.8,1.1,18.3,1016.8
+1619,2025-03-30,Cairo,Egypt,Africa,24.4,51.8,0.0,12.1,1013.3
+458,2025-01-08,Mumbai,India,Asia,29.7,76.3,5.0,11.4,1021.5
+291,2025-01-21,Singapore,Singapore,Asia,30.2,93.6,10.0,30.6,1016.4
+1542,2025-01-12,Cairo,Egypt,Africa,23.1,57.6,0.0,10.6,1007.7
+371,2025-01-11,Beijing,China,Asia,12.1,59.2,0.0,20.5,1019.0
+266,2025-03-27,Tokyo,Japan,Asia,15.0,52.5,3.4,7.7,1016.6
+1785,2025-03-16,Nairobi,Kenya,Africa,27.1,63.1,0.0,14.3,1006.3
+165,2025-03-16,Chiang Mai,Thailand,Asia,29.6,76.3,14.2,12.8,1010.3
+1391,2025-02-10,Buenos Aires,Argentina,South America,17.3,77.4,0.0,11.0,1007.0
+1563,2025-02-02,Cairo,Egypt,Africa,26.6,43.6,0.6,12.6,1013.7
+474,2025-01-24,Mumbai,India,Asia,33.4,65.7,0.0,8.3,1020.4
+876,2025-03-07,Moscow,Russia,Europe,10.2,49.0,10.2,16.8,1008.3
+198,2025-01-18,Tokyo,Japan,Asia,14.3,72.0,7.5,13.7,1013.2
+186,2025-01-06,Tokyo,Japan,Asia,12.6,55.5,5.5,24.4,1012.6
+1400,2025-02-19,Buenos Aires,Argentina,South America,20.3,74.2,0.9,15.0,
+422,2025-03-03,Beijing,China,Asia,20.6,37.8,4.6,13.0,1016.6
+257,2025-03-18,Tokyo,Japan,Asia,20.2,58.8,6.8,20.7,1008.3
+136,2025-02-15,Chiang Mai,Thailand,Asia,27.9,56.1,12.0,20.6,1020.6
+1480,2025-02-09,Lima,Peru,South America,17.0,86.1,1.6,17.3,1021.2
+1426,2025-03-17,Buenos Aires,Argentina,South America,17.0,68.2,5.5,16.2,1020.9
+1791,2025-03-22,Nairobi,Kenya,Africa,23.5,50.3,0.2,11.7,1011.3
+1301,2025-02-10,Sao Paulo,Brazil,South America,25.7,62.3,6.8,6.8,1019.4
+867,2025-02-26,Moscow,Russia,Europe,10.0,58.8,5.0,16.2,1015.8
+1539,2025-01-09,Cairo,Egypt,Africa,24.6,40.2,6.0,14.0,1016.7
+1874,2025-03-15,Cape Town,South Africa,Africa,17.1,62.4,7.3,20.9,1015.2
+1038,2025-02-17,Los Angeles,USA,North America,16.1,52.0,1.9,9.5,1023.4
+2034,2025-02-23,Auckland,New Zealand,Oceania,19.5,90.2,4.5,8.8,1009.9
+50,2025-02-19,Bangkok,Thailand,Asia,32.2,71.2,5.4,25.6,1015.4
+1838,2025-02-07,Cape Town,South Africa,Africa,19.3,51.3,3.6,14.5,1022.7
+527,2025-03-18,Mumbai,India,Asia,32.6,73.7,6.8,16.9,1023.2
+453,2025-01-03,Mumbai,India,Asia,29.3,73.2,10.9,8.6,1017.1
+1504,2025-03-05,Lima,Peru,South America,23.7,89.3,0.0,0.7,1017.0
+683,2025-02-22,Paris,France,Europe,13.5,68.8,11.0,10.0,1009.7
+463,2025-01-13,Mumbai,India,Asia,28.1,84.4,6.9,18.0,1017.0
+1229,2025-02-28,Toronto,Canada,North America,11.2,64.6,2.9,,1016.5
+936,2025-02-05,New York,USA,North America,12.9,67.5,7.4,20.2,1014.5
+1369,2025-01-19,Buenos Aires,Argentina,South America,-88.0,63.5,10.5,9.9,1027.6
+648,2025-01-18,Paris,France,Europe,13.7,80.1,0.0,16.1,1018.6
+1526,2025-03-27,Lima,Peru,South America,25.1,83.8,3.0,5.4,1015.4
+1058,2025-03-09,Los Angeles,USA,North America,22.7,45.3,6.5,11.4,1018.5
+860,2025-02-19,Moscow,Russia,Europe,4.2,59.6,2.5,9.1,1008.2
+248,2025-03-09,Tokyo,Japan,Asia,23.8,73.4,1.8,18.4,1022.8
+991,2025-01-01,Los Angeles,USA,North America,18.7,65.0,4.2,20.8,1015.0
+1180,2025-01-10,Toronto,Canada,North America,12.2,52.4,7.3,15.2,
+1962,2025-03-13,Sydney,Australia,Oceania,18.5,66.3,6.9,2.6,1011.8
+1579,2025-02-18,Cairo,Egypt,Africa,26.4,53.5,0.0,8.9,1001.4
+1856,2025-02-25,Cape Town,South Africa,Africa,15.6,61.6,3.6,12.2,1011.2
+217,2025-02-06,Tokyo,Japan,Asia,17.5,57.2,2.7,27.5,1015.3
+240,2025-03-01,Tokyo,Japan,Asia,20.5,59.8,6.2,16.3,1021.2
+1277,2025-01-17,Sao Paulo,Brazil,South America,26.3,60.5,2.9,14.2,1015.6
+544,2025-01-04,London,UK,Europe,6.0,83.0,6.5,11.4,1013.7
+1872,2025-03-13,Cape Town,South Africa,Africa,22.0,70.3,5.0,12.6,1014.9
+439,2025-03-20,Beijing,China,Asia,12.9,48.7,10.1,6.8,1014.1
+1269,2025-01-09,Sao Paulo,Brazil,South America,18.3,71.1,4.4,14.0,1013.2
+861,2025-02-20,Moscow,Russia,Europe,7.0,57.1,0.0,19.2,1005.2
+951,2025-02-20,New York,USA,North America,18.8,59.9,2.1,12.6,1009.8
+327,2025-02-26,Singapore,Singapore,Asia,32.5,73.2,6.4,21.2,1011.0
+227,2025-02-16,Tokyo,Japan,Asia,19.7,63.4,10.5,17.7,1011.5
+1740,2025-01-30,Nairobi,Kenya,Africa,23.2,78.8,0.0,14.4,1005.9
+554,2025-01-14,London,UK,Europe,14.0,,4.8,11.9,1011.8
+62,2025-03-03,Bangkok,Thailand,Asia,33.8,85.2,5.6,18.3,
+1611,2025-03-22,Cairo,Egypt,Africa,24.2,35.6,0.0,12.1,1009.8
+1545,2025-01-15,Cairo,Egypt,Africa,23.6,56.5,0.7,15.1,1022.8
+2032,2025-02-21,Auckland,New Zealand,Oceania,20.8,69.2,1.5,18.0,1020.3
+156,2025-03-07,Chiang Mai,Thailand,Asia,26.7,59.2,4.0,14.6,1016.7
+1690,2025-03-11,Lagos,Nigeria,Africa,28.6,87.3,15.8,10.3,1015.0
+1926,2025-02-05,Sydney,Australia,Oceania,18.6,66.5,12.6,9.8,1025.2
+1698,2025-03-19,Lagos,Nigeria,Africa,32.8,85.3,3.1,18.4,1008.7
+1936,2025-02-15,Sydney,Australia,Oceania,24.6,56.8,9.4,16.7,1013.0
+1832,2025-02-01,Cape Town,South Africa,Africa,17.9,67.5,4.3,23.4,1020.1
+1717,2025-01-07,Nairobi,Kenya,Africa,19.9,,0.0,18.8,1011.4
+349,2025-03-20,Singapore,Singapore,Asia,31.7,78.6,9.3,,
+1890,2025-03-31,Cape Town,South Africa,Africa,16.7,58.6,0.0,12.7,1017.4
+167,2025-03-18,Chiang Mai,Thailand,Asia,27.5,57.7,1.0,10.4,1012.8
+1601,2025-03-12,Cairo,Egypt,Africa,26.7,41.0,0.0,19.3,1020.7
+1972,2025-03-23,Sydney,Australia,Oceania,23.4,58.1,1.5,18.3,1025.3
+205,2025-01-25,Tokyo,Japan,Asia,19.0,55.4,3.9,27.9,1023.4
+907,2025-01-07,New York,USA,North America,13.9,69.6,5.0,9.7,1017.5
+914,2025-01-14,New York,USA,North America,12.5,68.8,0.0,23.7,1013.1
+1888,2025-03-29,Cape Town,South Africa,Africa,17.4,65.9,1.6,20.0,1012.4
+187,2025-01-07,Tokyo,Japan,Asia,15.1,75.0,0.0,1.8,1015.6
+778,2025-02-27,Berlin,Germany,Europe,14.7,52.4,1.4,15.9,1018.1
+2025,2025-02-14,Auckland,New Zealand,Oceania,24.1,74.1,6.8,5.4,1011.3
+1759,2025-02-18,Nairobi,Kenya,Africa,16.7,56.6,4.3,13.3,1006.0
+1034,2025-02-13,Los Angeles,USA,North America,23.2,51.0,0.4,10.4,1006.2
+11,2025-01-11,Bangkok,Thailand,Asia,31.6,,5.3,18.7,1019.2
+2054,2025-03-15,Auckland,NEW ZEALAND,Oceania,19.8,74.6,3.5,14.1,1016.0
+1305,2025-02-14,Sao Paulo,Brazil,South America,21.9,71.4,3.5,19.8,1019.7
+1234,2025-03-05,Toronto,Canada,North America,11.0,74.1,2.4,14.0,1015.6
+556,2025-01-16,London,UK,Europe,11.4,76.0,2.0,14.6,1015.9
+290,2025-01-20,Singapore,Singapore,Asia,27.7,75.8,11.3,22.4,1013.1
+428,2025-03-09,Beijing,China,Asia,15.2,45.8,8.2,7.6,1004.2
+1399,2025-02-18,Buenos Aires,Argentina,South America,22.5,75.7,6.8,21.4,1009.2
+1323,2025-03-04,Sao Paulo,Brazil,South America,,79.7,0.1,28.2,1017.6
+122,2025-02-01,Chiang Mai,Thailand,Asia,33.8,58.8,0.0,4.3,1022.0
+657,2025-01-27,Paris,France,Europe,11.6,72.2,0.0,20.3,1003.6
+2009,2025-01-29,Auckland,New Zealand,Oceania,17.2,76.3,3.0,15.7,1008.0
+152,2025-03-03,Chiang Mai,Thailand,Asia,37.1,68.9,5.7,9.8,1017.2
+1607,2025-03-18,Cairo,Egypt,Africa,25.8,57.0,5.6,19.7,1011.0
+1137,2025-02-26,Mexico City,Mexico,North America,17.9,55.3,0.0,15.3,1009.6
+1536,2025-01-06,Cairo,Egypt,Africa,21.6,43.3,0.0,10.8,1007.7
+131,2025-02-10,Chiang Mai,Thailand,Asia,34.2,74.0,3.9,8.4,1028.4
+851,2025-02-10,Moscow,Russia,Europe,10.3,69.7,,8.5,1014.4
+134,2025-02-13,Chiang Mai,Thailand,Asia,30.0,63.0,11.0,0.0,1019.5
+1,2025-01-01,Bangkok,Thailand,Asia,31.3,73.9,10.6,24.1,1011.6
+1519,2025-03-20,Lima,Peru,South America,20.8,79.9,0.0,14.4,1021.7
+1913,2025-01-23,Sydney,Australia,Oceania,18.7,58.6,5.3,23.3,1015.8
+1608,2025-03-19,Cairo,Egypt,Africa,31.9,32.6,0.0,14.5,1026.5
+700,2025-03-11,Paris,France,Europe,20.6,78.5,2.8,13.9,1010.9
+1811,2025-01-11,Cape Town,South Africa,Africa,18.8,56.0,1.7,13.0,1002.5
+1945,2025-02-24,Sydney,Australia,Oceania,20.4,66.9,3.4,15.1,1008.5
+1096,2025-01-16,Mexico City,Mexico,North America,22.2,56.5,2.9,12.1,1019.6
+1795,2025-03-26,Nairobi,Kenya,Africa,22.0,71.8,1.4,23.0,1017.9
+323,2025-02-22,Singapore,Singapore,Asia,30.4,67.5,12.5,14.5,1011.9
+2,2025-01-02,Bangkok,Thailand,Asia,29.6,87.6,11.1,12.2,1016.3
+1569,2025-02-08,Cairo,Egypt,Africa,25.3,41.4,2.6,12.6,1022.6
+957,2025-02-26,New York,USA,North America,17.0,64.3,0.0,9.1,1029.5
+1923,2025-02-02,Sydney,Australia,Oceania,20.5,70.1,1.0,3.8,1010.3
+184,2025-01-04,Tokyo,Japan,Asia,17.0,64.9,4.7,12.3,1014.2
+1242,2025-03-13,Toronto,Canada,North America,16.7,61.8,3.5,14.6,1009.0
+1412,2025-03-03,Buenos Aires,Argentina,South America,17.2,65.8,2.9,26.7,1017.1
+307,2025-02-06,Singapore,Singapore,Asia,30.7,65.9,10.3,14.1,1010.2
+730,2025-01-10,Berlin,Germany,Europe,7.9,72.1,2.9,19.7,1010.4
+1010,2025-01-20,Los Angeles,USA,North America,22.0,38.4,0.9,21.7,1011.9
+550,2025-01-10,London,UK,Europe,10.9,79.9,0.0,17.3,1011.8
+1338,2025-03-19,Sao Paulo,Brazil,South America,24.3,67.9,1.3,4.5,1008.8
+970,2025-03-11,New York,USA,North America,18.1,44.6,0.9,11.6,1015.9
+1360,2025-01-10,Buenos Aires,ARGENTINA,South America,22.2,80.3,9.3,13.3,1020.4
+1356,2025-01-06,Buenos Aires,Argentina,South America,20.5,75.0,4.3,19.9,1012.0
+1061,2025-03-12,Los Angeles,USA,North America,21.2,52.5,4.4,,1011.5
+111,2025-01-21,Chiang Mai,Thailand,Asia,28.6,,9.7,16.5,1015.0
+1476,2025-02-05,Lima,Peru,South America,26.3,78.7,3.4,18.4,1015.4
+889,2025-03-20,Moscow,Russia,Europe,5.5,69.8,4.2,19.1,1001.4
+1581,2025-02-20,Cairo,Egypt,Africa,22.4,36.0,1.6,8.0,1019.7
+916,2025-01-16,New York,USA,North America,13.5,52.6,10.3,11.6,1018.0
+1681,2025-03-02,Lagos,Nigeria,Africa,31.1,91.3,9.5,14.0,1021.1
+927,2025-01-27,New York,USA,North America,10.9,57.7,4.5,20.0,1008.9
+746,2025-01-26,Berlin,Germany,Europe,13.2,74.0,6.3,7.8,999.1
+776,2025-02-25,Berlin,Germany,Europe,16.3,77.6,3.0,5.8,1011.8
+1408,2025-02-27,Buenos Aires,Argentina,South America,24.4,55.4,0.0,1.3,1008.3
+1640,2025-01-20,Lagos,Nigeria,Africa,30.8,87.1,15.3,28.2,1013.5
+578,2025-02-07,London,UK,Europe,12.2,73.8,8.6,12.7,1015.3
+1188,2025-01-18,Toronto,Canada,North America,11.3,74.8,0.0,22.5,1026.4
+264,2025-03-25,Tokyo,Japan,Asia,16.7,,2.8,11.3,1011.9
+1256,2025-03-27,Toronto,Canada,North America,13.2,72.3,2.3,7.7,1013.3
+303,2025-02-02,Singapore,Singapore,Asia,27.3,78.5,6.1,3.8,1012.5
+928,2025-01-28,New York,USA,North America,7.6,66.2,0.0,2.9,996.0
+1200,2025-01-30,Toronto,Canada,North America,11.4,74.2,0.0,17.8,1006.0
+1586,2025-02-25,Cairo,Egypt,Africa,27.8,37.8,0.6,16.9,1004.1
+150,2025-03-01,Chiang Mai,Thailand,Asia,28.6,66.5,2.0,11.3,1004.6
+2006,2025-01-26,Auckland,New Zealand,Oceania,20.4,,3.0,4.8,1012.5
+72,2025-03-13,Bangkok,Thailand,Asia,31.3,74.9,6.8,16.9,1008.0
+1193,2025-01-23,Toronto,Canada,North America,8.5,81.8,3.1,6.7,1021.2
+456,2025-01-06,Mumbai,India,Asia,25.7,75.4,1.4,19.0,1015.8
+90,2025-03-31,Bangkok,Thailand,Asia,35.7,,4.2,11.9,1006.6
+118,2025-01-28,Chiang Mai,Thailand,Asia,29.5,61.3,1.6,20.0,1007.9
+322,2025-02-21,Singapore,Singapore,Asia,28.7,81.0,15.5,16.9,1011.5
+1835,2025-02-04,Cape Town,South Africa,Africa,16.5,65.4,4.5,8.1,1019.6
+1825,2025-01-25,Cape Town,South Africa,Africa,13.2,53.6,4.7,15.1,1016.6
+460,2025-01-10,Mumbai,India,Asia,30.0,73.3,11.6,18.9,1004.0
+2049,2025-03-10,Auckland,New Zealand,Oceania,22.9,72.8,2.1,18.1,1022.7
+1532,2025-01-02,Cairo,Egypt,Africa,22.3,57.2,0.0,19.6,1008.0
+242,2025-03-03,Tokyo,Japan,Asia,19.6,54.4,1.3,6.6,1023.5
+699,2025-03-10,Paris,France,Europe,14.9,70.3,5.0,11.8,1016.1
+842,2025-02-01,Moscow,Russia,Europe,5.5,72.0,0.0,9.9,1006.2
+1810,2025-01-10,Cape Town,South Africa,Africa,14.0,75.2,1.8,13.8,1018.4
+703,2025-03-14,Paris,France,Europe,18.9,65.0,9.8,4.5,1015.6
+1583,2025-02-22,Cairo,Egypt,Africa,27.0,49.5,0.0,18.3,1011.0
+585,2025-02-14,London,UK,Europe,12.0,84.0,2.2,14.6,1013.6
+980,2025-03-21,New York,USA,North America,16.9,48.5,0.0,19.0,1016.6
+693,2025-03-04,Paris,France,Europe,19.8,87.2,3.6,21.1,1014.1
+271,2025-01-01,Singapore,Singapore,Asia,25.1,65.6,11.2,19.6,1009.5
+1136,2025-02-25,Mexico City,Mexico,North America,20.3,59.4,8.4,17.2,1010.0
+596,2025-02-25,London,UK,Europe,14.6,88.1,0.0,18.3,1014.2
+786,2025-03-07,Berlin,Germany,Europe,12.8,77.7,3.8,7.9,1014.0
+1251,2025-03-22,Toronto,Canada,North America,11.5,62.1,13.6,16.8,1010.7
+497,2025-02-16,Mumbai,India,Asia,29.4,83.8,14.0,10.4,1009.7
+221,2025-02-10,Tokyo,Japan,Asia,21.1,36.8,12.4,14.2,1019.6
+1757,2025-02-16,Nairobi,Kenya,Africa,20.1,67.6,8.7,8.0,1005.8
+1220,2025-02-19,Toronto,Canada,North America,13.9,55.9,3.3,16.4,1008.7
+1361,2025-01-11,Buenos Aires,Argentina,South America,16.4,60.7,0.0,25.0,1007.8
+878,2025-03-09,Moscow,Russia,Europe,7.7,62.5,0.0,15.9,1016.5
+921,2025-01-21,New York,USA,North America,13.9,69.5,9.5,22.9,1006.4
+1506,2025-03-07,Lima,Peru,South America,20.7,83.1,0.0,6.1,1000.7
+985,2025-03-26,New York,USA,North America,21.1,64.4,5.3,23.5,1015.7
+1596,2025-03-07,Cairo,Egypt,Africa,27.4,37.1,2.9,15.5,1002.7
+1450,2025-01-10,Lima,Peru,South America,18.1,74.1,1.1,3.5,
+1162,2025-03-23,Mexico City,Mexico,North America,21.3,39.6,1.6,31.2,1011.6
+313,2025-02-12,Singapore,Singapore,Asia,30.6,74.0,0.0,20.3,1017.4
+1687,2025-03-08,Lagos,Nigeria,Africa,28.7,81.4,4.5,19.4,1011.3
+508,2025-02-27,Mumbai,India,Asia,30.6,,9.7,7.5,1013.3
+1458,2025-01-18,Lima,Peru,South America,17.6,83.6,5.2,20.2,1012.9
+394,2025-02-03,Beijing,China,Asia,15.4,43.4,1.4,13.8,1019.8
+1407,2025-02-26,Buenos Aires,Argentina,South America,17.9,63.7,5.0,9.1,1022.6
+2066,2025-03-27,Auckland,New Zealand,Oceania,15.7,79.1,6.0,18.1,1019.4
+410,2025-02-19,Beijing,China,Asia,18.8,45.0,2.0,13.0,1013.9
+678,2025-02-17,Paris,France,Europe,13.5,65.5,3.3,20.2,1013.8
+953,2025-02-22,New York,USA,North America,13.0,67.4,5.7,17.3,1007.0
+1969,2025-03-20,Sydney,Australia,Oceania,19.1,75.7,0.8,7.5,1010.4
+329,2025-02-28,Singapore,Singapore,Asia,31.5,91.3,8.7,17.7,1006.6
+1037,2025-02-16,Los Angeles,USA,North America,21.4,51.4,0.2,17.2,1019.2
+86,2025-03-27,Bangkok,Thailand,Asia,37.4,67.3,10.7,21.4,1002.4
+84,2025-03-25,Bangkok,Thailand,Asia,32.1,87.4,8.5,22.1,1013.4
+207,2025-01-27,Tokyo,Japan,Asia,17.1,46.7,5.6,18.9,1010.1
+104,2025-01-14,Chiang Mai,Thailand,Asia,29.8,69.0,1.1,15.6,1017.5
+1334,2025-03-15,Sao Paulo,Brazil,South America,21.5,62.0,4.1,17.3,1017.2
+1219,2025-02-18,Toronto,Canada,North America,13.9,65.7,2.3,9.8,1013.4
+735,2025-01-15,Berlin,Germany,Europe,13.6,77.0,0.0,19.9,1012.6
+1205,2025-02-04,Toronto,Canada,North America,11.9,68.2,13.0,13.3,1011.1
+695,2025-03-06,Paris,France,Europe,15.4,71.4,3.2,8.6,1008.7
+1190,2025-01-20,Toronto,Canada,North America,12.4,60.2,7.7,5.0,1004.0
+498,2025-02-17,Mumbai,India,Asia,33.1,66.9,5.8,15.2,1001.5
+1341,2025-03-22,Sao Paulo,Brazil,South America,26.9,70.8,0.0,6.6,1011.5
+1166,2025-03-27,Mexico City,Mexico,North America,16.8,57.1,3.1,16.0,
+1349,2025-03-30,Sao Paulo,Brazil,South America,19.7,68.9,0.0,6.0,1007.0
+328,2025-02-27,Singapore,Singapore,Asia,30.4,72.4,10.7,27.4,1006.6
+831,2025-01-21,Moscow,Russia,Europe,6.3,77.0,2.3,10.5,1018.9
+661,2025-01-31,Paris,France,Europe,14.9,64.5,3.9,8.8,1019.6
+347,2025-03-18,Singapore,Singapore,Asia,31.3,77.2,8.9,13.2,1017.8
+211,2025-01-31,Tokyo,Japan,Asia,16.5,63.2,6.0,16.6,1009.7
+568,2025-01-28,London,UK,Europe,12.1,93.2,9.5,28.3,1012.0
+143,2025-02-22,Chiang Mai,Thailand,Asia,30.7,64.2,2.8,17.4,1012.8
+515,2025-03-06,Mumbai,India,Asia,31.7,58.4,4.8,14.7,1028.7
+1387,2025-02-06,Buenos Aires,Argentina,South America,18.4,74.8,4.0,,1018.3
+1029,2025-02-08,Los Angeles,USA,North America,,59.3,5.1,12.6,1018.4
+1069,2025-03-20,Los Angeles,USA,North America,19.3,58.4,0.0,11.6,1011.0
+865,2025-02-24,Moscow,Russia,Europe,8.2,67.1,6.9,8.5,1008.4
+1306,2025-02-15,Sao Paulo,Brazil,South America,23.6,69.3,4.8,15.1,1008.2
+892,2025-03-23,Moscow,Russia,Europe,9.7,58.7,0.0,5.7,1017.0
+1227,2025-02-26,Toronto,Canada,North America,13.1,60.6,10.5,15.2,1008.2
+815,2025-01-05,Moscow,Russia,Europe,6.8,62.4,0.0,14.1,1010.3
+1573,2025-02-12,Cairo,Egypt,Africa,30.8,46.2,0.0,11.1,1010.2
+1383,2025-02-02,Buenos Aires,Argentina,South America,14.9,78.7,0.3,22.0,1019.4
+564,2025-01-24,London,UK,Europe,14.6,81.9,4.5,17.4,1001.4
+1503,2025-03-04,Lima,Peru,South America,26.9,94.2,1.9,12.2,1005.9
+372,2025-01-12,Beijing,China,Asia,12.1,56.1,1.0,16.7,1014.6
+1182,2025-01-12,Toronto,Canada,North America,8.9,63.6,0.0,25.0,1007.6
+1012,2025-01-22,Los Angeles,USA,North America,16.7,60.7,1.1,14.2,1010.5
+1304,2025-02-13,Sao Paulo,Brazil,South America,21.0,85.5,5.6,0.0,1015.0
+891,2025-03-22,Moscow,Russia,Europe,7.7,64.0,,16.8,1020.6
+1711,2025-01-01,Nairobi,Kenya,Africa,15.7,54.1,6.1,15.0,1018.7
+1262,2025-01-02,Sao Paulo,Brazil,South America,22.6,65.5,8.4,14.6,1013.2
+684,2025-02-23,Paris,France,Europe,14.8,78.7,3.8,7.2,1009.8
+1298,2025-02-07,Sao Paulo,Brazil,South America,28.7,70.2,0.0,17.4,1020.9
+1413,2025-03-04,Buenos Aires,Argentina,South America,25.4,72.8,0.2,15.7,1014.4
+633,2025-01-03,Paris,France,Europe,10.7,75.6,1.2,10.8,1006.1
+195,2025-01-15,Tokyo,Japan,Asia,17.3,54.6,7.4,11.1,1010.3
+514,2025-03-05,Mumbai,India,Asia,30.5,,8.6,,1011.6
+1839,2025-02-08,Cape Town,South Africa,Africa,17.1,50.5,4.5,17.1,1006.9
+210,2025-01-30,Tokyo,JAPAN,Asia,20.2,65.2,0.0,23.9,1021.3
+1001,2025-01-11,Los Angeles,USA,North America,17.7,51.4,0.0,13.0,1017.4
+1187,2025-01-17,Toronto,Canada,North America,,58.6,3.4,1.1,1023.0
+636,2025-01-06,Paris,France,Europe,10.5,60.3,1.0,,1016.1
+1708,2025-03-29,Lagos,Nigeria,Africa,,87.1,13.8,17.0,1016.9
+88,2025-03-29,Bangkok,Thailand,Asia,34.2,88.0,2.5,4.8,1012.7
+1802,2025-01-02,Cape Town,South Africa,Africa,14.2,63.4,5.9,16.8,1019.9
+1632,2025-01-12,Lagos,Nigeria,Africa,26.9,83.5,,17.6,1008.4
+910,2025-01-10,New York,USA,North America,15.1,61.2,,17.5,1011.6
+191,2025-01-11,Tokyo,Japan,Asia,16.1,62.8,0.0,23.7,1012.5
+179,2025-03-30,Chiang Mai,Thailand,Asia,33.0,69.1,9.3,22.0,1021.3
+557,2025-01-17,London,UK,Europe,14.3,72.8,0.0,8.7,1010.1
+1578,2025-02-17,Cairo,Egypt,Africa,27.1,54.4,0.0,18.5,1011.4
+1417,2025-03-08,Buenos Aires,Argentina,South America,22.5,77.9,0.0,11.1,1011.1
+2069,2025-03-30,Auckland,New Zealand,Oceania,17.9,62.0,,9.2,1016.7
+1833,2025-02-02,Cape Town,South Africa,Africa,17.8,64.2,4.7,21.4,1018.6
+745,2025-01-25,Berlin,Germany,Europe,14.2,83.6,0.0,4.3,1009.3
+1907,2025-01-17,Sydney,Australia,Oceania,21.2,74.9,0.0,11.4,1017.9
+1129,2025-02-18,Mexico City,Mexico,North America,22.0,53.5,0.0,23.2,1017.6
+1543,2025-01-13,Cairo,Egypt,Africa,24.7,34.3,0.0,17.0,1020.8
+1098,2025-01-18,Mexico City,Mexico,North America,20.1,59.1,4.7,10.7,1010.7
+512,2025-03-03,Mumbai,India,Asia,32.8,48.9,6.0,17.0,1018.5
+1643,2025-01-23,Lagos,Nigeria,Africa,30.1,87.1,3.9,9.1,1010.0
+1464,2025-01-24,Lima,Peru,South America,24.5,67.6,6.0,17.1,1002.1
+1586,2025-02-25,Cairo,Egypt,Africa,27.8,37.8,0.6,16.9,1004.1
+472,2025-01-22,Mumbai,India,Asia,30.1,67.0,6.6,4.3,1015.5
+399,2025-02-08,Beijing,China,Asia,17.5,51.0,6.8,19.2,1015.1
+1605,2025-03-16,Cairo,Egypt,Africa,20.9,,0.0,9.3,994.2
+36,2025-02-05,Bangkok,Thailand,Asia,34.4,75.1,13.8,13.4,1029.3
+206,2025-01-26,Tokyo,Japan,Asia,18.8,60.3,4.5,18.7,1006.9
+609,2025-03-10,London,UK,Europe,16.2,79.3,0.7,16.3,1017.3
+1794,2025-03-25,Nairobi,Kenya,Africa,19.1,57.1,,18.2,1022.0
+1561,2025-01-31,Cairo,Egypt,Africa,23.0,39.6,0.0,16.2,1012.0
+1068,2025-03-19,Los Angeles,USA,North America,20.7,50.9,0.0,12.9,
+1286,2025-01-26,Sao Paulo,Brazil,South America,23.0,65.5,11.0,23.1,1010.2
+1173,2025-01-03,Toronto,Canada,North America,12.3,74.8,1.7,4.2,1009.6
+430,2025-03-11,Beijing,China,Asia,20.5,32.2,0.0,14.4,1003.1
+1725,2025-01-15,Nairobi,Kenya,Africa,18.0,65.5,2.9,22.1,1019.1
+229,2025-02-18,Tokyo,Japan,Asia,18.2,71.0,3.4,15.8,1012.0
+1004,2025-01-14,Los Angeles,USA,North America,17.7,38.2,9.2,15.9,1015.4
+1030,2025-02-09,Los Angeles,USA,North America,20.9,,0.2,19.5,1015.0
+2042,2025-03-03,Auckland,New Zealand,Oceania,21.5,90.1,0.0,15.1,1008.9
+2065,2025-03-26,Auckland,New Zealand,Oceania,19.6,82.8,8.1,13.3,1014.1
+1977,2025-03-28,Sydney,Australia,Oceania,22.1,63.1,0.0,17.7,1016.3
+728,2025-01-08,Berlin,Germany,Europe,11.2,67.3,3.5,14.3,1015.7
+319,2025-02-18,Singapore,Singapore,Asia,28.3,56.6,10.7,20.4,998.8
+630,2025-03-31,London,UK,Europe,16.2,72.3,0.2,14.3,
+926,2025-01-26,New York,USA,North America,17.9,56.7,0.1,21.6,1015.6
+894,2025-03-25,Moscow,Russia,Europe,6.1,74.8,3.7,15.6,1015.3
+1020,2025-01-30,Los Angeles,USA,North America,19.1,62.1,0.0,10.4,1013.4
+1927,2025-02-06,Sydney,Australia,Oceania,25.4,64.2,1.8,10.8,1012.6
+35,2025-02-04,Bangkok,Thailand,Asia,30.0,68.5,7.7,17.0,1014.7
+1337,2025-03-18,Sao Paulo,Brazil,South America,23.1,74.1,7.9,14.7,1013.1
+76,2025-03-17,Bangkok,Thailand,Asia,31.9,82.0,8.7,28.1,1008.2
+174,2025-03-25,Chiang Mai,Thailand,Asia,30.0,67.3,6.3,19.0,1025.1
+1910,2025-01-20,Sydney,Australia,Oceania,19.0,70.4,6.0,11.2,1000.7
+1076,2025-03-27,Los Angeles,USA,North America,23.8,75.6,,18.7,1009.7
+1939,2025-02-18,Sydney,Australia,Oceania,22.2,62.6,13.1,13.6,1011.6
+1854,2025-02-23,Cape Town,South Africa,Africa,21.9,63.0,0.0,25.7,1010.4
+1997,2025-01-17,Auckland,New Zealand,Oceania,15.0,74.0,6.1,,1005.8
+1989,2025-01-09,Auckland,New Zealand,Oceania,14.2,92.4,,26.0,1011.8
+748,2025-01-28,Berlin,Germany,Europe,11.5,66.3,1.4,12.8,1004.9
+1245,2025-03-16,Toronto,Canada,North America,15.8,64.7,2.7,26.3,1016.1
+1931,2025-02-10,Sydney,Australia,Oceania,23.4,70.4,3.8,24.1,1015.5
+509,2025-02-28,Mumbai,India,Asia,29.6,59.9,5.1,13.1,1027.6
+711,2025-03-22,Paris,France,Europe,14.6,59.5,4.4,30.1,1002.0
+1796,2025-03-27,Nairobi,Kenya,Africa,20.7,62.5,3.8,18.8,1011.7
+608,2025-03-09,London,UK,Europe,15.8,75.3,3.7,9.2,
+388,2025-01-28,Beijing,China,Asia,11.1,47.0,3.9,21.5,1013.6
+1118,2025-02-07,Mexico City,Mexico,North America,17.6,52.8,0.0,22.1,1022.2
+2048,2025-03-09,Auckland,New Zealand,Oceania,19.0,87.3,3.3,6.0,1018.0
+752,2025-02-01,Berlin,Germany,Europe,7.2,70.8,10.2,16.7,1012.9
+912,2025-01-12,New York,USA,North America,13.1,54.0,4.4,11.8,1016.9
+149,2025-02-28,Chiang Mai,Thailand,Asia,25.8,54.8,2.5,15.2,1016.1
+754,2025-02-03,Berlin,Germany,Europe,12.3,62.2,7.2,19.0,1009.7
+1507,2025-03-08,Lima,Peru,South America,25.8,79.9,1.4,,1009.8
+403,2025-02-12,Beijing,China,Asia,11.7,38.9,0.0,9.4,1018.0
+1274,2025-01-14,Sao Paulo,Brazil,South America,25.4,70.0,0.0,,1010.4
+341,2025-03-12,Singapore,Singapore,Asia,32.6,83.9,11.5,21.7,1015.5
+1724,2025-01-14,Nairobi,Kenya,Africa,17.5,48.0,6.9,19.2,1022.5
+988,2025-03-29,New York,USA,North America,18.4,62.0,7.9,20.9,1004.6
+201,2025-01-21,Tokyo,Japan,Asia,20.9,67.4,4.2,11.1,1017.2
+1116,2025-02-05,Mexico City,Mexico,North America,14.4,52.7,3.8,6.9,1013.1
+733,2025-01-13,Berlin,Germany,Europe,10.0,64.2,3.5,16.9,1020.2
+541,2025-01-01,London,UK,Europe,12.0,86.7,11.0,21.1,1014.5
+692,2025-03-03,Paris,France,Europe,20.6,,1.5,15.1,1006.0
+1467,2025-01-27,Lima,Peru,South America,28.2,80.8,10.5,23.4,1014.5
+610,2025-03-11,London,UK,Europe,9.6,,1.7,17.6,1020.2
+48,2025-02-17,Bangkok,Thailand,Asia,34.5,58.8,8.7,11.0,1018.1
+956,2025-02-25,New York,USA,North America,18.2,61.8,7.8,8.4,993.9
+281,2025-01-11,Singapore,Singapore,Asia,26.1,84.3,13.7,19.3,1019.0
+411,2025-02-20,Beijing,China,Asia,18.1,38.1,0.0,13.2,1004.9
+1755,2025-02-14,Nairobi,Kenya,Africa,20.9,72.5,0.8,18.9,1021.6
+1784,2025-03-15,Nairobi,Kenya,Africa,23.9,74.1,2.0,,1018.0
+1633,2025-01-13,Lagos,Nigeria,Africa,27.5,89.0,10.2,14.9,1002.4
+1515,2025-03-16,Lima,Peru,South America,20.1,75.2,0.0,23.9,1008.6
+688,2025-02-27,Paris,France,Europe,17.6,76.6,0.0,7.3,1014.8
+336,2025-03-07,Singapore,Singapore,Asia,30.8,89.7,15.1,21.0,1010.4
+643,2025-01-13,Paris,France,Europe,15.8,62.6,9.7,24.1,
+315,2025-02-14,Singapore,Singapore,Asia,32.8,70.0,10.2,6.9,1015.8
+783,2025-03-04,Berlin,Germany,Europe,10.0,71.7,6.0,9.9,1004.0
+1641,2025-01-21,Lagos,Nigeria,Africa,,,4.8,10.2,1010.6
+2001,2025-01-21,Auckland,New Zealand,Oceania,14.7,75.6,1.6,15.7,1020.2
+1996,2025-01-16,Auckland,New Zealand,Oceania,14.7,,0.4,8.9,1002.4
+1531,2025-01-01,Cairo,Egypt,Africa,25.8,41.9,,17.9,1019.5
+1275,2025-01-15,Sao Paulo,Brazil,South America,20.4,70.5,9.5,22.6,1012.0
+1813,2025-01-13,Cape Town,South Africa,Africa,17.6,65.3,3.6,10.3,1015.7
+93,2025-01-03,Chiang Mai,Thailand,Asia,32.1,65.3,2.2,16.3,1012.3
+835,2025-01-25,Moscow,Russia,Europe,2.8,66.7,0.1,9.2,1011.9
+593,2025-02-22,London,UK,Europe,12.1,73.1,0.9,8.7,1020.3
+2047,2025-03-08,Auckland,New Zealand,Oceania,21.0,68.4,0.4,8.4,1004.1
+1451,2025-01-11,Lima,Peru,South America,20.6,69.1,5.2,20.8,1017.3
+395,2025-02-04,Beijing,China,Asia,16.8,21.5,4.6,16.2,1012.9
+1799,2025-03-30,Nairobi,Kenya,Africa,27.0,67.1,3.4,4.1,1012.9
+1070,2025-03-21,Los Angeles,USA,North America,26.1,52.8,0.0,3.0,1013.2
+576,2025-02-05,London,UK,Europe,11.0,70.5,,16.8,1011.9
+574,2025-02-03,London,UK,Europe,12.4,71.3,0.0,18.2,1020.4
+1925,2025-02-04,Sydney,Australia,Oceania,21.2,60.9,3.7,20.4,1005.6
+1303,2025-02-12,Sao Paulo,Brazil,South America,26.6,79.1,2.0,13.2,1013.9
+736,2025-01-16,Berlin,Germany,Europe,11.3,70.6,1.4,22.2,1012.5
+1860,2025-03-01,Cape Town,South Africa,Africa,17.9,58.9,0.0,15.8,1006.6
+280,2025-01-10,Singapore,Singapore,Asia,29.1,69.2,5.1,22.2,1009.1
+338,2025-03-09,Singapore,Singapore,Asia,34.7,76.3,9.8,16.7,1011.4
+228,2025-02-17,Tokyo,Japan,Asia,21.4,69.5,0.0,18.6,1017.2
+9,2025-01-09,Bangkok,Thailand,Asia,32.5,76.4,7.5,13.2,1004.1
+1110,2025-01-30,Mexico City,Mexico,North America,14.8,74.3,4.9,12.0,1021.0
+1800,2025-03-31,Nairobi,Kenya,Africa,23.3,69.3,10.4,10.9,1017.8
+1634,2025-01-14,Lagos,Nigeria,Africa,35.4,,9.9,10.5,1012.3
+69,2025-03-10,Bangkok,Thailand,Asia,31.7,76.9,9.0,12.0,1010.2
+1909,2025-01-19,Sydney,Australia,Oceania,20.1,60.4,6.1,11.6,1021.5
+1121,2025-02-10,Mexico City,Mexico,North America,19.1,57.2,2.1,20.8,1015.5
+1366,2025-01-16,Buenos Aires,Argentina,South America,17.6,56.0,3.0,14.0,1010.4
+1146,2025-03-07,Mexico City,Mexico,North America,17.6,40.3,2.1,15.8,1012.7
+1181,2025-01-11,Toronto,Canada,North America,9.6,44.8,2.4,21.4,1007.6
+1803,2025-01-03,Cape Town,South Africa,Africa,18.1,54.6,0.0,15.9,1011.7
+1669,2025-02-18,Lagos,Nigeria,Africa,30.2,81.9,17.3,7.0,1001.1
+25,2025-01-25,Bangkok,Thailand,Asia,33.6,,13.6,6.6,1016.5
+634,2025-01-04,Paris,France,Europe,7.9,68.9,3.6,14.4,1010.5
+471,2025-01-21,Mumbai,India,Asia,32.1,74.9,8.7,6.8,1020.3
+558,2025-01-18,London,UK,Europe,11.3,71.8,0.0,12.3,1014.1
+294,2025-01-24,Singapore,Singapore,Asia,31.1,93.4,10.6,7.8,1015.7
+773,2025-02-22,Berlin,Germany,Europe,12.0,63.7,2.0,13.7,1010.8
+1883,2025-03-24,Cape Town,South Africa,Africa,20.9,57.7,4.2,12.6,1005.7
+1263,2025-01-03,Sao Paulo,Brazil,South America,19.7,81.7,0.0,18.6,1019.6
+2043,2025-03-04,Auckland,New Zealand,Oceania,17.8,81.2,6.7,14.3,1001.5
+1189,2025-01-19,Toronto,Canada,North America,7.0,71.2,3.0,5.7,1016.0
+1023,2025-02-02,Los Angeles,USA,North America,19.0,75.3,0.8,6.6,1012.2
+121,2025-01-31,Chiang Mai,Thailand,Asia,30.9,57.6,8.5,23.1,1015.5
+906,2025-01-06,New York,USA,North America,16.3,,6.1,14.7,1009.7
+1307,2025-02-16,Sao Paulo,Brazil,South America,24.3,75.7,11.2,22.5,1008.9
+1389,2025-02-08,Buenos Aires,Argentina,South America,19.4,75.7,8.2,20.8,1002.2
+1335,2025-03-16,Sao Paulo,Brazil,South America,24.4,66.7,6.5,15.7,1018.6
+511,2025-03-02,Mumbai,India,Asia,27.5,55.0,13.5,17.3,
+180,2025-03-31,Chiang Mai,Thailand,Asia,32.6,63.7,5.6,22.2,1008.1
+1094,2025-01-14,Mexico City,Mexico,North America,17.9,60.3,4.0,13.0,1013.7
+2012,2025-02-01,Auckland,New Zealand,Oceania,18.2,76.2,0.0,17.9,1004.4
+1560,2025-01-30,Cairo,Egypt,Africa,28.0,34.3,0.0,15.9,1002.0
+1184,2025-01-14,Toronto,Canada,North America,7.7,71.4,0.0,18.9,1006.4
+816,2025-01-06,Moscow,Russia,Europe,5.7,65.1,0.0,12.7,1011.2
+2027,2025-02-16,Auckland,New Zealand,Oceania,18.7,69.7,0.6,13.4,1006.7
+864,2025-02-23,Moscow,Russia,Europe,10.7,59.0,6.5,15.9,1011.0
+1083,2025-01-03,Mexico City,Mexico,North America,15.9,53.8,0.0,20.3,1008.7
+1209,2025-02-08,Toronto,Canada,North America,13.9,74.7,11.8,12.9,1013.7
+2063,2025-03-24,Auckland,New Zealand,Oceania,19.2,73.8,1.7,19.9,1009.1
+1912,2025-01-22,Sydney,Australia,Oceania,24.5,53.2,5.9,11.6,1011.0
+1290,2025-01-30,Sao Paulo,Brazil,South America,19.7,65.9,3.2,1.5,1015.0
+1824,2025-01-24,Cape Town,South Africa,Africa,20.9,77.9,4.9,14.5,1021.3
+1858,2025-02-27,Cape Town,South Africa,Africa,14.1,68.4,3.6,15.1,1018.4
+381,2025-01-21,Beijing,China,Asia,16.2,42.3,6.7,17.2,1012.4
+605,2025-03-06,London,UK,Europe,17.6,74.3,1.4,21.9,1001.8
+1976,2025-03-27,Sydney,Australia,Oceania,21.9,80.2,0.0,8.3,1023.3
+1999,2025-01-19,Auckland,New Zealand,Oceania,19.9,79.5,6.6,6.0,1020.2
+551,2025-01-11,London,UK,Europe,16.1,90.6,1.1,14.1,1012.6
+1172,2025-01-02,Toronto,Canada,North America,4.6,47.2,0.9,13.2,1009.2
+252,2025-03-13,Tokyo,Japan,Asia,16.8,73.4,,10.8,1012.7
+1940,2025-02-19,Sydney,Australia,Oceania,19.0,66.0,5.5,22.2,1004.1
+1500,2025-03-01,Lima,Peru,South America,21.2,70.9,9.5,0.0,1011.9
+213,2025-02-02,Tokyo,Japan,Asia,20.1,37.2,8.6,4.6,1010.8
+1465,2025-01-25,Lima,Peru,South America,22.3,74.1,0.0,16.5,1015.8
+1783,2025-03-14,Nairobi,Kenya,Africa,20.6,53.4,3.1,16.7,1012.1
+1951,2025-03-02,Sydney,Australia,Oceania,20.3,66.1,0.0,17.0,
+331,2025-03-02,Singapore,Singapore,Asia,32.9,82.6,9.8,12.9,1015.0
+433,2025-03-14,Beijing,China,Asia,14.0,47.0,4.0,21.8,1022.5
+277,2025-01-07,Singapore,Singapore,Asia,30.2,76.1,17.6,,1017.5
+1859,2025-02-28,Cape Town,South Africa,Africa,18.7,67.7,0.0,17.4,1024.7
+1336,2025-03-17,Sao Paulo,Brazil,South America,25.8,72.2,1.4,11.1,1009.7
+1696,2025-03-17,Lagos,Nigeria,Africa,29.4,83.2,0.8,28.3,1004.9
+292,2025-01-22,Singapore,Singapore,Asia,25.1,86.0,10.5,22.7,1017.0
+902,2025-01-02,New York,USA,North America,14.1,67.5,4.1,18.9,1012.6
+449,2025-03-30,Beijing,China,Asia,17.3,49.7,9.9,5.6,1022.7
+1410,2025-03-01,Buenos Aires,Argentina,South America,20.0,68.1,,7.4,1006.1
+1749,2025-02-08,Nairobi,Kenya,Africa,19.6,72.2,4.5,20.3,1025.3
+1549,2025-01-19,Cairo,Egypt,Africa,,43.9,0.0,18.6,1015.3
+1816,2025-01-16,Cape Town,South Africa,Africa,21.9,,0.0,8.6,1002.9
+304,2025-02-03,Singapore,Singapore,Asia,29.9,92.1,11.5,8.9,1024.1
+1512,2025-03-13,Lima,Peru,South America,23.4,85.5,0.9,9.8,1011.7
+1787,2025-03-18,Nairobi,Kenya,Africa,22.0,61.4,4.1,9.1,1016.8
+1958,2025-03-09,Sydney,Australia,Oceania,22.2,66.5,9.7,5.6,1009.4
+941,2025-02-10,New York,USA,North America,13.1,50.4,5.7,18.5,1016.5
+68,2025-03-09,Bangkok,Thailand,Asia,33.3,68.4,6.7,17.5,1009.6
+20,2025-01-20,Bangkok,Thailand,Asia,27.7,77.4,9.0,15.0,1011.6
+325,2025-02-24,Singapore,Singapore,Asia,31.5,68.5,12.7,11.0,1024.2
+1285,2025-01-25,Sao Paulo,Brazil,South America,18.8,65.4,10.2,15.8,1009.7
+1916,2025-01-26,Sydney,Australia,Oceania,17.6,52.1,6.0,8.5,1011.0
+1434,2025-03-25,Buenos Aires,Argentina,South America,21.7,83.2,2.5,21.5,1013.2
+1425,2025-03-16,Buenos Aires,Argentina,South America,20.8,,1.1,14.7,1021.1
+1474,2025-02-03,Lima,Peru,South America,23.1,88.8,0.0,7.3,1010.0
+55,2025-02-24,Bangkok,Thailand,Asia,36.8,63.5,12.7,15.1,1007.1
+964,2025-03-05,New York,USA,North America,15.9,72.6,0.0,18.8,1011.3
+932,2025-02-01,New York,USA,North America,20.5,59.5,0.0,16.5,1008.2
+1963,2025-03-14,Sydney,Australia,Oceania,20.4,59.4,4.5,21.7,1012.2
+151,2025-03-02,Chiang Mai,Thailand,Asia,28.2,54.2,1.1,21.3,1007.3
+1739,2025-01-29,Nairobi,Kenya,Africa,22.2,61.6,6.1,,1012.8
+1950,2025-03-01,Sydney,Australia,Oceania,23.1,64.1,0.0,10.9,1019.9
+1122,2025-02-11,Mexico City,Mexico,North America,20.2,47.8,1.5,20.4,1013.2
+1748,2025-02-07,Nairobi,Kenya,Africa,19.8,,3.0,23.9,1004.1
+1131,2025-02-20,Mexico City,Mexico,North America,19.6,58.7,2.5,21.8,1007.7
+744,2025-01-24,Berlin,Germany,Europe,11.2,95.9,11.2,13.9,1012.4
+1770,2025-03-01,Nairobi,Kenya,Africa,20.6,57.2,4.5,12.0,1017.0
+750,2025-01-30,Berlin,Germany,Europe,11.5,52.6,2.7,23.6,1004.2
+756,2025-02-05,Berlin,Germany,Europe,13.5,55.4,0.0,2.5,1012.5
+1049,2025-02-28,Los Angeles,USA,North America,21.1,48.3,4.0,18.9,1018.8
+812,2025-01-02,Moscow,Russia,Europe,5.7,79.7,3.8,20.8,1011.6
+662,2025-02-01,Paris,France,Europe,16.7,76.3,4.4,25.6,1013.0
+1558,2025-01-28,Cairo,Egypt,Africa,25.0,45.8,0.0,14.7,1019.8
+1915,2025-01-25,Sydney,Australia,Oceania,18.7,60.5,1.0,0.0,1015.4
+1107,2025-01-27,Mexico City,Mexico,North America,22.0,52.0,8.3,16.3,1012.0
+256,2025-03-17,Tokyo,Japan,Asia,20.2,78.6,5.6,16.2,1011.1
+935,2025-02-04,New York,USA,North America,16.9,48.9,4.9,8.7,1017.9
+870,2025-03-01,Moscow,Russia,Europe,8.5,67.6,0.0,9.4,1009.6
+1932,2025-02-11,Sydney,Australia,Oceania,23.9,69.9,0.0,22.8,1013.8
+893,2025-03-24,Moscow,Russia,Europe,11.9,82.8,5.4,22.0,1009.5
+874,2025-03-05,Moscow,Russia,Europe,13.8,63.8,2.1,11.0,1014.3
+614,2025-03-15,London,UK,Europe,15.6,92.0,3.1,,1017.2
+1404,2025-02-23,Buenos Aires,Argentina,South America,22.2,67.7,0.0,22.7,1013.3
+1101,2025-01-21,Mexico City,Mexico,North America,20.2,62.3,3.7,6.7,1010.1
+389,2025-01-29,Beijing,China,Asia,15.7,41.9,3.1,12.9,1016.7
+937,2025-02-06,New York,USA,North America,14.8,57.4,8.9,10.8,1006.8
+407,2025-02-16,Beijing,China,Asia,17.9,37.2,3.9,18.0,1019.4
+1316,2025-02-25,Sao Paulo,Brazil,South America,26.2,67.1,1.0,16.5,1002.2
+795,2025-03-16,Berlin,Germany,Europe,12.9,61.2,3.4,15.5,1015.1
+716,2025-03-27,Paris,France,Europe,16.7,65.3,0.4,10.1,1006.6
+1135,2025-02-24,Mexico City,Mexico,North America,26.5,58.4,0.4,31.9,1005.1
+1649,2025-01-29,Lagos,Nigeria,Africa,29.4,81.9,6.3,23.0,1008.8
+1024,2025-02-03,Los Angeles,USA,North America,21.5,68.4,0.0,5.5,1017.9
+1056,2025-03-07,Los Angeles,USA,North America,23.6,43.2,0.0,10.3,1013.5
+1828,2025-01-28,Cape Town,South Africa,Africa,17.5,63.5,6.2,11.3,1017.8
+247,2025-03-08,Tokyo,Japan,Asia,18.3,49.0,3.6,30.5,1008.2
+146,2025-02-25,Chiang Mai,Thailand,Asia,29.8,65.1,6.4,11.8,1008.3
+1948,2025-02-27,Sydney,Australia,Oceania,21.0,68.3,1.0,20.5,1015.4
+1153,2025-03-14,Mexico City,Mexico,North America,20.9,,,6.6,1013.6
+1920,2025-01-30,Sydney,Australia,Oceania,18.8,57.2,2.8,,1011.1
+623,2025-03-24,London,UK,Europe,12.1,75.7,1.8,7.7,1015.3
+74,2025-03-15,Bangkok,Thailand,Asia,32.8,76.8,8.1,15.6,1008.4
+461,2025-01-11,Mumbai,India,Asia,31.4,62.0,4.5,16.5,1025.0
+487,2025-02-06,Mumbai,India,Asia,31.8,61.8,5.9,14.0,1014.4
+1985,2025-01-05,Auckland,New Zealand,Oceania,12.8,79.8,0.0,21.3,1013.3
+91,2025-01-01,Chiang Mai,Thailand,Asia,26.9,72.6,1.1,18.0,1009.8
+1230,2025-03-01,Toronto,Canada,North America,11.9,65.5,1.5,6.1,1014.5
+493,2025-02-12,Mumbai,India,Asia,30.9,75.9,7.9,7.6,1018.2
+171,2025-03-22,Chiang Mai,Thailand,Asia,29.4,60.6,2.5,22.1,1021.5
+1646,2025-01-26,Lagos,Nigeria,Africa,27.5,,15.7,13.5,1017.4
+57,2025-02-26,Bangkok,Thailand,Asia,33.6,80.3,14.3,7.6,1025.8
+405,2025-02-14,Beijing,China,Asia,15.9,47.2,7.4,7.1,994.9
+1266,2025-01-06,Sao Paulo,Brazil,South America,16.9,67.9,7.5,23.4,1013.7
+600,2025-03-01,London,UK,Europe,14.6,,0.0,17.0,1012.1
+1016,2025-01-26,Los Angeles,USA,North America,20.0,55.3,5.1,17.0,1021.9
+1371,2025-01-21,Buenos Aires,Argentina,South America,16.6,62.0,3.1,4.6,1013.1
+98,2025-01-08,Chiang Mai,Thailand,Asia,24.0,59.8,0.7,25.1,1018.3
+827,2025-01-17,Moscow,Russia,Europe,5.5,68.0,6.3,22.6,1012.3
+1141,2025-03-02,Mexico City,Mexico,North America,20.4,56.3,3.2,11.4,1010.9
+1226,2025-02-25,Toronto,Canada,North America,10.3,74.4,9.0,10.1,1004.3
+1961,2025-03-12,Sydney,Australia,Oceania,24.1,69.0,12.2,8.9,1017.9
+480,2025-01-30,Mumbai,India,Asia,26.4,62.6,2.0,16.2,1013.4
+324,2025-02-23,Singapore,Singapore,Asia,39.2,82.4,6.0,12.4,1019.9
+1218,2025-02-17,Toronto,Canada,North America,11.1,62.5,0.0,16.6,1012.8
+1468,2025-01-28,Lima,Peru,South America,21.6,74.7,0.0,15.1,1020.3
+1750,2025-02-09,Nairobi,KENYA,Africa,19.8,59.2,2.9,3.3,1011.1
+1876,2025-03-17,Cape Town,South Africa,Africa,18.3,48.5,6.9,12.6,1013.9
+1479,2025-02-08,Lima,Peru,South America,24.7,75.6,0.0,12.9,1013.3
+1553,2025-01-23,Cairo,Egypt,Africa,27.8,50.7,0.0,18.6,1021.8
+1865,2025-03-06,Cape Town,South Africa,Africa,19.5,61.8,,5.3,1004.3
+1575,2025-02-14,Cairo,Egypt,Africa,29.6,60.2,11.5,9.6,1029.9
+99,2025-01-09,Chiang Mai,Thailand,Asia,27.6,76.8,,9.8,1022.1
+155,2025-03-06,Chiang Mai,Thailand,Asia,32.4,60.5,7.5,20.8,1016.7
+425,2025-03-06,Beijing,China,Asia,22.6,51.3,1.9,13.4,1013.1
+297,2025-01-27,Singapore,Singapore,Asia,31.6,77.0,15.9,12.6,1014.3
+738,2025-01-18,Berlin,Germany,Europe,9.1,89.9,3.1,22.7,1012.1
+1970,2025-03-21,Sydney,Australia,Oceania,21.3,67.1,4.0,10.0,1017.1
+903,2025-01-03,New York,USA,North America,10.2,70.5,0.6,9.4,1011.9
+602,2025-03-03,London,UK,Europe,11.2,81.9,0.0,21.5,1010.2
+1000,2025-01-10,Los Angeles,USA,North America,18.6,60.7,13.5,19.8,1007.9
+1885,2025-03-26,Cape Town,South Africa,Africa,21.7,67.2,3.2,15.7,1018.2
+396,2025-02-05,Beijing,China,Asia,14.4,,5.8,10.4,1015.4
+427,2025-03-08,Beijing,China,Asia,17.8,45.2,4.7,18.6,1010.9
+1881,2025-03-22,Cape Town,South Africa,Africa,22.7,61.9,0.0,13.8,1016.7
+1584,2025-02-23,Cairo,Egypt,Africa,26.2,42.8,0.0,10.9,1015.8
+1550,2025-01-20,Cairo,Egypt,Africa,22.3,56.4,1.2,19.4,1021.4
+1556,2025-01-26,Cairo,Egypt,Africa,26.2,53.3,0.0,13.6,1007.4
+1039,2025-02-18,Los Angeles,USA,North America,19.4,54.7,3.2,11.5,1001.9
+253,2025-03-14,Tokyo,Japan,Asia,21.2,60.6,6.2,9.5,1014.0
+239,2025-02-28,Tokyo,Japan,Asia,19.7,,1.6,16.9,1003.4
+1145,2025-03-06,Mexico City,Mexico,North America,19.5,71.8,0.0,11.4,1010.3
+845,2025-02-04,Moscow,Russia,Europe,1.3,74.8,2.0,22.1,1004.8
+1310,2025-02-19,Sao Paulo,Brazil,South America,22.1,59.4,1.7,17.3,1016.5
+846,2025-02-05,Moscow,Russia,Europe,8.6,83.0,3.7,16.7,1013.1
+555,2025-01-15,London,UK,Europe,11.5,72.0,2.3,5.7,1010.1
+1221,2025-02-20,Toronto,Canada,North America,10.6,66.8,0.0,17.1,1007.6
+1370,2025-01-20,Buenos Aires,Argentina,South America,20.4,68.7,4.9,30.2,1007.0
+546,2025-01-06,London,UK,Europe,11.4,,8.4,10.5,1010.1
+251,2025-03-12,Tokyo,Japan,Asia,20.6,66.7,0.0,17.2,1020.4
+740,2025-01-20,Berlin,Germany,Europe,10.6,65.4,3.3,20.6,1011.7
+965,2025-03-06,New York,USA,North America,16.2,,0.0,14.9,1012.6
+1670,2025-02-19,Lagos,Nigeria,Africa,30.9,79.0,8.3,18.5,1020.7
+199,2025-01-19,Tokyo,Japan,Asia,17.8,43.7,3.0,10.9,1007.0
+1437,2025-03-28,Buenos Aires,Argentina,South America,22.8,65.1,5.9,9.4,1013.3
+1510,2025-03-11,Lima,Peru,South America,23.9,75.1,0.0,19.4,1023.1
+1455,2025-01-15,Lima,Peru,South America,15.7,76.9,4.6,13.6,1021.6
+898,2025-03-29,Moscow,Russia,Europe,5.0,,0.0,20.3,1013.0
+1886,2025-03-27,Cape Town,South Africa,Africa,21.0,57.2,0.0,3.1,1025.2
+1821,2025-01-21,Cape Town,South Africa,Africa,17.6,73.2,4.9,23.3,1007.1
+1315,2025-02-24,Sao Paulo,Brazil,South America,22.9,61.4,13.6,12.2,1014.0
+990,2025-03-31,New York,USA,North America,19.6,56.1,0.0,12.7,1015.6
+1041,2025-02-20,Los Angeles,USA,North America,20.3,50.9,1.6,19.6,1027.3
+1183,2025-01-13,Toronto,Canada,North America,11.2,64.3,8.0,17.4,1011.6
+244,2025-03-05,Tokyo,Japan,Asia,22.7,54.6,5.1,10.0,1025.9
+67,2025-03-08,Bangkok,Thailand,Asia,33.6,67.8,8.3,10.9,1018.9
+2002,2025-01-22,Auckland,New Zealand,Oceania,14.6,86.0,0.9,9.9,1017.9
+934,2025-02-03,New York,USA,North America,14.8,56.9,9.7,9.9,1013.2
+360,2025-03-31,Singapore,Singapore,Asia,30.1,77.4,5.8,21.5,1013.1
+96,2025-01-06,Chiang Mai,Thailand,Asia,26.8,69.6,6.2,33.5,
+1656,2025-02-05,Lagos,Nigeria,Africa,30.3,100.0,10.1,9.8,1019.8
+1529,2025-03-30,Lima,Peru,South America,17.8,75.7,0.0,15.0,1018.7
+1497,2025-02-26,Lima,Peru,South America,21.8,77.4,0.0,13.1,1011.0
+2041,2025-03-02,Auckland,New Zealand,Oceania,19.2,79.7,,15.3,1013.0
+1602,2025-03-13,Cairo,Egypt,Africa,28.2,45.8,6.0,13.1,1019.2
+2052,2025-03-13,Auckland,New Zealand,Oceania,15.4,83.5,3.0,12.4,1012.8
+522,2025-03-13,Mumbai,India,Asia,31.3,65.2,0.0,20.4,1020.6
+2045,2025-03-06,Auckland,New Zealand,Oceania,21.9,76.4,0.0,17.6,1020.6
+1555,2025-01-25,Cairo,Egypt,Africa,26.9,43.4,0.0,17.7,1017.9
+1433,2025-03-24,Buenos Aires,Argentina,South America,22.6,67.5,5.2,7.0,1008.5
+975,2025-03-16,New York,USA,North America,24.5,72.9,0.0,16.4,1009.4
+666,2025-02-05,Paris,France,Europe,15.5,72.0,0.6,8.4,1018.0
+362,2025-01-02,Beijing,China,Asia,9.2,47.1,4.0,5.5,1018.4
+1457,2025-01-17,Lima,Peru,South America,18.2,85.9,8.9,14.8,1020.5
+1456,2025-01-16,Lima,Peru,South America,18.3,66.6,0.7,14.5,1017.6
+485,2025-02-04,Mumbai,India,Asia,32.9,79.4,,14.7,1003.8
+1176,2025-01-06,Toronto,Canada,North America,7.0,52.1,4.5,10.1,1014.9
+1352,2025-01-02,Buenos Aires,Argentina,South America,12.2,70.8,5.0,27.4,1013.9
+1281,2025-01-21,Sao Paulo,Brazil,South America,22.2,65.5,3.5,18.0,1016.1
+312,2025-02-11,Singapore,Singapore,Asia,31.6,87.3,5.8,24.0,1011.4
+1864,2025-03-05,Cape Town,South Africa,Africa,16.7,62.7,0.0,12.2,1006.4
+1329,2025-03-10,Sao Paulo,Brazil,South America,21.0,86.4,1.6,11.0,1007.1
+1809,2025-01-09,Cape Town,South Africa,Africa,18.2,67.4,3.6,4.0,1011.2
+843,2025-02-02,Moscow,Russia,Europe,6.5,63.7,5.2,3.8,1013.3
+414,2025-02-23,Beijing,China,Asia,14.7,,1.5,23.5,1018.6
+1158,2025-03-19,Mexico City,Mexico,North America,22.4,57.1,10.8,4.5,1013.6
+32,2025-02-01,Bangkok,Thailand,Asia,30.3,89.9,9.9,7.9,1016.9
+766,2025-02-15,Berlin,Germany,Europe,15.8,60.6,4.0,22.1,1015.9
+1807,2025-01-07,Cape Town,South Africa,Africa,17.5,63.1,4.0,7.9,1012.8
+459,2025-01-09,Mumbai,India,Asia,33.0,77.8,6.3,10.2,1008.0
+1186,2025-01-16,Toronto,Canada,North America,7.9,70.4,3.7,22.1,1015.4
+340,2025-03-11,Singapore,Singapore,Asia,999.0,72.0,6.3,18.1,1014.1
+287,2025-01-17,Singapore,Singapore,Asia,29.9,86.5,12.4,11.5,1012.0
+1273,2025-01-13,Sao Paulo,Brazil,South America,23.1,81.0,2.9,19.1,1021.3
+506,2025-02-25,Mumbai,India,Asia,32.5,73.4,8.4,,1006.2
+950,2025-02-19,New York,USA,North America,15.3,63.1,,9.8,1013.6
+1604,2025-03-15,Cairo,Egypt,Africa,30.2,39.1,0.0,27.7,1018.9
+140,2025-02-19,Chiang Mai,Thailand,Asia,29.3,67.6,0.0,,1011.9
+849,2025-02-08,Moscow,Russia,Europe,2.9,75.1,0.0,19.2,1013.2
+1688,2025-03-09,Lagos,Nigeria,Africa,31.1,83.3,7.8,14.9,1016.1
+1026,2025-02-05,Los Angeles,USA,North America,18.6,52.8,0.9,15.9,1013.6
+1761,2025-02-20,Nairobi,Kenya,Africa,20.0,50.8,6.0,18.8,1015.4
+1232,2025-03-03,Toronto,CANADA,North America,13.6,63.7,0.0,15.6,1003.6
+1654,2025-02-03,Lagos,Nigeria,Africa,28.7,88.7,2.7,10.5,1017.8
+1139,2025-02-28,Mexico City,Mexico,North America,20.6,44.0,4.3,8.7,1023.3
+901,2025-01-01,New York,USA,North America,10.7,51.2,0.0,17.5,1011.7
+732,2025-01-12,Berlin,Germany,Europe,11.7,70.1,0.0,16.0,1026.3
+1929,2025-02-08,Sydney,Australia,Oceania,16.2,68.0,4.1,15.4,1011.7
+265,2025-03-26,Tokyo,Japan,Asia,20.1,64.2,3.7,17.9,1013.4
+275,2025-01-05,Singapore,Singapore,Asia,27.9,93.7,3.5,5.3,1021.8
+1095,2025-01-15,Mexico City,Mexico,North America,21.8,61.1,1.5,12.0,1012.0
+1665,2025-02-14,Lagos,Nigeria,Africa,24.8,71.4,14.2,24.8,1013.4
+445,2025-03-26,Beijing,China,Asia,16.1,39.8,5.0,-5.0,1009.1
+40,2025-02-09,Bangkok,Thailand,Asia,33.5,67.9,8.6,15.3,1006.1
+1123,2025-02-12,Mexico City,Mexico,North America,21.3,72.1,7.2,15.6,1009.9
+1265,2025-01-05,Sao Paulo,Brazil,South America,23.4,71.9,3.4,22.8,1010.1
+22,2025-01-22,Bangkok,Thailand,Asia,32.5,90.1,8.7,16.5,1012.6
+706,2025-03-17,Paris,France,Europe,12.9,70.4,11.3,4.0,1006.7
+1439,2025-03-30,Buenos Aires,Argentina,South America,22.4,68.3,2.7,20.9,1017.5
+518,2025-03-09,Mumbai,India,Asia,30.1,59.4,5.2,10.2,1012.6
+1174,2025-01-04,Toronto,Canada,North America,7.8,59.7,0.2,11.1,1010.7
+1850,2025-02-19,Cape Town,South Africa,Africa,18.1,68.1,0.0,23.0,1002.9
+1672,2025-02-21,Lagos,Nigeria,Africa,32.5,81.5,3.4,11.6,1009.4
+355,2025-03-26,Singapore,Singapore,Asia,32.1,93.6,6.5,16.2,1008.5
+1882,2025-03-23,Cape Town,South Africa,Africa,25.5,55.4,,12.7,1021.1
+298,2025-01-28,Singapore,Singapore,Asia,32.2,68.7,2.0,5.8,1020.6
+1077,2025-03-28,Los Angeles,USA,North America,20.5,50.0,0.0,25.1,1018.1
+840,2025-01-30,Moscow,Russia,Europe,5.7,76.8,0.0,0.0,1016.4
+1223,2025-02-22,Toronto,Canada,North America,14.8,54.9,4.9,9.8,1011.8
+925,2025-01-25,New York,USA,North America,13.5,75.8,0.0,19.6,1015.1
+123,2025-02-02,Chiang Mai,Thailand,Asia,30.8,64.6,,8.2,1027.7
+1228,2025-02-27,Toronto,Canada,North America,9.5,73.7,0.7,15.3,1018.7
+1092,2025-01-12,Mexico City,Mexico,North America,21.3,53.0,1.9,8.8,1011.8
+1248,2025-03-19,Toronto,Canada,North America,15.3,59.9,3.2,10.5,1015.2
+1152,2025-03-13,Mexico City,Mexico,North America,18.2,62.6,1.7,11.9,1018.1
+1680,2025-03-01,Lagos,Nigeria,Africa,32.7,89.4,7.7,19.1,1012.8
+1863,2025-03-04,Cape Town,South Africa,Africa,25.3,57.4,6.3,14.5,1012.2
+1982,2025-01-02,Auckland,New Zealand,Oceania,12.0,83.1,13.3,21.4,1021.5
+1164,2025-03-25,Mexico City,Mexico,North America,22.7,51.5,3.7,7.5,1011.4
+418,2025-02-27,Beijing,China,Asia,13.3,40.9,1.4,12.3,1021.7
+967,2025-03-08,New York,USA,North America,18.8,52.5,5.4,18.7,1001.5
+1243,2025-03-14,Toronto,Canada,North America,15.3,66.0,1.1,7.2,1007.6
+1571,2025-02-10,Cairo,Egypt,Africa,30.6,42.5,1.4,18.2,1007.0
+1867,2025-03-08,Cape Town,South Africa,Africa,24.2,62.5,0.0,20.2,1016.1
+158,2025-03-09,Chiang Mai,Thailand,Asia,33.4,71.7,6.8,14.6,1003.0
+1119,2025-02-08,Mexico City,Mexico,North America,18.1,,0.0,17.3,1019.7
+1280,2025-01-20,Sao Paulo,Brazil,South America,23.4,72.9,0.0,20.3,1004.4
+1616,2025-03-27,Cairo,Egypt,Africa,27.4,44.3,4.5,17.2,1021.0
+1668,2025-02-17,Lagos,Nigeria,Africa,30.9,74.2,1.6,15.9,1012.0
+1763,2025-02-22,Nairobi,Kenya,Africa,22.5,62.6,4.3,19.1,1014.9
+1064,2025-03-15,Los Angeles,USA,North America,21.2,42.9,0.1,13.8,1016.2
+1155,2025-03-16,Mexico City,Mexico,North America,25.6,56.7,5.8,10.0,1014.8
+1279,2025-01-19,Sao Paulo,Brazil,South America,16.4,72.0,0.0,11.0,1007.6
+190,2025-01-10,Tokyo,Japan,Asia,14.0,47.8,1.2,14.7,1014.5
+2037,2025-02-26,Auckland,New Zealand,Oceania,14.8,79.8,6.9,18.7,1009.2
+590,2025-02-19,London,UK,Europe,11.2,78.7,0.0,13.9,1003.2
+1427,2025-03-18,Buenos Aires,Argentina,South America,21.7,66.5,5.4,15.6,1010.7
+761,2025-02-10,Berlin,Germany,Europe,9.1,57.2,,,1007.6
+1063,2025-03-14,Los Angeles,USA,North America,21.1,64.9,0.0,16.1,1009.1
+243,2025-03-04,Tokyo,Japan,Asia,16.4,54.5,1.1,20.4,1011.2
+885,2025-03-16,Moscow,Russia,Europe,12.3,59.3,7.0,20.7,1007.6
+1378,2025-01-28,Buenos Aires,Argentina,South America,17.8,56.2,10.2,11.2,1012.4
+621,2025-03-22,London,UK,Europe,13.2,84.8,9.6,21.4,1008.6
+651,2025-01-21,Paris,France,Europe,14.9,74.4,5.6,21.3,1015.2
+1559,2025-01-29,Cairo,Egypt,Africa,25.2,38.7,0.0,12.3,1013.4
+504,2025-02-23,Mumbai,India,Asia,32.0,70.7,0.0,13.6,1007.9
+923,2025-01-23,New York,USA,North America,14.7,45.8,8.8,11.9,1013.3
+160,2025-03-11,Chiang Mai,Thailand,Asia,33.4,64.7,7.7,15.2,1013.2
+1419,2025-03-10,Buenos Aires,Argentina,South America,20.5,,0.0,22.1,1017.1
+883,2025-03-14,Moscow,Russia,Europe,7.1,67.5,0.0,0.0,1014.2
+538,2025-03-29,Mumbai,India,Asia,32.8,73.8,0.0,19.5,1016.7
+1720,2025-01-10,Nairobi,Kenya,Africa,19.2,56.5,8.2,8.6,1015.1
+241,2025-03-02,Tokyo,Japan,Asia,19.8,56.6,4.5,18.3,1013.3
+14,2025-01-14,Bangkok,Thailand,Asia,34.3,74.4,12.0,17.2,1009.1
+1682,2025-03-03,Lagos,Nigeria,Africa,24.6,98.4,0.2,11.2,1012.8
+476,2025-01-26,Mumbai,India,Asia,33.4,67.1,0.7,12.5,1014.6
+1990,2025-01-10,Auckland,New Zealand,Oceania,11.2,59.3,1.5,13.8,1020.8
+1956,2025-03-07,Sydney,Australia,Oceania,25.6,68.2,3.7,20.0,1015.2
+929,2025-01-29,New York,USA,North America,16.9,63.0,2.1,23.3,1016.8
+1339,2025-03-20,Sao Paulo,Brazil,South America,25.1,66.4,4.0,17.8,1016.1
+1386,2025-02-05,Buenos Aires,Argentina,South America,17.0,68.2,0.0,14.6,1006.6
+1615,2025-03-26,Cairo,Egypt,Africa,29.3,50.4,0.0,10.2,1000.6
+1345,2025-03-26,Sao Paulo,Brazil,South America,25.4,80.7,6.3,0.0,1010.0
+796,2025-03-17,Berlin,Germany,Europe,14.3,74.0,7.8,18.4,1006.7
+1764,2025-02-23,Nairobi,Kenya,Africa,22.4,57.9,4.3,17.9,1014.6
+1697,2025-03-18,Lagos,Nigeria,Africa,30.1,81.7,14.7,7.1,1024.9
+1589,2025-02-28,Cairo,Egypt,Africa,21.5,47.3,0.0,17.7,1015.5
+356,2025-03-27,Singapore,Singapore,Asia,28.7,75.1,8.9,12.4,1008.8
+1059,2025-03-10,Los Angeles,USA,North America,25.6,58.7,0.0,9.5,1020.9
+335,2025-03-06,Singapore,Singapore,Asia,31.0,77.1,7.4,9.5,1022.7
+689,2025-02-28,Paris,France,Europe,15.8,67.1,3.6,24.5,1017.2
+1401,2025-02-20,Buenos Aires,Argentina,South America,23.0,53.8,5.9,13.6,1017.2
+185,2025-01-05,Tokyo,Japan,Asia,19.0,51.8,4.5,10.8,1020.2
+824,2025-01-14,Moscow,Russia,Europe,5.0,66.1,0.0,12.3,1006.8
+1448,2025-01-08,Lima,Peru,South America,22.8,72.9,2.1,9.4,1007.0
+1964,2025-03-15,Sydney,Australia,Oceania,22.3,65.9,3.0,8.5,1019.7
+1350,2025-03-31,Sao Paulo,Brazil,South America,21.7,64.4,7.1,12.0,1011.9
+1002,2025-01-12,Los Angeles,USA,North America,15.6,,3.0,10.6,1012.2
+188,2025-01-08,Tokyo,Japan,Asia,15.3,51.8,6.8,16.5,1009.6
+942,2025-02-11,New York,USA,North America,15.3,73.3,1.1,20.7,1012.8
+285,2025-01-15,Singapore,Singapore,Asia,30.4,88.6,7.5,10.0,1006.7
+1416,2025-03-07,Buenos Aires,Argentina,South America,24.8,74.4,11.2,18.4,1012.1
+900,2025-03-31,Moscow,Russia,Europe,13.2,61.6,6.3,2.0,1005.8
+2050,2025-03-11,Auckland,New Zealand,Oceania,17.4,,6.5,19.8,1013.0
+166,2025-03-17,Chiang Mai,Thailand,Asia,34.5,77.6,2.9,12.5,1011.3
+348,2025-03-19,Singapore,Singapore,Asia,27.9,71.6,4.7,20.7,1023.3
+299,2025-01-29,Singapore,Singapore,Asia,28.5,100.0,6.7,16.1,1022.3
+536,2025-03-27,Mumbai,India,Asia,27.1,72.8,0.0,15.6,1011.4
+230,2025-02-19,Tokyo,Japan,Asia,19.1,51.2,0.0,24.6,1007.9
+1884,2025-03-25,Cape Town,South Africa,Africa,18.7,78.9,3.5,15.6,1011.5
+1852,2025-02-21,Cape Town,South Africa,Africa,18.9,58.3,0.0,31.6,1011.5
+1719,2025-01-09,Nairobi,Kenya,Africa,23.3,46.9,11.7,15.8,1012.4
+1880,2025-03-21,Cape Town,South Africa,Africa,22.7,,0.1,11.8,1016.8
+42,2025-02-11,Bangkok,Thailand,Asia,30.3,79.1,10.1,18.1,
+869,2025-02-28,Moscow,Russia,Europe,10.8,69.5,9.8,21.2,1009.1
+749,2025-01-29,Berlin,Germany,Europe,10.1,74.2,3.3,16.0,1007.0
+2016,2025-02-05,Auckland,New Zealand,Oceania,16.5,72.7,0.0,17.2,1006.8
+1887,2025-03-28,Cape Town,South Africa,Africa,23.1,58.4,0.9,11.2,1022.3
+1612,2025-03-23,Cairo,Egypt,Africa,28.1,45.6,0.0,16.1,1007.1
+1568,2025-02-07,Cairo,Egypt,Africa,23.4,50.6,0.0,13.3,1010.8
+447,2025-03-28,Beijing,China,Asia,15.3,51.3,0.0,20.4,1005.7
+1472,2025-02-01,Lima,Peru,South America,23.3,77.4,0.1,7.8,1024.7
+350,2025-03-21,Singapore,Singapore,Asia,32.5,87.8,11.0,16.1,1019.0
+46,2025-02-15,Bangkok,Thailand,Asia,35.6,75.5,3.7,10.7,1017.1
+2026,2025-02-15,Auckland,New Zealand,Oceania,17.5,81.8,0.0,16.0,1006.1
+741,2025-01-21,Berlin,Germany,Europe,14.1,81.6,0.0,10.0,1012.2
+109,2025-01-19,Chiang Mai,Thailand,Asia,30.4,56.0,7.1,23.6,998.2
+1642,2025-01-22,Lagos,Nigeria,Africa,27.4,86.9,,8.5,1015.1
+1686,2025-03-07,Lagos,Nigeria,Africa,30.5,88.6,3.4,4.3,1009.8
+30,2025-01-30,Bangkok,Thailand,Asia,33.9,65.1,2.7,18.1,1014.8
+182,2025-01-02,Tokyo,Japan,Asia,16.3,49.1,7.0,18.9,
+622,2025-03-23,London,UK,Europe,,67.7,5.3,17.7,1001.8
+1444,2025-01-04,Lima,Peru,South America,20.7,70.3,7.2,8.3,1002.6
+635,2025-01-05,Paris,France,Europe,10.0,76.9,0.0,19.7,1007.0
+2053,2025-03-14,Auckland,New Zealand,Oceania,18.9,85.2,6.4,14.1,1017.6
+105,2025-01-15,Chiang Mai,Thailand,Asia,23.8,69.3,2.3,,1008.4
+61,2025-03-02,Bangkok,Thailand,Asia,31.4,70.5,11.0,18.7,1012.9
+659,2025-01-29,Paris,France,Europe,17.5,52.1,8.1,17.0,1005.8
+1108,2025-01-28,Mexico City,Mexico,North America,25.1,49.6,1.6,7.6,1018.7
+491,2025-02-10,Mumbai,India,Asia,28.3,63.3,5.7,10.7,1017.1
+316,2025-02-15,Singapore,Singapore,Asia,30.8,67.1,13.7,10.6,1008.1
+1475,2025-02-04,Lima,Peru,South America,21.8,75.5,0.0,3.5,1015.8
+382,2025-01-22,Beijing,China,Asia,15.6,32.4,0.0,7.8,1013.9
+423,2025-03-04,Beijing,China,Asia,15.2,43.7,2.2,9.0,1017.4
+1521,2025-03-22,Lima,Peru,South America,22.6,70.9,2.9,9.9,1014.8
+2033,2025-02-22,Auckland,New Zealand,Oceania,14.4,76.6,5.1,14.4,998.1
+1764,2025-02-23,Nairobi,Kenya,Africa,22.4,57.9,4.3,17.9,1014.6
+1548,2025-01-18,Cairo,Egypt,Africa,20.0,66.7,,16.3,1016.7
+446,2025-03-27,Beijing,China,Asia,20.3,56.4,0.0,3.8,1019.0
+664,2025-02-03,Paris,France,Europe,15.3,71.6,0.0,21.7,1026.9
+1025,2025-02-04,Los Angeles,USA,North America,16.8,51.5,0.0,14.6,1017.1
+780,2025-03-01,Berlin,Germany,Europe,15.9,81.1,4.8,17.6,1015.3
+1530,2025-03-31,Lima,Peru,South America,21.6,60.0,9.2,9.0,1006.6
+627,2025-03-28,London,UK,Europe,14.8,77.7,0.0,24.0,1013.2
+1482,2025-02-11,Lima,Peru,South America,25.8,72.0,3.8,3.7,1020.1
+1513,2025-03-14,Lima,Peru,South America,19.0,66.0,4.9,20.2,1015.2
+1113,2025-02-02,Mexico City,Mexico,North America,16.5,57.8,0.5,19.5,1013.2
+1508,2025-03-09,Lima,Peru,South America,20.0,71.5,0.0,10.6,1011.1
+1485,2025-02-14,Lima,Peru,South America,20.7,74.9,0.0,21.2,1002.2
+1102,2025-01-22,Mexico City,Mexico,North America,20.6,49.6,0.0,13.6,1012.1
+269,2025-03-30,Tokyo,Japan,Asia,20.4,60.0,5.7,22.1,1018.7
+930,2025-01-30,New York,USA,North America,19.0,50.9,2.9,5.3,1011.6
+1148,2025-03-09,Mexico City,Mexico,North America,20.0,62.6,8.6,11.2,1013.6
+1322,2025-03-03,Sao Paulo,Brazil,South America,19.2,65.5,5.8,10.3,1014.2
+1906,2025-01-16,Sydney,Australia,Oceania,17.0,55.5,4.8,16.1,1012.1
+1120,2025-02-09,Mexico City,Mexico,North America,15.2,61.3,1.9,15.7,1015.8
+1758,2025-02-17,Nairobi,Kenya,Africa,22.5,65.0,2.8,19.1,1008.7
+12,2025-01-12,Bangkok,Thailand,Asia,33.1,68.3,6.8,17.0,1018.9
+115,2025-01-25,Chiang Mai,Thailand,Asia,28.7,78.4,6.3,13.7,1018.0
+844,2025-02-03,Moscow,Russia,Europe,8.6,82.9,0.1,16.9,1002.2
+1453,2025-01-13,Lima,Peru,South America,24.8,75.1,2.5,23.2,1012.1
+1282,2025-01-22,Sao Paulo,Brazil,South America,24.8,71.3,6.2,12.4,1014.1
+1756,2025-02-15,Nairobi,Kenya,Africa,18.4,57.3,8.6,21.9,1012.0
+1974,2025-03-25,Sydney,Australia,Oceania,21.9,67.6,3.5,17.3,1011.1
+1789,2025-03-20,Nairobi,Kenya,Africa,26.4,74.7,3.4,17.1,1007.1
+353,2025-03-24,Singapore,Singapore,Asia,36.1,85.9,9.3,5.4,1011.5
+2059,2025-03-20,Auckland,New Zealand,Oceania,16.4,66.9,0.5,14.0,1013.6
+774,2025-02-23,Berlin,Germany,Europe,11.4,72.6,8.6,15.8,1019.0
+1980,2025-03-31,Sydney,Australia,Oceania,20.1,61.5,,24.7,1018.7
+691,2025-03-02,Paris,France,Europe,14.3,62.0,2.5,11.6,995.4
+1947,2025-02-26,Sydney,Australia,Oceania,18.1,74.3,8.1,7.5,1021.1
+791,2025-03-12,Berlin,Germany,Europe,15.0,63.3,10.7,18.4,1009.5
+532,2025-03-23,Mumbai,India,Asia,34.1,61.3,9.6,16.0,1016.3
+868,2025-02-27,Moscow,Russia,Europe,6.7,54.7,4.0,2.6,1011.1
+170,2025-03-21,Chiang Mai,Thailand,Asia,32.2,67.3,14.8,11.2,1009.8
+1185,2025-01-15,Toronto,Canada,North America,13.2,66.3,5.6,15.5,1002.5
+1554,2025-01-24,Cairo,Egypt,Africa,24.5,65.8,0.0,19.2,1020.0
+751,2025-01-31,Berlin,Germany,Europe,10.6,72.6,7.0,12.3,1008.8
+1820,2025-01-20,Cape Town,South Africa,Africa,18.7,54.9,0.0,15.6,1010.0
+592,2025-02-21,London,UK,Europe,18.5,85.5,2.1,21.8,1006.4
+808,2025-03-29,Berlin,Germany,Europe,16.4,74.1,1.1,14.9,1008.9
+1084,2025-01-04,Mexico City,Mexico,North America,18.9,54.9,0.0,11.6,1005.9
+1045,2025-02-24,Los Angeles,USA,North America,25.7,55.1,0.1,9.4,1030.6
+1449,2025-01-09,Lima,Peru,South America,21.3,,0.0,11.1,1017.2
+653,2025-01-23,Paris,France,Europe,12.9,72.4,0.0,22.0,1017.0
+1667,2025-02-16,Lagos,Nigeria,Africa,29.4,91.1,7.6,19.3,
+1240,2025-03-11,Toronto,Canada,North America,12.4,53.6,1.1,13.2,1010.9
+245,2025-03-06,Tokyo,Japan,Asia,16.6,62.5,6.5,17.5,1011.9
+1388,2025-02-07,Buenos Aires,Argentina,South America,21.6,79.6,1.2,12.4,1005.2
+2023,2025-02-12,Auckland,New Zealand,Oceania,16.0,92.9,1.3,15.5,1011.3
+60,2025-03-01,Bangkok,Thailand,Asia,31.7,82.2,9.2,19.9,1016.8
+1246,2025-03-17,Toronto,Canada,North America,12.0,,4.6,20.0,1009.2
+177,2025-03-28,Chiang Mai,Thailand,Asia,37.3,60.8,3.0,21.3,1017.1
+450,2025-03-31,Beijing,China,Asia,17.3,,0.0,13.9,1018.5
+56,2025-02-25,Bangkok,Thailand,Asia,34.4,150.0,5.6,15.4,1010.7
+1973,2025-03-24,Sydney,Australia,Oceania,23.5,68.8,5.1,8.6,1013.7
+1093,2025-01-13,Mexico City,Mexico,North America,17.8,63.3,7.4,10.5,1001.2
+1769,2025-02-28,Nairobi,Kenya,Africa,20.6,65.8,3.7,13.3,1015.6
+1738,2025-01-28,Nairobi,Kenya,Africa,21.7,51.0,9.5,27.2,1013.9
+1210,2025-02-09,Toronto,Canada,North America,,65.0,9.1,6.9,1007.8
+642,2025-01-12,Paris,France,Europe,11.1,65.8,6.3,20.4,1015.7
