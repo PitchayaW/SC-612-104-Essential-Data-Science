@@ -2,7 +2,7 @@
 
 ## Slides:
 - What is Data Science? [link](https://docs.google.com/presentation/d/151uKrQHlIqTyhzw5qEA4d2UcGSTR3-JcSEkJGOsP_O8/edit?usp=sharing)
-- Data Cleaning [link](https://docs.google.com/presentation/d/1ChaYM9uNj4Ex--YzdvZnl-Xc76aehFYm5TtvO3Pe0LE/edit?usp=sharing)
+- Data Preparation [link](https://docs.google.com/presentation/d/1ChaYM9uNj4Ex--YzdvZnl-Xc76aehFYm5TtvO3Pe0LE/edit?usp=sharing)
 
 ## Resources:
 - Python Learning [link](https://pro-python.streamlit.app)
