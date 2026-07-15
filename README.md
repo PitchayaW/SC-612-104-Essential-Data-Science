@@ -3,6 +3,7 @@
 ## Slides:
 - What is Data Science? [link](https://docs.google.com/presentation/d/151uKrQHlIqTyhzw5qEA4d2UcGSTR3-JcSEkJGOsP_O8/edit?usp=sharing)
 - Data Preparation [link](https://docs.google.com/presentation/d/1ChaYM9uNj4Ex--YzdvZnl-Xc76aehFYm5TtvO3Pe0LE/edit?usp=sharing)
+- RDBMS + ER Diagram [link](https://docs.google.com/presentation/d/1w-LpkBPxlHBX-B0oD8sqCSu1c6Cr7Ni5rkzGJVv_NNc/edit?usp=sharing)
 
 ## Resources:
 - Python Learning [link](https://pro-python.streamlit.app)
