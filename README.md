@@ -7,6 +7,7 @@
 
 ## Resources:
 - Python Learning [link](https://pro-python.streamlit.app)
+- Git Usage [link](https://docs.google.com/presentation/d/1el_47l0DqXxoDFltwtghJAwxy4dGJlPzqS4A0t3sVN4/edit?usp=sharing)
 
 ## Notebooks:
 - Hello Wolrd! [link](https://github.com/PitchayaW/SC-612-104-Essential-Data-Science/blob/915b1f4331f30819078392c9b2170e970caf029a/Module-A-Notebooks/Hello%20World.ipynb)
