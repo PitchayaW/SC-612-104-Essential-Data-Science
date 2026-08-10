@@ -1,0 +1,894 @@
+{
+  "customers": [
+    {
+      "customer_id": 1,
+      "first_name": "สมชาย",
+      "last_name": "ใจดี",
+      "email": "somchai.j@example.com",
+      "city": "Bangkok",
+      "signup_date": "2023-01-15"
+    },
+    {
+      "customer_id": 2,
+      "first_name": "มานี",
+      "last_name": "รักเรียน",
+      "email": "manee.r@example.com",
+      "city": "Bangkok",
+      "signup_date": "2023-03-02"
+    },
+    {
+      "customer_id": 3,
+      "first_name": "ปิยะ",
+      "last_name": "ศรีสุข",
+      "email": "piya.s@example.com",
+      "city": "Chiang Mai",
+      "signup_date": "2023-05-19"
+    },
+    {
+      "customer_id": 4,
+      "first_name": "วรรณา",
+      "last_name": "พงษ์ไพศาล",
+      "email": "wanna.p@example.com",
+      "city": "Phuket",
+      "signup_date": "2023-07-08"
+    },
+    {
+      "customer_id": 5,
+      "first_name": "ธนกร",
+      "last_name": "วัฒนชัย",
+      "email": "thanakorn.w@example.com",
+      "city": "Khon Kaen",
+      "signup_date": "2023-08-21"
+    },
+    {
+      "customer_id": 6,
+      "first_name": "อารีย์",
+      "last_name": "สุวรรณ",
+      "email": "aree.s@example.com",
+      "city": "Bangkok",
+      "signup_date": "2023-09-30"
+    },
+    {
+      "customer_id": 7,
+      "first_name": "กิตติ",
+      "last_name": "ชัยมงคล",
+      "email": "kitti.c@example.com",
+      "city": "Nonthaburi",
+      "signup_date": "2023-11-11"
+    },
+    {
+      "customer_id": 8,
+      "first_name": "นภัสสร",
+      "last_name": "ทองดี",
+      "email": "napassorn.t@example.com",
+      "city": "Chiang Mai",
+      "signup_date": "2024-01-05"
+    },
+    {
+      "customer_id": 9,
+      "first_name": "ชลธิชา",
+      "last_name": "แก้วใส",
+      "email": "chonthicha.k@example.com",
+      "city": "Bangkok",
+      "signup_date": "2024-02-14"
+    },
+    {
+      "customer_id": 10,
+      "first_name": "ภาณุพงศ์",
+      "last_name": "เรืองศรี",
+      "email": "panupong.r@example.com",
+      "city": "Chonburi",
+      "signup_date": "2024-03-22"
+    },
+    {
+      "customer_id": 11,
+      "first_name": "สุดารัตน์",
+      "last_name": "พันธุ์ดี",
+      "email": "sudarat.p@example.com",
+      "city": "Bangkok",
+      "signup_date": "2024-04-18"
+    },
+    {
+      "customer_id": 12,
+      "first_name": "ณัฐวุฒิ",
+      "last_name": "อินทร์จันทร์",
+      "email": "nattawut.i@example.com",
+      "city": "Nakhon Ratchasima",
+      "signup_date": "2024-06-02"
+    },
+    {
+      "customer_id": 13,
+      "first_name": "พิมพ์ชนก",
+      "last_name": "ศิริวงศ์",
+      "email": "pimchanok.s@example.com",
+      "city": "Phuket",
+      "signup_date": "2024-07-27"
+    },
+    {
+      "customer_id": 14,
+      "first_name": "อดิศักดิ์",
+      "last_name": "บุญมี",
+      "email": "adisak.b@example.com",
+      "city": "Khon Kaen",
+      "signup_date": "2024-08-15"
+    },
+    {
+      "customer_id": 15,
+      "first_name": "กมลชนก",
+      "last_name": "แสงทอง",
+      "email": "kamonchanok.s@example.com",
+      "city": "Bangkok",
+      "signup_date": "2024-09-09"
+    },
+    {
+      "customer_id": 16,
+      "first_name": "ธีรภัทร",
+      "last_name": "โพธิ์ทอง",
+      "email": "teerapat.p@example.com",
+      "city": "Chiang Mai",
+      "signup_date": "2024-10-30"
+    },
+    {
+      "customer_id": 17,
+      "first_name": "ศิริพร",
+      "last_name": "นาคเกษม",
+      "email": "siriporn.n@example.com",
+      "city": "Songkhla",
+      "signup_date": "2024-12-12"
+    },
+    {
+      "customer_id": 18,
+      "first_name": "วีระชัย",
+      "last_name": "จันทร์เพ็ญ",
+      "email": "weerachai.j@example.com",
+      "city": "Nonthaburi",
+      "signup_date": "2025-01-20"
+    },
+    {
+      "customer_id": 19,
+      "first_name": "ปาริชาต",
+      "last_name": "ทองอินทร์",
+      "email": "parichat.t@example.com",
+      "city": "Chonburi",
+      "signup_date": "2025-02-25"
+    },
+    {
+      "customer_id": 20,
+      "first_name": "ณิชา",
+      "last_name": "เกษมสุข",
+      "email": "nicha.k@example.com",
+      "city": "Khon Kaen",
+      "signup_date": "2025-03-16"
+    }
+  ],
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "หูฟังไร้สาย รุ่น Pro",
+      "category": "อิเล็กทรอนิกส์",
+      "unit_price": 1290.0,
+      "stock_quantity": 45
+    },
+    {
+      "product_id": 2,
+      "product_name": "เมาส์ไร้สาย ergonomic",
+      "category": "อิเล็กทรอนิกส์",
+      "unit_price": 590.0,
+      "stock_quantity": 120
+    },
+    {
+      "product_id": 3,
+      "product_name": "คีย์บอร์ดกลไก RGB",
+      "category": "อิเล็กทรอนิกส์",
+      "unit_price": 2490.0,
+      "stock_quantity": 18
+    },
+    {
+      "product_id": 4,
+      "product_name": "ลำโพงบลูทูธพกพา",
+      "category": "อิเล็กทรอนิกส์",
+      "unit_price": 890.0,
+      "stock_quantity": 60
+    },
+    {
+      "product_id": 5,
+      "product_name": "สายชาร์จ USB-C 1 เมตร",
+      "category": "อิเล็กทรอนิกส์",
+      "unit_price": 250.0,
+      "stock_quantity": 200
+    },
+    {
+      "product_id": 6,
+      "product_name": "เสื้อยืดคอกลม สีขาว",
+      "category": "เสื้อผ้า",
+      "unit_price": 290.0,
+      "stock_quantity": 150
+    },
+    {
+      "product_id": 7,
+      "product_name": "เสื้อเชิ้ตแขนยาว ลายทาง",
+      "category": "เสื้อผ้า",
+      "unit_price": 690.0,
+      "stock_quantity": 80
+    },
+    {
+      "product_id": 8,
+      "product_name": "กางเกงยีนส์ ทรงกระบอก",
+      "category": "เสื้อผ้า",
+      "unit_price": 890.0,
+      "stock_quantity": 55
+    },
+    {
+      "product_id": 9,
+      "product_name": "เสื้อแจ็คเก็ตกันลม",
+      "category": "เสื้อผ้า",
+      "unit_price": 1290.0,
+      "stock_quantity": 25
+    },
+    {
+      "product_id": 10,
+      "product_name": "ถุงเท้าข้อสั้น แพ็ค 3 คู่",
+      "category": "เสื้อผ้า",
+      "unit_price": 120.0,
+      "stock_quantity": 240
+    },
+    {
+      "product_id": 11,
+      "product_name": "กระติกน้ำสแตนเลส 500 มล.",
+      "category": "เครื่องใช้ในบ้าน",
+      "unit_price": 590.0,
+      "stock_quantity": 95
+    },
+    {
+      "product_id": 12,
+      "product_name": "ผ้าห่มขนนุ่ม ขนาด 6 ฟุต",
+      "category": "เครื่องใช้ในบ้าน",
+      "unit_price": 790.0,
+      "stock_quantity": 40
+    },
+    {
+      "product_id": 13,
+      "product_name": "โคมไฟตั้งโต๊ะ LED",
+      "category": "เครื่องใช้ในบ้าน",
+      "unit_price": 450.0,
+      "stock_quantity": 70
+    },
+    {
+      "product_id": 14,
+      "product_name": "หมอนยางพารา เพื่อสุขภาพ",
+      "category": "เครื่องใช้ในบ้าน",
+      "unit_price": 1450.0,
+      "stock_quantity": 12
+    },
+    {
+      "product_id": 15,
+      "product_name": "หนังสือสถิติเบื้องต้น",
+      "category": "หนังสือ",
+      "unit_price": 450.0,
+      "stock_quantity": 65
+    },
+    {
+      "product_id": 16,
+      "product_name": "นิยายแปล เล่มพิเศษ",
+      "category": "หนังสือ",
+      "unit_price": 320.0,
+      "stock_quantity": 88
+    },
+    {
+      "product_id": 17,
+      "product_name": "หนังสือสอนทำอาหารไทย",
+      "category": "หนังสือ",
+      "unit_price": 380.0,
+      "stock_quantity": 52
+    },
+    {
+      "product_id": 18,
+      "product_name": "สมุดโน้ต A5 ปกแข็ง",
+      "category": "หนังสือ",
+      "unit_price": 85.0,
+      "stock_quantity": 300
+    },
+    {
+      "product_id": 19,
+      "product_name": "กระเป๋าสะพายข้าง ผ้าแคนวาส",
+      "category": "กระเป๋าและเครื่องหนัง",
+      "unit_price": 750.0,
+      "stock_quantity": 34
+    },
+    {
+      "product_id": 20,
+      "product_name": "กระเป๋าเป้ใส่โน้ตบุ๊ก 15 นิ้ว",
+      "category": "กระเป๋าและเครื่องหนัง",
+      "unit_price": 1150.0,
+      "stock_quantity": 22
+    },
+    {
+      "product_id": 21,
+      "product_name": "กระเป๋าสตางค์หนังแท้",
+      "category": "กระเป๋าและเครื่องหนัง",
+      "unit_price": 480.0,
+      "stock_quantity": 8
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 1001,
+      "customer_id": 1,
+      "order_date": "2025-01-05",
+      "status": "completed"
+    },
+    {
+      "order_id": 1002,
+      "customer_id": 3,
+      "order_date": "2025-01-07",
+      "status": "completed"
+    },
+    {
+      "order_id": 1003,
+      "customer_id": 6,
+      "order_date": "2025-01-11",
+      "status": "completed"
+    },
+    {
+      "order_id": 1004,
+      "customer_id": 2,
+      "order_date": "2025-01-14",
+      "status": "shipped"
+    },
+    {
+      "order_id": 1005,
+      "customer_id": 9,
+      "order_date": "2025-01-18",
+      "status": "completed"
+    },
+    {
+      "order_id": 1006,
+      "customer_id": 5,
+      "order_date": "2025-01-22",
+      "status": "cancelled"
+    },
+    {
+      "order_id": 1007,
+      "customer_id": 1,
+      "order_date": "2025-01-26",
+      "status": "completed"
+    },
+    {
+      "order_id": 1008,
+      "customer_id": 11,
+      "order_date": "2025-01-29",
+      "status": "shipped"
+    },
+    {
+      "order_id": 1009,
+      "customer_id": 4,
+      "order_date": "2025-02-02",
+      "status": "completed"
+    },
+    {
+      "order_id": 1010,
+      "customer_id": 1,
+      "order_date": "2025-02-04",
+      "status": "pending"
+    },
+    {
+      "order_id": 1011,
+      "customer_id": 6,
+      "order_date": "2025-02-06",
+      "status": "completed"
+    },
+    {
+      "order_id": 1012,
+      "customer_id": 3,
+      "order_date": "2025-02-09",
+      "status": "shipped"
+    },
+    {
+      "order_id": 1013,
+      "customer_id": 8,
+      "order_date": "2025-02-11",
+      "status": "completed"
+    },
+    {
+      "order_id": 1014,
+      "customer_id": 1,
+      "order_date": "2025-02-13",
+      "status": "shipped"
+    },
+    {
+      "order_id": 1015,
+      "customer_id": 6,
+      "order_date": "2025-02-15",
+      "status": "pending"
+    },
+    {
+      "order_id": 1016,
+      "customer_id": 2,
+      "order_date": "2025-02-17",
+      "status": "completed"
+    },
+    {
+      "order_id": 1017,
+      "customer_id": 13,
+      "order_date": "2025-02-19",
+      "status": "cancelled"
+    },
+    {
+      "order_id": 1018,
+      "customer_id": 2,
+      "order_date": "2025-02-21",
+      "status": "completed"
+    },
+    {
+      "order_id": 1019,
+      "customer_id": 10,
+      "order_date": "2025-02-23",
+      "status": "shipped"
+    },
+    {
+      "order_id": 1020,
+      "customer_id": 9,
+      "order_date": "2025-02-25",
+      "status": "completed"
+    },
+    {
+      "order_id": 1021,
+      "customer_id": 3,
+      "order_date": "2025-02-26",
+      "status": "pending"
+    },
+    {
+      "order_id": 1022,
+      "customer_id": 15,
+      "order_date": "2025-02-28",
+      "status": "completed"
+    },
+    {
+      "order_id": 1023,
+      "customer_id": 11,
+      "order_date": "2025-03-03",
+      "status": "completed"
+    },
+    {
+      "order_id": 1024,
+      "customer_id": 7,
+      "order_date": "2025-03-06",
+      "status": "shipped"
+    },
+    {
+      "order_id": 1025,
+      "customer_id": 14,
+      "order_date": "2025-03-09",
+      "status": "pending"
+    },
+    {
+      "order_id": 1026,
+      "customer_id": 6,
+      "order_date": "2025-03-12",
+      "status": "completed"
+    },
+    {
+      "order_id": 1027,
+      "customer_id": 16,
+      "order_date": "2025-03-15",
+      "status": "shipped"
+    },
+    {
+      "order_id": 1028,
+      "customer_id": 4,
+      "order_date": "2025-03-18",
+      "status": "pending"
+    },
+    {
+      "order_id": 1029,
+      "customer_id": 18,
+      "order_date": "2025-03-21",
+      "status": "completed"
+    },
+    {
+      "order_id": 1030,
+      "customer_id": 8,
+      "order_date": "2025-03-24",
+      "status": "cancelled"
+    },
+    {
+      "order_id": 1031,
+      "customer_id": 15,
+      "order_date": "2025-03-26",
+      "status": "shipped"
+    },
+    {
+      "order_id": 1032,
+      "customer_id": 12,
+      "order_date": "2025-03-28",
+      "status": "pending"
+    }
+  ],
+  "order_items": [
+    {
+      "order_item_id": 1,
+      "order_id": 1001,
+      "product_id": 1,
+      "quantity": 1,
+      "unit_price": 1290.0
+    },
+    {
+      "order_item_id": 2,
+      "order_id": 1001,
+      "product_id": 5,
+      "quantity": 2,
+      "unit_price": 250.0
+    },
+    {
+      "order_item_id": 3,
+      "order_id": 1002,
+      "product_id": 6,
+      "quantity": 3,
+      "unit_price": 290.0
+    },
+    {
+      "order_item_id": 4,
+      "order_id": 1002,
+      "product_id": 10,
+      "quantity": 2,
+      "unit_price": 120.0
+    },
+    {
+      "order_item_id": 5,
+      "order_id": 1003,
+      "product_id": 3,
+      "quantity": 1,
+      "unit_price": 2490.0
+    },
+    {
+      "order_item_id": 6,
+      "order_id": 1004,
+      "product_id": 19,
+      "quantity": 1,
+      "unit_price": 750.0
+    },
+    {
+      "order_item_id": 7,
+      "order_id": 1004,
+      "product_id": 21,
+      "quantity": 1,
+      "unit_price": 480.0
+    },
+    {
+      "order_item_id": 8,
+      "order_id": 1005,
+      "product_id": 15,
+      "quantity": 2,
+      "unit_price": 450.0
+    },
+    {
+      "order_item_id": 9,
+      "order_id": 1005,
+      "product_id": 18,
+      "quantity": 5,
+      "unit_price": 85.0
+    },
+    {
+      "order_item_id": 10,
+      "order_id": 1006,
+      "product_id": 4,
+      "quantity": 1,
+      "unit_price": 890.0
+    },
+    {
+      "order_item_id": 11,
+      "order_id": 1007,
+      "product_id": 2,
+      "quantity": 2,
+      "unit_price": 590.0
+    },
+    {
+      "order_item_id": 12,
+      "order_id": 1007,
+      "product_id": 5,
+      "quantity": 1,
+      "unit_price": 250.0
+    },
+    {
+      "order_item_id": 13,
+      "order_id": 1008,
+      "product_id": 11,
+      "quantity": 2,
+      "unit_price": 590.0
+    },
+    {
+      "order_item_id": 14,
+      "order_id": 1008,
+      "product_id": 13,
+      "quantity": 1,
+      "unit_price": 450.0
+    },
+    {
+      "order_item_id": 15,
+      "order_id": 1009,
+      "product_id": 8,
+      "quantity": 1,
+      "unit_price": 890.0
+    },
+    {
+      "order_item_id": 16,
+      "order_id": 1009,
+      "product_id": 7,
+      "quantity": 1,
+      "unit_price": 690.0
+    },
+    {
+      "order_item_id": 17,
+      "order_id": 1010,
+      "product_id": 16,
+      "quantity": 2,
+      "unit_price": 320.0
+    },
+    {
+      "order_item_id": 18,
+      "order_id": 1011,
+      "product_id": 20,
+      "quantity": 1,
+      "unit_price": 1150.0
+    },
+    {
+      "order_item_id": 19,
+      "order_id": 1011,
+      "product_id": 18,
+      "quantity": 3,
+      "unit_price": 85.0
+    },
+    {
+      "order_item_id": 20,
+      "order_id": 1012,
+      "product_id": 9,
+      "quantity": 1,
+      "unit_price": 1290.0
+    },
+    {
+      "order_item_id": 21,
+      "order_id": 1013,
+      "product_id": 12,
+      "quantity": 2,
+      "unit_price": 790.0
+    },
+    {
+      "order_item_id": 22,
+      "order_id": 1013,
+      "product_id": 11,
+      "quantity": 1,
+      "unit_price": 590.0
+    },
+    {
+      "order_item_id": 23,
+      "order_id": 1014,
+      "product_id": 5,
+      "quantity": 4,
+      "unit_price": 250.0
+    },
+    {
+      "order_item_id": 24,
+      "order_id": 1014,
+      "product_id": 10,
+      "quantity": 3,
+      "unit_price": 120.0
+    },
+    {
+      "order_item_id": 25,
+      "order_id": 1015,
+      "product_id": 17,
+      "quantity": 1,
+      "unit_price": 380.0
+    },
+    {
+      "order_item_id": 26,
+      "order_id": 1015,
+      "product_id": 15,
+      "quantity": 1,
+      "unit_price": 450.0
+    },
+    {
+      "order_item_id": 27,
+      "order_id": 1016,
+      "product_id": 1,
+      "quantity": 1,
+      "unit_price": 1290.0
+    },
+    {
+      "order_item_id": 28,
+      "order_id": 1016,
+      "product_id": 4,
+      "quantity": 1,
+      "unit_price": 890.0
+    },
+    {
+      "order_item_id": 29,
+      "order_id": 1017,
+      "product_id": 14,
+      "quantity": 1,
+      "unit_price": 1450.0
+    },
+    {
+      "order_item_id": 30,
+      "order_id": 1018,
+      "product_id": 6,
+      "quantity": 2,
+      "unit_price": 290.0
+    },
+    {
+      "order_item_id": 31,
+      "order_id": 1018,
+      "product_id": 7,
+      "quantity": 1,
+      "unit_price": 690.0
+    },
+    {
+      "order_item_id": 32,
+      "order_id": 1018,
+      "product_id": 10,
+      "quantity": 1,
+      "unit_price": 120.0
+    },
+    {
+      "order_item_id": 33,
+      "order_id": 1019,
+      "product_id": 13,
+      "quantity": 2,
+      "unit_price": 450.0
+    },
+    {
+      "order_item_id": 34,
+      "order_id": 1020,
+      "product_id": 21,
+      "quantity": 1,
+      "unit_price": 480.0
+    },
+    {
+      "order_item_id": 35,
+      "order_id": 1020,
+      "product_id": 18,
+      "quantity": 2,
+      "unit_price": 85.0
+    },
+    {
+      "order_item_id": 36,
+      "order_id": 1021,
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price": 590.0
+    },
+    {
+      "order_item_id": 37,
+      "order_id": 1022,
+      "product_id": 19,
+      "quantity": 1,
+      "unit_price": 750.0
+    },
+    {
+      "order_item_id": 38,
+      "order_id": 1022,
+      "product_id": 6,
+      "quantity": 1,
+      "unit_price": 290.0
+    },
+    {
+      "order_item_id": 39,
+      "order_id": 1023,
+      "product_id": 3,
+      "quantity": 1,
+      "unit_price": 2490.0
+    },
+    {
+      "order_item_id": 40,
+      "order_id": 1023,
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price": 590.0
+    },
+    {
+      "order_item_id": 41,
+      "order_id": 1024,
+      "product_id": 12,
+      "quantity": 1,
+      "unit_price": 790.0
+    },
+    {
+      "order_item_id": 42,
+      "order_id": 1024,
+      "product_id": 14,
+      "quantity": 1,
+      "unit_price": 1450.0
+    },
+    {
+      "order_item_id": 43,
+      "order_id": 1025,
+      "product_id": 16,
+      "quantity": 1,
+      "unit_price": 320.0
+    },
+    {
+      "order_item_id": 44,
+      "order_id": 1025,
+      "product_id": 17,
+      "quantity": 2,
+      "unit_price": 380.0
+    },
+    {
+      "order_item_id": 45,
+      "order_id": 1026,
+      "product_id": 9,
+      "quantity": 2,
+      "unit_price": 1290.0
+    },
+    {
+      "order_item_id": 46,
+      "order_id": 1027,
+      "product_id": 11,
+      "quantity": 1,
+      "unit_price": 590.0
+    },
+    {
+      "order_item_id": 47,
+      "order_id": 1027,
+      "product_id": 18,
+      "quantity": 4,
+      "unit_price": 85.0
+    },
+    {
+      "order_item_id": 48,
+      "order_id": 1028,
+      "product_id": 20,
+      "quantity": 1,
+      "unit_price": 1150.0
+    },
+    {
+      "order_item_id": 49,
+      "order_id": 1029,
+      "product_id": 8,
+      "quantity": 1,
+      "unit_price": 890.0
+    },
+    {
+      "order_item_id": 50,
+      "order_id": 1029,
+      "product_id": 10,
+      "quantity": 2,
+      "unit_price": 120.0
+    },
+    {
+      "order_item_id": 51,
+      "order_id": 1030,
+      "product_id": 4,
+      "quantity": 2,
+      "unit_price": 890.0
+    },
+    {
+      "order_item_id": 52,
+      "order_id": 1031,
+      "product_id": 15,
+      "quantity": 1,
+      "unit_price": 450.0
+    },
+    {
+      "order_item_id": 53,
+      "order_id": 1031,
+      "product_id": 16,
+      "quantity": 1,
+      "unit_price": 320.0
+    },
+    {
+      "order_item_id": 54,
+      "order_id": 1031,
+      "product_id": 18,
+      "quantity": 2,
+      "unit_price": 85.0
+    },
+    {
+      "order_item_id": 55,
+      "order_id": 1032,
+      "product_id": 5,
+      "quantity": 3,
+      "unit_price": 250.0
+    }
+  ]
+}
